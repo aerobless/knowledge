@@ -1,6 +1,2 @@
----
-description: test
----
-
 # Operating Systems
 
