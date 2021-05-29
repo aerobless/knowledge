@@ -6,7 +6,7 @@ description: Test edit
 
 test
 
-```json
+```javascript
 msg.payload = msg.payload.data.metrics.map(metric => {
 
     //e.g. measurement for 01.01.2020 of active_energy
