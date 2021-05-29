@@ -1,2 +1,2 @@
-# knowledge
-personal wiki
+# Initial page
+
