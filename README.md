@@ -6,6 +6,12 @@ description: Test edit
 
 test
 
+
+
+{% embed url="https://gist.github.com/aerobless/2c466e1643c26b2081f4ff0afec5f1a2" %}
+
+
+
 ```javascript
 msg.payload = msg.payload.data.metrics.map(metric => {
 
@@ -48,17 +54,13 @@ test
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.youtube.com/watch?v=208gyh8L0Q0" %}
+{% embed url="https://www.youtube.com/watch?v=208gyh8L0Q0" caption="" %}
 
 > dddddddd
 
-
-
 * [ ] ddd
 * [ ] ddd
 * [ ] ddd
-
-
 
 ![test](.gitbook/assets/supervisor.png)
 
