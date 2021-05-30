@@ -21,4 +21,4 @@
 * [Homebrew](http://brew.sh/): Packet manager, like apt-get on linux, simplifies installing development dependencies etc.
 * [Google Chrome](https://www.google.com/chrome/): Browser of choice
 * [Notion](https://www.notion.so/): Personal note-taking & organisation app
-* 
+
