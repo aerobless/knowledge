@@ -8,4 +8,5 @@
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality.md)
 * [SaaS](saas.md)
+* [Quantified Self](quantified-self.md)
 
