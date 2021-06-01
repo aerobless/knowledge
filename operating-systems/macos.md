@@ -7,11 +7,6 @@
 * Command: `lsof -ti:port | xargs kill`
 * Example Usage: `lsof -ti:8080 | xargs kill`
 
-### SCP
-
-* Upload: `scp filename.txt username@ipOrDomain.ch:/var/lib/location/on/server`
-* Download: `scp username@ipOrDomain.ch:/var/lib/location/on/server/filename.txt ./`
-
 ## Shortcuts
 
 * Show/hide hidden files in Finder: `CMD + SHIFT + .`
