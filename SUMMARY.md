@@ -14,5 +14,6 @@
 * [SaaS](saas.md)
 * [Quantified Self](quantified-self.md)
 * [Books](books.md)
+* [YouTube](youtube.md)
 * [Crafting & DIY](crafting-and-diy.md)
 
