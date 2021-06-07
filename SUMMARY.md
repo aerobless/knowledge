@@ -16,4 +16,6 @@
 * [Books](books.md)
 * [YouTube](youtube.md)
 * [Crafting & DIY](crafting-and-diy.md)
+* [Travel](travel/README.md)
+  * [France](travel/france.md)
 
