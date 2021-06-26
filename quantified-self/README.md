@@ -18,6 +18,7 @@ I use [InfluxDB](https://www.influxdata.com/), a time series database in combina
 
 * Location history via [Google Maps Timeline](https://www.google.com/maps/timeline)
 * Music I listen to via [Last.fm](https://www.last.fm/)
+* Books on Goodreads
 
 ## Notes
 
