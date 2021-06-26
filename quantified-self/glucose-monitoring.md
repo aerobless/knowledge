@@ -12,6 +12,7 @@ This seems to be the next big health thing. Real time continuous glucose monitor
 * Startups that do glucose monitoring for health/fitness benefits:
   * [Nutrisense](https://www.nutrisense.io/how-it-works)
   * [Levels](https://www.levelshealth.com/)
+    * [How it's applied \(YouTube\)](https://www.youtube.com/watch?v=XrbnuCsYkcs)
 * Currently it seems to be too expensive at 160CHF/month --&gt; 2000 CHF/year but I'd be curious to try it if it comes down in price to half of that
 
  
