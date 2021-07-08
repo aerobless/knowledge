@@ -10,6 +10,10 @@ description: >-
 
 Vaadin claims to be the only framework focused on building PWAs on the Java platform. It's vendor-backed open source and a stable foundation to build on. It also claims to have best-in-class components to make building highly usable applications easy.
 
+### Vaadin Training
+
+[https://vaadin.com/learn/training/v14](https://vaadin.com/learn/training/v14)
+
 ### Create a new project
 
 1. Go to [https://vaadin.com/start](https://vaadin.com/start)
@@ -35,4 +39,9 @@ Vaadin 14 makes use of webcomponents, some advantages are:
 
 1. npm install --save @sample/sample-component
 2. Create Java class to connect frontend component to backend `@Tag("sample-component") @JsModule("@sample/sample-component.js") public class SampleComponent extends Component{}`
-3. 
+
+### Tools
+
+* **Testbench**: Starts up a browser and runs UI tests against application. Based on selenium.
+* **Vaadin Designer:** IDE plugin for IntelliJ. Visual tool to create Vaadin applications with drag and drop.
+* 
