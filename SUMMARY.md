@@ -9,6 +9,7 @@
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java.md)
   * [Python](programming/python.md)
+  * [Vaadin](programming/vaadin.md)
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality.md)
 * [SaaS](saas.md)
