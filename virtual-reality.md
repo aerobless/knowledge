@@ -4,6 +4,8 @@ I own a [Oculus Quest 2](https://www.oculus.com/quest-2/) headset which I use re
 
 I do get affected by motion sickness in VR games where a lot of joystick movement is required so I mostly enjoy playing games that are room-scale or have good motion-sickness suppressing movement strategies implemented. A game with excellent movement is for example "Until you fall".
 
+You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com/u/2142697109132096).
+
 ## Great games for the Oculus Quest
 
 * [BeatSaber](https://beatsaber.com/): Probably my favourite game of all time and the "killer-app" of VR.
