@@ -32,4 +32,5 @@ You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com
 
 * [BSaber](https://bsaber.com/): Best site to download & install custom songs. If you're using the Mod Manager for PCVR you can one-click install songs directly to BeatSaber. If you play on a modded Quest version it's best to download the songs normally and then upload them all at once into the web interface of BMBF.
   * There's also a lot of low quality / weird maps on BSaber so it's best to always sort them by "TOP" to get the highest upvoted songs first. If you're just getting started go through the [All-time top songs](https://bsaber.com/songs/top/?time=all) first, there's a ton of good ones.
+* Ranked songs: Scoresaber will only give you points for playing ranked songs. Generally these are maps that have a high quality and have been reviewed and ranked by difficulty. To find ranked songs you can check the ["ranked" box on BSaber](https://bsaber.com/songs/top/?time=all&ranked=true).
 
