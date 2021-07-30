@@ -19,6 +19,7 @@ You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com
 
 * [Downgrade BeatSaber Version on Oculus Store](https://computerelite.github.io/tools/Oculus/RiftDowngraderGuide.html): Needed when a new version is released and the mods aren't updated yet. It's also a good idea to disable auto-updates in the Oculus Store App.
 * [Mod Manager for PCVR](https://github.com/Assistant/ModAssistant): One stop shop for all modding needs: custom songs, score saber, custom song support for multiplayer, playlist manager etc.
+* [Prevent Steam from auto-updating BeatSaber](https://github.com/kinsi55/BeatSaber_UpdateSkipper#beatsaber-updateskipper): Since I have the oculus version I don't need this, but it might be helpful to some.
 
 ### Oculus Quest \(Standalone\)
 
