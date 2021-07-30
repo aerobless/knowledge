@@ -28,3 +28,8 @@ You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com
 * [BeatSaver - Alternative source for custom songs](https://beatsaver.com/browse/hot)
 * [Playlist Editor Pro](https://playlisteditorpro.com/): Windows application to organise playlists and more importantly allows for fast-switching between the modded version of BeatSaber and the retail version. This is important because the modded version can't connect to the official BeatSaber servers for multiplayer & highscores. Since I'm a mac user I run this application in a Parallels Windows VM occasionally. 
 
+### Where to get custom songs
+
+* [BSaber](https://bsaber.com/): Best site to download & install custom songs. If you're using the Mod Manager for PCVR you can one-click install songs directly to BeatSaber. If you play on a modded Quest version it's best to download the songs normally and then upload them all at once into the web interface of BMBF.
+  * There's also a lot of low quality / weird maps on BSaber so it's best to always sort them by "TOP" to get the highest upvoted songs first. If you're just getting started go through the [All-time top songs](https://bsaber.com/songs/top/?time=all) first, there's a ton of good ones.
+
