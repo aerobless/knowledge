@@ -13,7 +13,14 @@ You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com
 * [FitXR](https://fitxr.com/): A great virtual workout. Although less fun then BeatSaber it still gets me moving when I don't want to leave the building for a workout.
 * [In death unchained](https://www.oculus.com/experiences/quest/2334376869949242/?locale=en_US): Archery rogue-lite game set in a version of heaven & purgatory. Has excellent replay value and fairly good movement controls.
 
-## BeatSaber Modding
+## BeatSaber
+
+### PCVR
+
+* [Downgrade BeatSaber Version on Oculus Store](https://computerelite.github.io/tools/Oculus/RiftDowngraderGuide.html): Needed when a new version is released and the mods aren't updated yet. It's also a good idea to disable auto-updates in the Oculus Store App.
+* [Mod Manager for PCVR](https://github.com/Assistant/ModAssistant): One stop shop for all modding needs: custom songs, score saber, custom song support for multiplayer, playlist manager etc.
+
+### Oculus Quest \(Standalone\)
 
 * [BMBF - Install custom songs on BeatSaber for Oculus Quest](https://bmbf.dev/stable)
 * [BSaber - Source for custom songs](https://bsaber.com/): To get good songs it's best to sort them by "Top" and go through the list by rating.
