@@ -4,6 +4,10 @@
 * [Spatial audio source settings](https://subscription.packtpub.com/book/game_development/9781787286450/1/01lvl1sec12/3d-sound-and-spatial-blending)
 * [Rider doesn't autocomplete Unity classes:](https://rider-support.jetbrains.com/hc/en-us/community/posts/360010059320--Resolved-RIDER-2020-02-04-Rider-doesn-t-autocomplete-anything-from-Unity) Editor is probably not set correctly
 
+## Problems & Solutions
+
+* Particles are only visible on one eye & looking weird/disappearing on the other This may be due to [single-pass rendering \(default\) vs multi-pass rendering.](https://docs.unity3d.com/2020.1/Documentation/Manual/SinglePassStereoRendering.html) Changing this to multi-pass rendering may fix the problem but require more resources. 
+
 ## Resources
 
 In the context of this section free means that the resources can be used both commercial and non-commercial without paying a fee. Depending on the license attribution may be required however.
