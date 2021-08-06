@@ -2,8 +2,6 @@
 
 ## Unity Notes
 
-
-
 * **Audio**
   * [Spatial audio source settings](https://subscription.packtpub.com/book/game_development/9781787286450/1/01lvl1sec12/3d-sound-and-spatial-blending)
 * **Programming/IDE**
