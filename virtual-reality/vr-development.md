@@ -1,8 +1,11 @@
 # VR Development
 
+## Unity Notes
+
 * [Setting up ragdoll physics in Unity](https://www.youtube.com/watch?v=DInV-jHm9rk)
 * [Spatial audio source settings](https://subscription.packtpub.com/book/game_development/9781787286450/1/01lvl1sec12/3d-sound-and-spatial-blending)
 * [Rider doesn't autocomplete Unity classes:](https://rider-support.jetbrains.com/hc/en-us/community/posts/360010059320--Resolved-RIDER-2020-02-04-Rider-doesn-t-autocomplete-anything-from-Unity) Editor is probably not set correctly
+* [Have NPC sit in a a chair](https://www.youtube.com/watch?v=bRIpwQUUN24)
 
 ## Problems & Solutions
 
@@ -20,6 +23,11 @@ In the context of this section free means that the resources can be used both co
 ### Sounds
 
 * [Freesound.org: ](https://freesound.org/)A ton of free sound effects and even some music. Generally free, but most assets require attribution under CC3.0 and some assets may not allow commercial use \(cc-nc3.0\). Be sure to check the license for each asset.
+
+### Animations
+
+* [Mixamo](https://www.mixamo.com/#/): Auto-rigging and free animations. 
+* [Carngie Mocap Lib \(Unity Store\)](https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-1-19991)
 
 ### Various \(game objects, models, textures, sounds, scripts\)
 
