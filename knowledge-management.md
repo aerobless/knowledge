@@ -7,3 +7,5 @@ Other people that have personal wikis / Inspiration for this site:
   * [LearnAnything.xyz](https://learn-anything.xyz/)
 * [Samsquire: One hundred Ideas for Computing](https://samsquire.github.io/ideas/)
 
+For software see [Note Taking](https://aerobless.gitbook.io/wiki/saas#note-taking)
+
