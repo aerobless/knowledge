@@ -11,6 +11,7 @@
   * [Python](programming/python.md)
   * [Vaadin](programming/vaadin.md)
   * [CSS](programming/css.md)
+  * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality/README.md)
   * [VR Development](virtual-reality/vr-development/README.md)
