@@ -1,3 +1,9 @@
+---
+description: >-
+  This probably could also be a page on game development, but since I'm mainly
+  interested in game development for VR it's named as such.
+---
+
 # VR Development
 
 ## Unity Notes
