@@ -14,6 +14,7 @@ description: >-
   * [Unity HDRP vs URP](https://www.youtube.com/watch?v=5MuA92xUJCA)
 * **Programming/IDE**
   * [Rider doesn't autocomplete Unity classes:](https://rider-support.jetbrains.com/hc/en-us/community/posts/360010059320--Resolved-RIDER-2020-02-04-Rider-doesn-t-autocomplete-anything-from-Unity) Editor is probably not set correctly
+  * [Rotate gizmo correctly with player](https://stackoverflow.com/questions/57982000/how-to-change-the-orientation-for-an-overlapbox-and-a-gizmo) 
 * **Characters**
   * [Have NPC sit in a a chair](https://www.youtube.com/watch?v=bRIpwQUUN24)
   * [Active idle: have NPC move head with dynamic animations](https://www.youtube.com/watch?v=T7AdzwW7n2I)
