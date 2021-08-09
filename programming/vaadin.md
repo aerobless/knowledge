@@ -44,4 +44,8 @@ Vaadin 14 makes use of webcomponents, some advantages are:
 
 * **Testbench**: Starts up a browser and runs UI tests against application. Based on selenium.
 * **Vaadin Designer:** IDE plugin for IntelliJ. Visual tool to create Vaadin applications with drag and drop.
-* 
+
+## Notes
+
+* [Testing the UI without a browser \(Vaadin.com\)](https://vaadin.com/blog/testing-the-ui-without-a-browser)
+
