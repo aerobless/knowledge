@@ -20,6 +20,7 @@ description: >-
   * [Active idle: have NPC move head with dynamic animations](https://www.youtube.com/watch?v=T7AdzwW7n2I)
   * [Setting up ragdoll physics in Unity](https://www.youtube.com/watch?v=DInV-jHm9rk)
   * [Inverse kinematics for grabbing things](https://docs.unity3d.com/Manual/InverseKinematics.html)
+    * [Smooth grab speed](https://forum.unity.com/threads/how-to-smooth-ik-setikpositionweight.324836/)
 
 ## Problems & Solutions
 
