@@ -17,8 +17,9 @@ description: >-
   * [Rotate gizmo correctly with player](https://stackoverflow.com/questions/57982000/how-to-change-the-orientation-for-an-overlapbox-and-a-gizmo) 
 * **Characters**
   * [Have NPC sit in a a chair](https://www.youtube.com/watch?v=bRIpwQUUN24)
-  * [Active idle: have NPC move head with dynamic animations](https://www.youtube.com/watch?v=T7AdzwW7n2I)
   * [Setting up ragdoll physics in Unity](https://www.youtube.com/watch?v=DInV-jHm9rk)
+  * [Active idle: have NPC move head with dynamic animations](https://www.youtube.com/watch?v=T7AdzwW7n2I)
+    * [Procedural animations \(Animation Rigging\)](https://www.youtube.com/watch?v=saOHaHKSOi0&t=1s)
   * [Inverse kinematics for grabbing things](https://docs.unity3d.com/Manual/InverseKinematics.html)
     * [Smooth grab speed](https://forum.unity.com/threads/how-to-smooth-ik-setikpositionweight.324836/)
 
