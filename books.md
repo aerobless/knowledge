@@ -6,3 +6,12 @@ When I say reading I'm also including listening to audiobooks, which is somethin
 
 
 
+## Ebooks
+
+### Utilities
+
+* [WebToEpub \(Chrome Extension\)](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm?hl=en): Used to download and convert web serials such as "[The Wandering Inn](https://wanderinginn.com/)" to a epub file which can be read on common ebook readers.
+* [Calibre](https://calibre-ebook.com/): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
+
+
+
