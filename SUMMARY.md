@@ -24,6 +24,7 @@
 * [Crafting & DIY](crafting-and-diy/README.md)
   * [Woodworking](crafting-and-diy/woodworking.md)
 * [Travel](travel/README.md)
+  * [USA](travel/usa.md)
   * [Ukraine](travel/ukraine.md)
   * [Sweden](travel/sweden.md)
   * [Languages](travel/languages.md)
