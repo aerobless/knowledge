@@ -12,6 +12,10 @@
 * Upload: `scp filename.txt username@ipOrDomain.ch:/var/lib/location/on/server`
 * Download: `scp username@ipOrDomain.ch:/var/lib/location/on/server/filename.txt ./`
 
+## System locations
+
+* Hosts file: `../../etc/hosts`
+
 ## Shortcuts
 
 * Show/hide hidden files in Finder: `CMD + SHIFT + .`
@@ -31,6 +35,5 @@
 ## Tricks
 
 * [Disable Device Enrollment Program \(DEP\)](https://gist.github.com/henrik242/65d26a7deca30bdb9828e183809690bd): Allows dual booting mac OS on a enrolled mac
-
-
+  * `gdmf.apple.com` needs to be re-enabled for macOS updates
 
