@@ -28,3 +28,9 @@
 * [Notion](https://www.notion.so/): Personal note-taking & organisation app
 * [Parallels](https://www.parallels.com/): Although you need to buy an upgrade for almost every new version of macOS it's still the best virtualisation software for mac. I use it occasionally when I need to run windows software. It's main advantage over competitors \(e.g. VirtualBox\) is that it support GPU acceleration and advanced chipset virtualisation without any special configuration. It is also very well integrated into macOS. It's perfectly possible to run 3D games in a Parallels VM when necessary.
 
+## Tricks
+
+* [Disable Device Enrollment Program \(DEP\)](https://gist.github.com/henrik242/65d26a7deca30bdb9828e183809690bd): Allows dual booting mac OS on a enrolled mac
+
+
+
