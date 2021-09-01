@@ -12,6 +12,12 @@
 * Upload: `scp filename.txt username@ipOrDomain.ch:/var/lib/location/on/server`
 * Download: `scp username@ipOrDomain.ch:/var/lib/location/on/server/filename.txt ./`
 
+### Recovery
+
+* Boot to Recovery Mode: hold `cmd-R` during reboot
+* Disable system protection to make protected changes \(e.g. disable/uninstall daemons\): `csrutil disable`
+* Re-enable system protection: `csrutil enable`
+
 ## System locations
 
 * Hosts file: `../../etc/hosts`
