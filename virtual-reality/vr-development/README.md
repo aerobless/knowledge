@@ -22,6 +22,9 @@ description: >-
     * [Procedural animations \(Animation Rigging\)](https://www.youtube.com/watch?v=saOHaHKSOi0&t=1s)
   * [Inverse kinematics for grabbing things](https://docs.unity3d.com/Manual/InverseKinematics.html)
     * [Smooth grab speed](https://forum.unity.com/threads/how-to-smooth-ik-setikpositionweight.324836/)
+* Physics
+  * [Performance Optimizations](https://www.youtube.com/watch?v=pTz3LMQpvfA)
+    * [NonAlloc Collider Collection](https://youtu.be/pTz3LMQpvfA?t=617)
 
 ## Problems & Solutions
 
