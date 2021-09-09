@@ -34,3 +34,28 @@ There is also a discovery component involved. The game should not prompt you to 
       * gather water from well
       * gather mushrooms or other food items
 
+## Tasks
+
+* [ ] Inn Customer Loop
+  * [ ] Player can control customers by switching sign from closed to open
+  * [ ] Customer walks from city to inn
+  * [ ] Customer AI avoids player with pathfinding obstacle
+  * [x] Customer enters inn
+  * [x] Customer sits down
+  * [x] Customer takes beer
+    * [ ] customer checks if beer mug is full before taking it
+  * [x] Customer drinks beer
+    * [ ] beer is emptied for each drink
+  * [ ] Customer drops empty mug on table
+  * [ ] Customer gets up and leaves inn
+* [ ] Cleaning Inn Loop
+  * [ ] Dropping food creates dirt
+  * [x] Dirt can be cleaned up
+  * [x] Cleaning dirt spawn dirt slime
+  * [x] Dirt slime runs away
+  * [x] Dirt slime can be killed
+* [ ] Items & Fun
+  * [x] Bottle that breaks
+  * [x] Mug
+  * [ ] Ladder for climbing
+* [ ] 
