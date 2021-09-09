@@ -28,6 +28,13 @@ description: >-
 * **Performance**
   * [Draw Call Performance Optimisations](https://www.youtube.com/watch?v=IrYPkSIvpIw)
 
+
+
+## Blender Notes
+
+* **Texturing**
+  * [Painting with layers in Blender](https://www.youtube.com/watch?v=fCRivuw9N7U)
+
 ## Problems & Solutions
 
 * Particles are only visible on one eye & looking weird/disappearing on the other This may be due to [single-pass rendering \(default\) vs multi-pass rendering.](https://docs.unity3d.com/2020.1/Documentation/Manual/SinglePassStereoRendering.html) Changing this to multi-pass rendering may fix the problem but require more resources. 
