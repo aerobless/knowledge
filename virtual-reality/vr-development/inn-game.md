@@ -47,7 +47,13 @@ There is also a discovery component involved. The game should not prompt you to 
   * [x] Customer drinks beer
     * [ ] beer is emptied for each drink
   * [ ] Customer drops empty mug on table
+  * [ ] Customer drops money on table
+    * [ ] Model for coins
+    * [ ] Depending on happiness customer gives more or less coins
   * [ ] Customer gets up and leaves inn
+  * [ ] Player gathers coins and puts them in safe / cashiers register
+  * [ ] Used dishes are considered dirty
+    * [ ] Player can wash used dishes
 * [ ] Cleaning Inn Loop
   * [ ] Dropping food creates dirt
   * [x] Dirt can be cleaned up
@@ -70,4 +76,10 @@ There is also a discovery component involved. The game should not prompt you to 
   * [ ] Pan attack / other kitchen weapons
     * [ ] Unerring throw
   * [ ] "No killing goblins" sign
+* [ ] Overall gameplay state tracking
+  * [ ] Track how much dirt there is in the inn
+    * [ ] much dirt affects customer happiness
+  * [ ] Track how much gold the player has earned
+  * [ ] Track customer happiness
+  * [ ] Display stats in ledger for innkeeper
 
