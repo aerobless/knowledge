@@ -28,8 +28,6 @@ description: >-
 * **Performance**
   * [Draw Call Performance Optimisations](https://www.youtube.com/watch?v=IrYPkSIvpIw)
 
-
-
 ## Blender Notes
 
 * **Texturing**
