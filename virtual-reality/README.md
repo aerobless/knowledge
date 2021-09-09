@@ -6,6 +6,11 @@ I do get affected by motion sickness in VR games where a lot of joystick movemen
 
 You can find my rank playing custom songs on [ScoreSaber](https://scoresaber.com/u/2142697109132096).
 
+## Favourite PC VR Games
+
+* [Half-Life Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/): The best VR game out at the moment. Interesting story-based shooter with great graphics, physics, puzzles and everything that makes a AAA game. Supports room-scale, played it standing.
+* [Lone Echo](https://www.oculus.com/experiences/rift/1368187813209608/?locale=en_US): This game made me feel like I'm actually in space. Great graphics, cool story that starts out a bit slow but gets really exciting by the end, almost perfect simulation of manoeuvring in space. Supports room-scale, but played it sitting because you use your hands to move around mostly anyway.
+
 ## Great games for the Oculus Quest
 
 * [BeatSaber](https://beatsaber.com/): Probably my favourite game of all time and the "killer-app" of VR.
