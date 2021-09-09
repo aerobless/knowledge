@@ -32,6 +32,8 @@ description: >-
 
 * **Texturing**
   * [Painting with layers in Blender](https://www.youtube.com/watch?v=fCRivuw9N7U)
+* **Modelling**
+  * [Fix non-uniform scale, set everything to 1 1 1](https://blender.stackexchange.com/questions/31769/how-to-set-the-current-scale-to-1)
 
 ## Problems & Solutions
 
