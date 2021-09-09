@@ -58,4 +58,16 @@ There is also a discovery component involved. The game should not prompt you to 
   * [x] Bottle that breaks
   * [x] Mug
   * [ ] Ladder for climbing
-* [ ] 
+* [ ] Goblin Attack
+  * [ ] Goblin NPC rigged and animated
+  * [ ] Goblin AI that walk to inn
+    * [ ] Goblins stay in group / group logic
+  * [ ] Goblins can attack player
+  * [ ] Goblins can attack customers / other NPCs
+  * [ ] Goblins die
+    * [ ] Pathfinding agent is exchanged for ragdoll
+  * [ ] Dead goblin can be burned / buried
+  * [ ] Pan attack / other kitchen weapons
+    * [ ] Unerring throw
+  * [ ] "No killing goblins" sign
+
