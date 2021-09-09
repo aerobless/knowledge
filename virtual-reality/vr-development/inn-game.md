@@ -82,4 +82,9 @@ There is also a discovery component involved. The game should not prompt you to 
   * [ ] Track how much gold the player has earned
   * [ ] Track customer happiness
   * [ ] Display stats in ledger for innkeeper
+* [ ] Market
+  * [ ] player can use coins to buy additional items and or ingredients for inn
+* [ ] Saving
+  * [ ] player can save game
+  * [ ] player can start game from save
 
