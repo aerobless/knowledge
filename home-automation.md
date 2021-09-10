@@ -10,3 +10,10 @@ Home Automation is a bit of a hobby of mine. Which is why I've [documented my se
 * [Frenck's Home Assistant configuration](https://github.com/frenck/home-assistant-config)
 * [Unofficial Google Home REST API](https://rithvikvibhu.github.io/GHLocalApi/#header-getting-started)
 
+
+
+## Notes
+
+* **Grafana**
+  * [Enable Flux for Home Assistant Influx Addon](https://community.home-assistant.io/t/flux-in-grafana/197155/33)
+
