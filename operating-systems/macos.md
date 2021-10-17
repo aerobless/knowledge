@@ -15,7 +15,7 @@
 ### Recovery
 
 * Boot to Recovery Mode: hold `cmd-R` during reboot
-* Disable system protection to make protected changes \(e.g. disable/uninstall daemons\): `csrutil disable`
+* Disable system protection to make protected changes (e.g. disable/uninstall daemons): `csrutil disable`
 * Re-enable system protection: `csrutil enable`
 
 ## System locations
@@ -28,19 +28,18 @@
 
 ## Useful apps
 
-* [Visual Studio Code](https://code.visualstudio.com/): Free text editor/mini IDE of choice when not using IntelliJ.
-* [Spectacle](https://www.spectacleapp.com/): Re-size windows with keyboard commands \(e.g. use half, quarter screen etc.\)
+* [Visual Studio Code](https://code.visualstudio.com): Free text editor/mini IDE of choice when not using IntelliJ.
+* [Spectacle](https://www.spectacleapp.com): Re-size windows with keyboard commands (e.g. use half, quarter screen etc.)
 * [Owly](https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12): Prevent the mac from falling asleep, useful when streaming video to TV
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl): Lets me control the volume & brightness of my external monitor \(connected via USB-C & Thunderbolt Dock\) via the native mac keys. Normally macOS doesn't allow this making it awkward to change the audio volume when connected to the external monitor.
-* [iTerm2](https://www.iterm2.com/): Terminal replacement
-* [Homebrew](http://brew.sh/): Packet manager, like apt-get on linux, simplifies installing development dependencies etc.
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl): Lets me control the volume & brightness of my external monitor (connected via USB-C & Thunderbolt Dock) via the native mac keys. Normally macOS doesn't allow this making it awkward to change the audio volume when connected to the external monitor.
+* [iTerm2](https://www.iterm2.com): Terminal replacement
+* [Homebrew](http://brew.sh): Packet manager, like apt-get on linux, simplifies installing development dependencies etc.
 * [Google Chrome](https://www.google.com/chrome/): Browser of choice
-* [Notion](https://www.notion.so/): Personal note-taking & organisation app
-* [Parallels](https://www.parallels.com/): Although you need to buy an upgrade for almost every new version of macOS it's still the best virtualisation software for mac. I use it occasionally when I need to run windows software. It's main advantage over competitors \(e.g. VirtualBox\) is that it support GPU acceleration and advanced chipset virtualisation without any special configuration. It is also very well integrated into macOS. It's perfectly possible to run 3D games in a Parallels VM when necessary.
-* [Anki](https://apps.ankiweb.net/): Flash card manager to learn vocabulary etc. It supports syncing with a web-based version and has algorithms for learning. It's also available for windows, linux and mobile. Although the mobile client is not free.
+* [Notion](https://www.notion.so): Personal note-taking & organisation app
+* [Parallels](https://www.parallels.com): Although you need to buy an upgrade for almost every new version of macOS it's still the best virtualisation software for mac. I use it occasionally when I need to run windows software. It's main advantage over competitors (e.g. VirtualBox) is that it support GPU acceleration and advanced chipset virtualisation without any special configuration. It is also very well integrated into macOS. It's perfectly possible to run 3D games in a Parallels VM when necessary.
+* [Anki](https://apps.ankiweb.net): Flash card manager to learn vocabulary etc. It supports syncing with a web-based version and has algorithms for learning. It's also available for windows, linux and mobile. Although the mobile client is not free.
 
 ## Tricks
 
-* [Disable Device Enrollment Program \(DEP\)](https://gist.github.com/henrik242/65d26a7deca30bdb9828e183809690bd): Allows dual booting mac OS on a enrolled mac
+* [Disable Device Enrollment Program (DEP)](https://gist.github.com/henrik242/65d26a7deca30bdb9828e183809690bd): Allows dual booting mac OS on a enrolled mac
   * `gdmf.apple.com` needs to be re-enabled for macOS updates
-

@@ -10,5 +10,3 @@
 
 {% embed url="https://gist.github.com/aerobless/2c466e1643c26b2081f4ff0afec5f1a2" %}
 
-
-

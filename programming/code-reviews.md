@@ -1,6 +1,6 @@
 # Code Reviews
 
-1. **Issue Tracker Hygiene \(Jira, Redmine etc.\)**
+1. **Issue Tracker Hygiene (Jira, Redmine etc.)**
    * Is the fix version set?
    * Are the necessary sub tasks completed?
    * Are issue specific CoS satisfied?
@@ -17,6 +17,4 @@
    * Are failure & special cases covered?
    * Does the test name adequately explain the test case?
    * Is the test easily readable and maintainable?
-
-
 
