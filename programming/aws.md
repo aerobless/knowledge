@@ -96,6 +96,31 @@ Cloud Watch can also consume, aggregate and monitor logs. To do this you install
 
 &#x20;Cloud Watch pricing is per functionality. E.g. alarms, ingesting logs, archiving logs and dashboards.
 
+### Simple Notification Service (SNS)
+
+Notifications can be sent as Email, SMS or HTTP request. SNS notifications are sent to a topic (arn:aws:sns:..). You can then subscribe to a topic with a email or SMS receiver.
+
+Topics are region specific and can only be notified by alarms in the same region.
+
+#### CONSOLE: Creating a billing notification
+
+1. Select desired region
+2. Load SNS service
+   1. Enter topic name (e.g. admin\_email)
+   2. Create
+   3. Create subscription
+      1. Protocol: Email
+      2. Endpoint: email@address.com
+      3. Create subscription
+3. Load CloudWatch service
+   1. Alarms -> All alarms
+   2. Create alarm
+   3. Select metric
+   4. Billing -> Total estimated charge -> USD -> Select metric
+   5. Set condition -> Next
+   6. Send a notification to ... -> chose SNS topic -> next
+   7. Set alarm  name -> Next -> Create alarm
+
 ## Cloud Front
 
 Helps reduce latency by serving content from locations closest to the incoming request. It's a CDN (content delivery network). It works with S3, EC2, Load Balancer and Route 53.
