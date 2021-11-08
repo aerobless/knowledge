@@ -18,6 +18,10 @@
 * Disable system protection to make protected changes (e.g. disable/uninstall daemons): `csrutil disable`
 * Re-enable system protection: `csrutil enable`
 
+### Homebrew Commands
+
+* Show installed brew packages `brew list`
+
 ## System locations
 
 * Hosts file: `../../etc/hosts`

@@ -110,3 +110,17 @@ Pricing differs per edge locations the user makes requests to.
 
 Is the AWS service for MongoDB-compatible NoSQL databases.
 
+## Resource identification
+
+* IP Adresses (10.0.0.1)
+* ARN (Amazon Resource Name), e.g. DynamoDB (arn:aws:dynamodb:...)
+
+## Notes
+
+* [AWS CLI](https://aws.amazon.com/cli/)
+* [AWS Free Tier (how much & which services)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank\&all-free-tier.sort-order=asc\&awsf.Free%20Tier%20Types=\*all\&awsf.Free%20Tier%20Categories=\*all)
+
+
+
+
+
