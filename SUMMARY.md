@@ -7,7 +7,8 @@
   * [Raspian](operating-systems/raspian.md)
 * [Programming](programming/README.md)
   * [Code Reviews](programming/code-reviews.md)
-  * [Java](programming/java.md)
+  * [Java](programming/java/README.md)
+    * [Spring Cloud Function](programming/java/spring-cloud-function.md)
   * [Python](programming/python.md)
   * [Vaadin](programming/vaadin.md)
   * [CSS](programming/css.md)
@@ -32,4 +33,3 @@
 * [Nutrion](nutrion.md)
 * [Knowledge Management](knowledge-management.md)
 * [Processes](processes.md)
-
