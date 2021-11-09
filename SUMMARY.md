@@ -13,6 +13,7 @@
   * [Vaadin](programming/vaadin.md)
   * [CSS](programming/css.md)
   * [AWS](programming/aws/README.md)
+    * [VPC](programming/aws/vpc.md)
     * [IAM](programming/aws/iam.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)

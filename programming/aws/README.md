@@ -70,19 +70,7 @@ You pay for how much you store and how much it's queried.
 
 Pricing is based on provisioned throughput capacity and the amount of data stored.
 
-## Virtual Private Cloud (VPC)
-
-Used to control and secure access to EC2 instances. VPCs secure groups of instances.
-
-VPC also provides control over routing tables. Configuring NAT gateways for outbound traffic and internal ip address allocation.
-
-A VPC is made up of one or more subnets. You can have both private and public subnets. Typically you could have a private and public subnet. Where the private subnet has no access to the internet at all.
-
-VPCs provide security by configuring Routing Tables and Network ACLs (Access Control List).
-
-ACLs act as subnet level firewalls.
-
-VPC is free to use.
+## [Virtual Private Cloud (VPC)](./#virtual-private-cloud-vpc)
 
 ## Cloud Watch
 
