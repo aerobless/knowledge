@@ -16,6 +16,7 @@
     * [IAM](programming/aws/iam.md)
     * [VPC](programming/aws/vpc.md)
     * [EC2](programming/aws/ec2/README.md)
+      * [Load Balancer](programming/aws/ec2/load-balancer.md)
       * [AMI](programming/aws/ec2/ami.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
