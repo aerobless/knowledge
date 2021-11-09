@@ -18,6 +18,7 @@
     * [EC2](programming/aws/ec2/README.md)
       * [Load Balancer](programming/aws/ec2/load-balancer.md)
       * [AMI](programming/aws/ec2/ami.md)
+    * [S3](programming/aws/s3.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality/README.md)

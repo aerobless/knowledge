@@ -1,10 +1,10 @@
 # AWS
 
-## Elastic Compute Cloud (EC2)
+## [Elastic Compute Cloud (EC2)](./#elastic-compute-cloud-ec2)
 
 Used to run applications, virtual desktops, 3rd party software etc.
 
-An EC2 instance runs an AMI (**Amazon Machine Image**). This is basically a VM image in various flavours, e.g. different operating systems, web server stacks etc. Amazon updates the AMIs not someone's EC2 instance.
+An EC2 instance runs an [AMI (**Amazon Machine Image**)](ec2/ami.md). This is basically a VM image in various flavours, e.g. different operating systems, web server stacks etc. Amazon updates the AMIs not someone's EC2 instance.
 
 Storage for an EC2 instance is called EBS (**Elastic Block Storage**). They're independent of an EC2 instance. EBS is specific for using as file system with EC2.
 
@@ -12,7 +12,7 @@ Storage for an EC2 instance is called EBS (**Elastic Block Storage**). They're i
 
 EC2 is priced per instance type (small, medium, large) and AMI (linux vs. windows).
 
-## Simple Storage Service (S3)
+## [Simple Storage Service (S3)](s3.md)
 
 Service that stores files. It is used by a variety of other AWS services. It has a max file size of 5TB. The largest file that can be uploaded in a single put is 5GB.
 
