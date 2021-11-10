@@ -55,6 +55,10 @@ npm start
 
 10\. Select target tracking policy, e.g. average network out and a value, then next until done.
 
+### Update launch template
+
+Select launch template -> Actions -> Set default version -> Choose new version.
+
 ### Access Load Balancer URL
 
 1. Load Balancers

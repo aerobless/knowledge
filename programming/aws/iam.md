@@ -37,6 +37,17 @@ A policy (AdministratorAccess) could look like this:
 }
 ```
 
+## Roles
+
+Roles are sort of like users that can't login. We can attach policies to them.
+
+1. Switch to IAM
+2. Roles -> Create role
+3. Select EC2 -> Next
+4. Next until Create
+
+A role can be added to a launch configuration via Advanced details -> IAM Instance profile.
+
 ## Best practices
 
 * Don't use the root user, instead create a new user and give it only the needed permissions via a policy and group.
