@@ -24,7 +24,7 @@ CloudFront can be used to cache content from S3 to other regions so that the acc
 
 S3 Pricing is based on: Amount of data, number of requests and amount of data transferred.
 
-## Relational Database Service (RDS)
+## [Relational Database Service (RDS)](ec2/rds.md)
 
 Is the AWS service for managed relational databases. AWS handles database backups, redundancy, software patches etc.
 
@@ -60,7 +60,7 @@ With Lambda you're paying per number of request and 100ms time increments when c
 
 Lambda is great for small, irregular tasks.
 
-## DynamoDB
+## [DynamoDB](dynamodb.md)
 
 Is the AWS service for NoSQL databases. It supports both document and key-value storage.
 
