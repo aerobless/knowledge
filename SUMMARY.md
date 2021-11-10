@@ -23,6 +23,8 @@
       * [AMI](programming/aws/ec2/ami.md)
     * [S3](programming/aws/s3.md)
     * [DynamoDB](programming/aws/dynamodb.md)
+    * [ElastiCache](programming/aws/elasticache.md)
+    * [Cloud Front](programming/aws/cloud-front.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality/README.md)
