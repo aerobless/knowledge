@@ -60,11 +60,3 @@ By default there are no public IPs assigned.  This is more secure. In order to a
 2. Actions -> Modify auto-assign IP settings
 3. Enable auto-assign public IPv4 address
 
-
-
-
-
-1. Seöect&#x20;
-
-
-
