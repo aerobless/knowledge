@@ -42,7 +42,7 @@ Route 53 allows to setup health checks for a given URL.&#x20;
 
 Route 53 costs 0.5$/month for each hosted zone and 0.4$ per 1M queries.
 
-## Elastic Beanstalk (EB)
+## [Elastic Beanstalk (EB)](ec2/eb.md)
 
 Runs applications on EC2 instances. Here you don't have control over the OS or AMI running on the EC2 instance. Instead you're just providing the code/binaries of your own application.
 
