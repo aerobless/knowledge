@@ -45,9 +45,8 @@ Best practices across five pillars for how to create systems that create busines
 
 Examples for common compliance standards are PCI-DSS, HIPAA, SOC 1-3, etc.
 
-_AWS Config_ provides some conformance packs for standards.
+**AWS Config** provides some conformance packs for standards.
 
-AWS Artifact provides self-service access to reports.
+**AWS Artifact** provides self-service access to reports.
 
-Amazon GuardDuty provides intelligent threat detection.
-
+**Amazon GuardDuty** provides intelligent threat detection.
