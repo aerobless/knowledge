@@ -4,9 +4,15 @@ description: Used to create and configure resources in AWS
 
 # Cloud Formation
 
+Cloud Formation enables an approach called "Infrastructure as Code".
+
+Cloud Formation manages dependencies between resources.
+
+It also provides drift detection to find changes in infrastructure. (e.g. manual changes via console)
+
 #### Cloud Formation Template
 
-A cloud formation template is a JSON document describing the infrastructure that should be created automatically.
+A cloud formation template is a JSON (or YAML) document describing the infrastructure that should be created automatically.
 
 #### Cloud Formation Stack
 
