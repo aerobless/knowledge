@@ -132,6 +132,16 @@ Is the AWS service for MongoDB-compatible NoSQL databases.
 * IP Adresses (10.0.0.1)
 * ARN (Amazon Resource Name), e.g. DynamoDB (arn:aws:dynamodb:...)
 
+## Amazon Cognito
+
+A managed service that enables you to handle of authentication and aspects of authorisation for your custom web and mobile applications through AWS.
+
+It is a user directory service for custom applications. Basically IAM for your own custom applications.
+
+It also provides UI components for many platforms.
+
+Provides security capabilities to control account access and AWS resources. This can also work with social and enterprise identity providers.
+
 ## Notes
 
 * [AWS CLI](https://aws.amazon.com/cli/)
