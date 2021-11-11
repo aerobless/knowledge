@@ -26,6 +26,7 @@
     * [DynamoDB](programming/aws/dynamodb.md)
     * [ElastiCache](programming/aws/elasticache.md)
     * [Cloud Front](programming/aws/cloud-front.md)
+    * [Architecture](programming/aws/architecture.md)
     * [Management & Governance](programming/aws/management-and-governance.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
