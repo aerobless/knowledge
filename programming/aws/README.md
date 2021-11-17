@@ -132,6 +132,10 @@ Is the AWS service for MongoDB-compatible NoSQL databases.
 * IP Adresses (10.0.0.1)
 * ARN (Amazon Resource Name), e.g. DynamoDB (arn:aws:dynamodb:...)
 
+## Amazon Redshift
+
+Is an AWS service for datawarehouses. Redshift uses SQL to analyse structured and semi-structured data across DWHs, operational databases and data lakes. It uses Amazon designed hardware and ML.
+
 ## Amazon Cognito
 
 A managed service that enables you to handle of authentication and aspects of authorisation for your custom web and mobile applications through AWS.
