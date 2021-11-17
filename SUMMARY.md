@@ -28,6 +28,7 @@
     * [Cloud Front](programming/aws/cloud-front.md)
     * [Architecture](programming/aws/architecture.md)
     * [Data Architecture & Analysis](programming/aws/data-architecture-and-analysis.md)
+    * [Disaster Recovery](programming/aws/disaster-recovery.md)
     * [Management & Governance](programming/aws/management-and-governance.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
