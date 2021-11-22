@@ -22,7 +22,7 @@ Service that stores files. It is used by a variety of other AWS services. It has
 
 S3 is structured in Buckets. A bucket contains objects. Buckets can be configured to trigger events when changes happen.
 
-S3 can be used to host static websites or resources publicly.&#x20;
+S3 can be used to host static websites or resources publicly.
 
 CloudFront can be used to cache content from S3 to other regions so that the access for end users is fast.
 
@@ -42,7 +42,7 @@ RDS is priced by type of database (license cost), region and EC2 instance type.
 
 Service for DNS management. Configure domain names to resolve to internal AWS services.
 
-Route 53 allows to setup health checks for a given URL.&#x20;
+Route 53 allows to setup health checks for a given URL.
 
 Route 53 costs 0.5$/month for each hosted zone and 0.4$ per 1M queries.
 
@@ -86,7 +86,7 @@ An action executed by an alarm could be an sms/email or triggering an autoscalin
 
 Cloud Watch can also consume, aggregate and monitor logs. To do this you install an awslogs agent on an EC2 instance.
 
-&#x20;Cloud Watch pricing is per functionality. E.g. alarms, ingesting logs, archiving logs and dashboards.
+Cloud Watch pricing is per functionality. E.g. alarms, ingesting logs, archiving logs and dashboards.
 
 ### Simple Notification Service (SNS)
 
@@ -111,7 +111,7 @@ Topics are region specific and can only be notified by alarms in the same region
    4. Billing -> Total estimated charge -> USD -> Select metric
    5. Set condition -> Next
    6. Send a notification to ... -> chose SNS topic -> next
-   7. Set alarm  name -> Next -> Create alarm
+   7. Set alarm name -> Next -> Create alarm
 
 ## [Cloud Front](./#cloud-front)
 
@@ -146,12 +146,23 @@ It also provides UI components for many platforms.
 
 Provides security capabilities to control account access and AWS resources. This can also work with social and enterprise identity providers.
 
+## AWS Service Catalog
+
+Managed catalog of IT services on AWS for an organisation. You can create your own services (e.g. create EC2 instance running WordPress) so that the people in your organisation can quickly use these services. (E.g. self-serve service instantiation)
+
+Can include everything from a single server image to a multi-tier custom application.
+
+Can also be used to make sure that these services meet compliance because there is now a standard way to spin them up.
+
+Services in the catalog have a lifecycle, so there can be multiple versions of services.
+
+## AWS Marketplace
+
+Curated catalog of software to run on AWS from third party vendors. Provides everything from AMI's, Cloud Formation stacks and SaaS based solutions.&#x20;
+
+There are different pricing options available. Charges appear on the AWS bill.
+
 ## Notes
 
 * [AWS CLI](https://aws.amazon.com/cli/)
 * [AWS Free Tier (how much & which services)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank\&all-free-tier.sort-order=asc\&awsf.Free%20Tier%20Types=\*all\&awsf.Free%20Tier%20Categories=\*all)
-
-
-
-
-

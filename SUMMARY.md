@@ -29,6 +29,7 @@
     * [Architecture](programming/aws/architecture.md)
     * [Data Architecture & Analysis](programming/aws/data-architecture-and-analysis.md)
     * [Disaster Recovery](programming/aws/disaster-recovery.md)
+    * [AWS Developer Services](programming/aws/aws-developer-services.md)
     * [Management & Governance](programming/aws/management-and-governance.md)
   * [Mkdocs](programming/mkdocs.md)
 * [Home Automation](home-automation.md)
