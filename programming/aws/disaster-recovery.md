@@ -24,9 +24,9 @@ The entire environment is deployed into multiple locations. If a disaster occurs
 
 ## How to choose
 
-*   RTO: Recovery Time Objective
+*   **RTO: Recovery Time Objective**
 
     The time it takes to get the systems back up and running to their ideal state.
-*   RPO: Recovery Point Objective
+*   **RPO: Recovery Point Objective**
 
     The amount of data loss (in terms of time) for a prod system during the disaster event.
