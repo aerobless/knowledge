@@ -49,6 +49,7 @@
   * [Sweden](travel/sweden.md)
   * [Languages](travel/languages.md)
   * [France](travel/france.md)
-* [Nutrion](nutrion.md)
+* [Nutrion](nutrion/README.md)
+  * [Recipes](nutrion/recipes.md)
 * [Knowledge Management](knowledge-management.md)
 * [Processes](processes.md)
