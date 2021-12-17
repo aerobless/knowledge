@@ -8,6 +8,7 @@
 * [Programming](programming/README.md)
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java/README.md)
+    * [JPA/Hibernate](programming/java/jpa-hibernate.md)
     * [Spring Cloud Function](programming/java/spring-cloud-function.md)
   * [Python](programming/python.md)
   * [Vaadin](programming/vaadin.md)
