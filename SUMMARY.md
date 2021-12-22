@@ -53,4 +53,5 @@
 * [Nutrion](nutrion/README.md)
   * [Recipes](nutrion/recipes.md)
 * [Knowledge Management](knowledge-management.md)
+* [Self Organization](self-organization.md)
 * [Processes](processes.md)
