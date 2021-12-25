@@ -47,3 +47,7 @@
 
 * [Disable Device Enrollment Program (DEP)](https://gist.github.com/henrik242/65d26a7deca30bdb9828e183809690bd): Allows dual booting mac OS on a enrolled mac
   * `gdmf.apple.com` needs to be re-enabled for macOS updates
+
+## OS files .gitignore
+
+{% embed url="https://github.com/github/gitignore/blob/main/Global/macOS.gitignore" %}
