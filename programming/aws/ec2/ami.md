@@ -4,6 +4,14 @@ description: Amazon Machine Image
 
 # AMI
 
+## Visibility
+
+* Public: Everyone can see and use them
+* Explicit: You can allow specific users to see them
+* Implicit: Private
+
+This is not the same as publishing them to the AMI marketplace though.
+
 ## Creating an AMI
 
 1. Load EC2 dashboard
@@ -16,4 +24,3 @@ description: Amazon Machine Image
 1. Load EC2 dashboard
 2. Launch instances
 3. My AMIs
-

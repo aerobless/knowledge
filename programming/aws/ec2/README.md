@@ -4,6 +4,27 @@ description: Elastic Cloud Compute
 
 # EC2
 
+## File system
+
+There are 3 types of file systems that can be used with EC2:
+
+* **Instance Store:** Physically connected to the EC2 instance. They can't be re-used for other EC2 instances and if an EC2 instance is deleted the data on these is deleted as well.
+* **Elastic Block Storage (EBS)**: Independent networked volumes. They can be re-used across EC2 instances. They live on even if the EC2 instance is terminated
+* **Elastic File System (EFS):** Scaleable, independent networked volumes. Compared to EBS these can be accessed by multiple EC2 instances at the same time (1-1000) from multiple AZs. They're similar to a network drive.
+
+## Launching AMIs
+
+When launching an AMI you need to decide between instance volume backed AMIs and EBS backed AMIs. Instance backed AMIs cannot be stopped, only terminated or restarted. Whereas EBS backed AMIs can be stopped and the data is persisted on the EBS volume.
+
+A stopped EC2 instance does not cost money, so by using EBS you can essentially free up the EC2 resources while keeping your data. Instance backed EC2 instances can only be freed up by terminating them, and you're losing the data on the instance volume in this case.
+
+| Instance volume backed                            | EBS volume backed                        |
+| ------------------------------------------------- | ---------------------------------------- |
+| restart, terminate                                | restart, stop, terminate                 |
+| slower boot, data needs to be transferred from S3 | faster boot time, data is already on EBS |
+
+
+
 ## Creating an EC2 instance
 
 1. Switch to EC2 service
