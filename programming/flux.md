@@ -10,6 +10,9 @@ description: >-
 
 I'm using InfluxDB to store timeseries data from my Home Assistant instance. I use Grafana to visualise this data and create graphs. These examples assume a similar setup is provided.
 
+* [Flux Documentation](https://docs.influxdata.com/influxdb/cloud/query-data/flux/)
+* [Flux support in Grafana](https://grafana.com/docs/grafana/latest/datasources/influxdb/influxdb-flux/)
+
 ## Compare data now vs. a year ago
 
 Generally when querying data from InfluxDB in Grafana it is easiest to use Influx as a datasource and query with InfluxQL. However InfluxQL has various drawbacks versus Flux. For example in this case we need to use the timeshift command which is not available in InfluxQL.
