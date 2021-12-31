@@ -29,6 +29,7 @@
 ## Shortcuts
 
 * Show/hide hidden files in Finder: `CMD + SHIFT + .`
+* Show emoji selector: `CRTL + CMD + SPACE BAR`
 
 ## Useful apps
 
