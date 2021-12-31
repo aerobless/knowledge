@@ -33,6 +33,7 @@
     * [AWS Developer Services](programming/aws/aws-developer-services.md)
     * [Management & Governance](programming/aws/management-and-governance.md)
   * [Mkdocs](programming/mkdocs.md)
+  * [Flux](programming/flux.md)
 * [Home Automation](home-automation.md)
 * [Virtual Reality](virtual-reality/README.md)
   * [VR Development](virtual-reality/vr-development/README.md)
