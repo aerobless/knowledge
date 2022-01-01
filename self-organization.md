@@ -1,5 +1,11 @@
 # Self Organization
 
+## Atomic Habits ([YT](https://www.youtube.com/watch?v=PZ7lDrwYdZc))
+
+
+
+
+
 ## Notes
 
 * **Notion**
