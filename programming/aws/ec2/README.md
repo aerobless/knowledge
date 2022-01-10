@@ -84,7 +84,7 @@ There are two types of scaling
 
 ### Auto Scaling Group (ASG)
 
-A launch template defines the instance configuration for the auto scaling group. E.g. what OS, instance type etc.
+A [launch template](launch-templates.md) defines the instance configuration for the auto scaling group. E.g. what OS, instance type etc.
 
 You also define the min, max and desired number of instances in the group.
 

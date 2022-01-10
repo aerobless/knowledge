@@ -19,6 +19,7 @@
     * [IAM](programming/aws/iam.md)
     * [VPC](programming/aws/vpc.md)
     * [EC2](programming/aws/ec2/README.md)
+      * [Launch templates](programming/aws/ec2/launch-templates.md)
       * [EB](programming/aws/ec2/eb.md)
       * [RDS](programming/aws/ec2/rds.md)
       * [Load Balancer](programming/aws/ec2/load-balancer.md)

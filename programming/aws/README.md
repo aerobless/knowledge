@@ -162,6 +162,10 @@ Curated catalog of software to run on AWS from third party vendors. Provides eve
 
 There are different pricing options available. Charges appear on the AWS bill.
 
+## Scalability vs Elasticity&#x20;
+
+Scalability is required for elasticity to work. However not the other way around. Scalability means a resource can be scaled up/down. Elasticity means that are resource is scaled up/down based on some sort of input. In AWS this are often times cloud watch rules.
+
 ## Notes
 
 * [AWS CLI](https://aws.amazon.com/cli/)
