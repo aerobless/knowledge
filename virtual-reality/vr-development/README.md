@@ -49,8 +49,9 @@ In the context of this section free means that the resources can be used both co
 
 ### Textures
 
-* [Textures.com:](https://www.textures.com/library) Get 15 free textures per day
+* [Textures.com:](https://www.textures.com/library) Get 15 free textures per day, requires account
 * [AmbientCG](https://ambientcg.com): free cc0 texture assets, funded via patreon
+* [Pxhere](https://pxhere.com): free cc0 textures, requires account
 * [Unsplash:](https://unsplash.com) Lots of free images, typically not texturized yet but high quality none the less
 * [FreeSVG:](https://freesvg.org) Free svg graphics
 
