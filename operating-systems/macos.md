@@ -44,6 +44,7 @@
 * [Parallels](https://www.parallels.com): Although you need to buy an upgrade for almost every new version of macOS it's still the best virtualisation software for mac. I use it occasionally when I need to run windows software. It's main advantage over competitors (e.g. VirtualBox) is that it support GPU acceleration and advanced chipset virtualisation without any special configuration. It is also very well integrated into macOS. It's perfectly possible to run 3D games in a Parallels VM when necessary.
 * [Anki](https://apps.ankiweb.net): Flash card manager to learn vocabulary etc. It supports syncing with a web-based version and has algorithms for learning. It's also available for windows, linux and mobile. Although the mobile client is not free.
 * [Gifski](https://github.com/sindresorhus/Gifski): Convert videos to high-quality gifs.
+* [Krita](https://krita.org/en/): Free open source photoshop alternative, great for creating textures, concept art and illustrations - personally I find it more comfortable to use than GIMP.
 
 ## Tricks
 
