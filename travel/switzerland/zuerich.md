@@ -6,3 +6,6 @@ coverY: 469.2444444444444
 
 # Zürich
 
+## Cool stuff
+
+* [Ganz Ohr im 4i Tram](http://www.4tram.ch/#!/): Audio Guide about landmarks and areas when riding the tram line 4 from/to Altstetten - Tiefenbrunnen. Made as a project by a class of school kids. (German)
