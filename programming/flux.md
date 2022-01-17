@@ -79,3 +79,13 @@ First I filter both metrics (line 3) then I create a pivot table by the column k
 In order to calculate the value we can use a mapping function (line 6). This leaves us with the two additional columns that we no longer need so we can drop them (line 7). If we don't drop them they'll show up on the graph as well.
 
 If you want to compare this graph to the data from a year ago the same setup as in the chapter above can be used.
+
+## Aggregate window for cumulative sum
+
+I have a metric that increments by one during a day. When using cumulative sum this results in a wrong number. E.g. value=1 at 13:00 and value=2 at 14:00 would result in a cumulative sum of 3 for that day. To fix this we can use an [aggregate window](https://docs.influxdata.com/influxdb/cloud/query-data/flux/cumulativesum/) with max before the sum operation.
+
+```
+  data
+  |> aggregateWindow(every: 1d, fn: max) //will reduce the data to 1 max point per day
+  |> cumulativeSum()
+```
