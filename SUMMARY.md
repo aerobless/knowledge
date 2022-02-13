@@ -63,4 +63,5 @@
 * [Knowledge Management](knowledge-management.md)
 * [Self Organization](self-organization.md)
 * [Processes](processes.md)
-* [Finances](finances.md)
+* [Finances](finances/README.md)
+  * [Investing](finances/investing.md)
