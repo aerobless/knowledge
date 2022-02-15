@@ -5,6 +5,7 @@
   * [macOS](operating-systems/macos.md)
   * [iOS](operating-systems/ios.md)
   * [Raspian](operating-systems/raspian.md)
+  * [Windows](operating-systems/windows.md)
 * [Programming](programming/README.md)
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java/README.md)
