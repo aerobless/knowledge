@@ -69,3 +69,8 @@ In the context of this section free means that the resources can be used both co
 * [Unity Asset Store:](https://assetstore.unity.com) Another good place to get free or cheap resources is the unity asset store. Generally it is also possible to only use parts of an asset. E.g. if you need medieval textures for your own model you could still get a medieval town asset and just use the textures on your own models. Beware though that copyright applies and you should probably not upload any third party resources to a public VCS. Distributing those assets as part of a game though is fine.
 * [Open Game Art](https://opengameart.org): Restrictions may apply, see license for individual objects.
 * [Kenney.nl](https://kenney.nl/assets): cc0 assets
+
+### Fonts
+
+* [Fontlibrary.org](https://fontlibrary.org/en/catalogue): Creative Commons font assets
+* [Google Fonts](https://fonts.google.com): Open licenses, font assets
