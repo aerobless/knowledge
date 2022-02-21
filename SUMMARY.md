@@ -66,3 +66,4 @@
 * [Processes](processes.md)
 * [Finances](finances/README.md)
   * [Investing](finances/investing.md)
+* [Social](social.md)
