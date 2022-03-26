@@ -30,6 +30,8 @@ description: >-
 * **Shaders**
   * [Portal Effect in Shader Graph](https://www.youtube.com/watch?v=w0znZIuvQ2I)
   * Shader Graph: Needs URP or HDRP to work, PBR Shader has been renamed to Lit Shader Graph
+* **Analytics**
+  * [Custom Events](https://docs.unity.com/analytics/RecordingCustomEvents.html)
 
 ## Blender Notes
 
