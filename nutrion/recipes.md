@@ -1,5 +1,9 @@
 # Recipes
 
+### Pan bread
+
+{% embed url="https://youtu.be/H350I0RQWL8" %}
+
 ### Quick fried Potatoes
 
 * Cut potatoes in quarters
