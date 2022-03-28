@@ -66,5 +66,6 @@
 * [Self Organization](self-organization.md)
 * [Processes](processes.md)
 * [Finances](finances/README.md)
+  * [Swiss taxes](finances/swiss-taxes.md)
   * [Investing](finances/investing.md)
 * [Social](social.md)
