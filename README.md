@@ -10,7 +10,7 @@ If you're not into the whole YouTube self improvement & self-organisation trend,
 
 In any case, this is my public second brain. I'm also using [Notion](saas/notion.md) as a private second brain and organisational tool. My Notion second brain is a lot more ephemeral. In it I keep stuff like todo lists, monthly and yearly goals, various recommendations for books, movies etc. So all information that's private or changing a lot I keep in there and everything else I keep on this page.
 
-If you'd like to learn more about starting a second brain, this [video](https://www.youtube.com/watch?v=OP3dA2GcAh8) by Ali Abdaal is a good introduction into the topic..
+If you'd like to learn more about starting a second brain, this [video](https://www.youtube.com/watch?v=OP3dA2GcAh8) by Ali Abdaal is a good introduction into the topic.
 
 ## Contributing
 
