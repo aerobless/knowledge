@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [🚀 Introduction](README.md)
 * [Operating Systems](operating-systems/README.md)
   * [macOS](operating-systems/macos.md)
   * [iOS](operating-systems/ios.md)

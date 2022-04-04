@@ -1,4 +1,8 @@
-# Introduction
+---
+description: What is this place?
+---
+
+# 🚀 Introduction
 
 Heya! 👋  I'm Theo 😄, a software engineer from the land of chocolate & cheese 🇨🇭. I like to pursue creative endeavours such as developing my own VR game, building crazy automations for my home and various other stuff. Of course it's not all related to tech. I also enjoy travelling, photography, working out among other things.&#x20;
 
