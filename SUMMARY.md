@@ -46,7 +46,7 @@
     * [Inn Game](virtual-reality/vr-development/inn-game.md)
 * [☁ SaaS](saas/README.md)
   * [Notion](saas/notion.md)
-* [Quantified Self](quantified-self/README.md)
+* [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)
 * [📚 Books](books.md)
 * [📺 YouTube](youtube.md)
