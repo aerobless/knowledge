@@ -1,4 +1,20 @@
+---
+description: >-
+  This is not financial advice. Past performance is not indicative of future
+  results.
+---
+
 # Investing
+
+## Stock analysis tools
+
+* [Tikr Terminal](https://tikr.com): Equity screener and access to financial data & metrics. Useful for idea generation. Access to US based stocks is free, global stocks starts at 14.95/month
+
+
+
+## Vocabulary
+
+
 
 ## Special Corporate Situations
 
