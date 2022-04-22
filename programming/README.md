@@ -4,7 +4,7 @@ description: >-
   computer how to perform a task
 ---
 
-# Programming
+# 💻 Programming
 
 ## Development Tools
 
@@ -17,6 +17,3 @@ description: >-
 ### [Visual Studio Code](https://code.visualstudio.com) (Universal editor)
 
 ### [Unity](https://unity.com) (Game Engine)
-
-
-

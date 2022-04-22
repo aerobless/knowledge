@@ -1,4 +1,4 @@
-# Knowledge Management
+# 💡 Knowledge Management
 
 Other people that have personal wikis / Inspiration for this site:
 

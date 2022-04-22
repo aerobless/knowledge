@@ -2,7 +2,7 @@
 description: Software as a Service products that I like using.
 ---
 
-# SaaS
+# ☁ SaaS
 
 ## Note taking
 
@@ -20,6 +20,3 @@ description: Software as a Service products that I like using.
 * [Amazon Prime](https://www.primevideo.com): Secondary video streaming provider.
 * [Spotify](https://spotify.com): Primary music streaming provider.
 * [YouTube](https://www.youtube.com): Not sure how to classify this one.. but I do spend a lot of time on YouTube.
-
-
-

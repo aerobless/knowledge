@@ -1,4 +1,4 @@
-# Crafting & DIY
+# 🛠 Crafting & DIY
 
 ## Inspiration
 

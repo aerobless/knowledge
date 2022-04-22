@@ -1,4 +1,4 @@
-# Home Automation
+# 🏠 Home Automation
 
 Home Automation is a bit of a hobby of mine. Which is why I've [documented my setup](https://sixtymeters.com) and [Home Assistant configuration](https://github.com/aerobless/home-assistant-configuration). :)
 

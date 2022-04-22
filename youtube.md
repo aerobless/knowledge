@@ -1,4 +1,4 @@
-# YouTube
+# 📺 YouTube
 
 ## Awesome Channels
 
@@ -14,4 +14,3 @@
 * [11foot8+8 Bridge - The "Can Opener" (Channel)](https://www.youtube.com/c/yovo68/videos)
 * [Welcome to the Internet (Song) (2021)](https://www.youtube.com/watch?v=k1BneeJTDcU)
 * [On The Turing Completeness of PowerPoint (Video) (2017)](https://www.youtube.com/watch?v=uNjxe8ShM-8)
-

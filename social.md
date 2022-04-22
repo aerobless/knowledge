@@ -1,4 +1,4 @@
-# Social
+# 🥳 Social
 
 ## Online Party Games
 

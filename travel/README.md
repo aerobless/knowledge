@@ -1,4 +1,4 @@
-# Travel
+# 🌏 Locations
 
 ## Interesting landmarks
 
