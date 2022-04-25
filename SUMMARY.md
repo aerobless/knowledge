@@ -58,6 +58,7 @@
   * [🇺🇸 USA](travel/usa.md)
   * [🇺🇦 Ukraine](travel/ukraine.md)
   * [🇸🇪 Sweden](travel/sweden.md)
+  * [🇵🇹 Portugal](travel/portugal.md)
   * [Languages](travel/languages.md)
   * [France](travel/france.md)
 * [🥘 Nutrion](nutrion/README.md)
