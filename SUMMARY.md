@@ -55,6 +55,7 @@
 * [🌏 Locations](travel/README.md)
   * [🇨🇭 Switzerland](travel/switzerland/README.md)
     * [Zürich](travel/switzerland/zuerich.md)
+  * [🇩🇪 Germany](travel/germany.md)
   * [🇺🇸 USA](travel/usa.md)
   * [🇺🇦 Ukraine](travel/ukraine.md)
   * [🇸🇪 Sweden](travel/sweden.md)
