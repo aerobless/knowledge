@@ -52,8 +52,8 @@ In the context of this section free means that the resources can be used both co
 ### Textures
 
 * [Textures.com:](https://www.textures.com/library) Get 15 free textures per day, requires account
-* [AmbientCG](https://ambientcg.com): free cc0 texture assets, funded via patreon
-* [Pxhere](https://pxhere.com): free cc0 textures, requires account
+* [AmbientCG](https://ambientcg.com/): free cc0 texture assets, funded via patreon
+* [Pxhere](https://pxhere.com/): free cc0 textures, requires account
 * [Unsplash:](https://unsplash.com) Lots of free images, typically not texturized yet but high quality none the less
 * [FreeSVG:](https://freesvg.org) Free svg graphics
 
@@ -69,10 +69,10 @@ In the context of this section free means that the resources can be used both co
 ### Various (game objects, models, textures, sounds, scripts)
 
 * [Unity Asset Store:](https://assetstore.unity.com) Another good place to get free or cheap resources is the unity asset store. Generally it is also possible to only use parts of an asset. E.g. if you need medieval textures for your own model you could still get a medieval town asset and just use the textures on your own models. Beware though that copyright applies and you should probably not upload any third party resources to a public VCS. Distributing those assets as part of a game though is fine.
-* [Open Game Art](https://opengameart.org): Restrictions may apply, see license for individual objects.
+* [Open Game Art](https://opengameart.org/): Restrictions may apply, see license for individual objects.
 * [Kenney.nl](https://kenney.nl/assets): cc0 assets
 
 ### Fonts
 
 * [Fontlibrary.org](https://fontlibrary.org/en/catalogue): Creative Commons font assets
-* [Google Fonts](https://fonts.google.com): Open licenses, font assets
+* [Google Fonts](https://fonts.google.com/): Open licenses, font assets

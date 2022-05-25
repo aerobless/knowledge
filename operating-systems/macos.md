@@ -34,7 +34,7 @@
 ## Useful apps
 
 * [Visual Studio Code](https://code.visualstudio.com): Free text editor/mini IDE of choice when not using IntelliJ.
-* [Rectangle](https://rectangleapp.com): Re-size windows with keyboard commands (e.g. use half, quarter screen etc.)
+* [Rectangle](https://rectangleapp.com/): Re-size windows with keyboard commands (e.g. use half, quarter screen etc.)
 * [Owly](https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12): Prevent the mac from falling asleep, useful when streaming video to TV
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl): Lets me control the volume & brightness of my external monitor (connected via USB-C & Thunderbolt Dock) via the native mac keys. Normally macOS doesn't allow this making it awkward to change the audio volume when connected to the external monitor.
 * [iTerm2](https://www.iterm2.com): Terminal replacement

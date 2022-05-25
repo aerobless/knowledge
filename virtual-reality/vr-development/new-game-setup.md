@@ -8,7 +8,7 @@ The steps I have to perform before I can start coding a new game:
    2. Update packages if necessary
    3. Import Oculus package
 3. Clean up .gitignore (use template from github for unity) & commit
-4. Setup [hurricane VR](https://www.cloudwalkingames.com)
+4. Setup [hurricane VR](https://www.cloudwalkingames.com/)
    1. use helper to setup everything
    2. launch demo scene to make sure everything works
 5. Done for now

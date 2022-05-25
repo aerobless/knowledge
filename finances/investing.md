@@ -8,11 +8,11 @@ description: >-
 
 ## Stock analysis tools
 
-* [Tikr Terminal](https://tikr.com): Equity screener and access to financial data & metrics. Useful for idea generation. Access to US based stocks is free, global stocks starts at 14.95/month
+* [Tikr Terminal](https://tikr.com/): Equity screener and access to financial data & metrics. Useful for idea generation. Access to US based stocks is free, global stocks starts at 14.95/month
 
 ## Resources
 
-* [The Poor Swiss](https://thepoorswiss.com): Good analysis of brokers, banking and other financial services from the view of a swiss person. The country is relevant for this kinda stuff due to local laws, taxes etc.
+* [The Poor Swiss](https://thepoorswiss.com/): Good analysis of brokers, banking and other financial services from the view of a swiss person. The country is relevant for this kinda stuff due to local laws, taxes etc.
 
 ## Vocabulary
 
