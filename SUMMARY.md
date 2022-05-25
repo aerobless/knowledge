@@ -69,5 +69,5 @@
 * [⛓ Processes](processes.md)
 * [💰 Finances](finances/README.md)
   * [Swiss taxes](finances/swiss-taxes.md)
-  * [Investing](finances/investing.md)
+  * [Investing](finances/investing/README.md)
 * [🥳 Social](social.md)
