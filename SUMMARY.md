@@ -44,7 +44,7 @@
   * [VR Development](virtual-reality/vr-development/README.md)
     * [New Game Setup](virtual-reality/vr-development/new-game-setup.md)
     * [Inn Game](virtual-reality/vr-development/inn-game.md)
-* [☁ SaaS](saas/README.md)
+* [☁ SaaS & Web](saas/README.md)
   * [Notion](saas/notion.md)
 * [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)

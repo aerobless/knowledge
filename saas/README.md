@@ -2,7 +2,7 @@
 description: Software as a Service products that I like using.
 ---
 
-# ☁ SaaS
+# ☁ SaaS & Web
 
 ## Note taking
 
@@ -20,3 +20,7 @@ description: Software as a Service products that I like using.
 * [Amazon Prime](https://www.primevideo.com): Secondary video streaming provider.
 * [Spotify](https://spotify.com): Primary music streaming provider.
 * [YouTube](https://www.youtube.com): Not sure how to classify this one.. but I do spend a lot of time on YouTube.
+
+## Content restrictions
+
+* [12ft Ladder](https://12ft.io/): Paywall-Remover, allows you to read articles that are blocked by a pay-wall.
