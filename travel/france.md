@@ -1,4 +1,13 @@
-# France
+# 🇫🇷 France
+
+## Paris
+
+Things to see in Paris
+
+* Versailles
+* Tour d'eiffel
+* Louvre
+* catacombs
 
 ## Notes
 

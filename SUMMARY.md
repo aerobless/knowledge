@@ -7,6 +7,7 @@
   * [Raspian](operating-systems/raspian.md)
   * [Windows](operating-systems/windows.md)
 * [💻 Programming](programming/README.md)
+  * [📜 Tech Interview Cheatsheet](programming/tech-interview-cheatsheet.md)
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java/README.md)
     * [JPA/Hibernate](programming/java/jpa-hibernate.md)
