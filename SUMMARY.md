@@ -69,6 +69,7 @@
 * [🔦 Self Organization](self-organization.md)
 * [⛓ Processes](processes.md)
 * [💰 Finances & Insurance](finances-and-insurance/README.md)
+  * [Cryptocurrencies](finances-and-insurance/cryptocurrencies.md)
   * [Swiss taxes](finances-and-insurance/swiss-taxes.md)
   * [Investing](finances-and-insurance/investing.md)
 * [🥳 Social](social.md)
