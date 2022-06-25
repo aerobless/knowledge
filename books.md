@@ -8,7 +8,7 @@ When I say reading I'm also including listening to audiobooks, which is somethin
 
 Discovering new books to read is always tricky, so here's a few good resources:
 
-* [Esquire 50 best fatnasy books of all time](https://www.esquire.com/entertainment/books/g39385874/best-fantasy-books/): Not sure if I agree with the premise but the list has a good amount of lesser known/newer fantasy books on it as well.. so it's a good resource if you're already through the typical western authors & classics.
+* [Esquire 50 best fantasy books of all time](https://www.esquire.com/entertainment/books/g39385874/best-fantasy-books/): Not sure if I agree with the premise but the list has a good amount of lesser known/newer fantasy books on it as well.. so it's a good resource if you're already through the typical western authors & classics.
 
 ## Ebooks
 
