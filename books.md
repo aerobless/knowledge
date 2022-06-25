@@ -4,6 +4,12 @@ I love reading fantasy & scifi books and occasionally other stuff as well. I use
 
 When I say reading I'm also including listening to audiobooks, which is something I also enjoy very much while doing other activities. I mainly use [audible.com ](http://audible.com)or for other downloaded media my [Plex](https://www.plex.tv) server and an iOS app called [Prologue](https://apps.apple.com/us/app/prologue/id1459223267). Plex and Prologue are a great combination because they're essentially a self-hosted version of Audible, complete with having streaming access to all my own media and being able to download them onto the device when desired.
 
+## Discovery
+
+Discovering new books to read is always tricky, so here's a few good resources:
+
+* [Esquire 50 best fatnasy books of all time](https://www.esquire.com/entertainment/books/g39385874/best-fantasy-books/): Not sure if I agree with the premise but the list has a good amount of lesser known/newer fantasy books on it as well.. so it's a good resource if you're already through the typical western authors & classics.
+
 ## Ebooks
 
 ### Utilities
