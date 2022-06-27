@@ -19,7 +19,7 @@ description: Basic stuff to remember at a generic tech interview
 
 #### Class Diagram Arrows
 
-![Source: Wikipedia ](../.gitbook/assets/image.png)
+![Source: Wikipedia ](<../.gitbook/assets/image (1).png>)
 
 ### System Design
 
