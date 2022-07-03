@@ -70,11 +70,17 @@ So only a ground view of the Eiffel tower for me. But what I can recommend is th
 
 ## Mont Saint-Michel&#x20;
 
+![Mont Saint Michel from far away](../.gitbook/assets/IMG\_1555.jpeg) ![it's so pretty :D](../.gitbook/assets/IMG\_2089.jpeg) ![but it can get crowded in the tight allays](../.gitbook/assets/IMG\_1576.jpeg)
+
 Mont Saint-Michel is a tidal island on the north-western coast of France. And it is indeed a world-famous sight. The abby and it's little town were built on a huge rock out in the water. This give it a rather unique look. In fact it was also a source of inspiration for the look of Minas Tirith from Lord of the Rings.
 
 ### Getting there
 
+![Paris Montparnasse](../.gitbook/assets/IMG\_1524.jpeg) ![The dam is used to keep Mont Saint-Michel as a tidal island. It is opened at intervals to wash built up sediment out to the sea.](../.gitbook/assets/IMG\_1542.jpeg) ![The shuttle busses can't turn around on the isle, so they have a drivers cabin on both ends](../.gitbook/assets/IMG\_1548.jpg)
+
 Getting to the Mont via public transport is not exactly hard but it does take time. If you want to visit only for a day it's probably easier to just book a tour from Paris. But if you want to stay the night on the little island and then it's quite nice to go by train. I took a TGV from Paris Montparnasse to Rennes and then a local TER train from Rennes to Pontorson. The trains to Pontorson only runs one or two times a day.. so you're fairly locked in to certain times. I took an early train from Paris and was in Pontorson around noon. From there you can take a bus directly to Mont Saint Michel or get out a bit earlier at the dam and walk from there. The bus is synchronised with the train service so you don't have to worry about missing it. If I remember correctly it costs like 3 euros. You can pay the fee straight to the bus driver and they do take card and offer contactless payments.
+
+![Mont Saint-Michel from the bridge connecting it to the mainland](../.gitbook/assets/IMG\_1904.jpeg) ![The hike to Pontorson takes about 2h](../.gitbook/assets/IMG\_2139.jpeg) ![It's quite nice to walk or bike](../.gitbook/assets/IMG\_2148.jpeg) ![](../.gitbook/assets/IMG\_2127.jpeg)
 
 It's also possible to walk to and from Pontorson. The way to Mont Saint Michel is about 10km and you can just follow along a river that ends up in the bay. On the way to the Mont I took the bus to the dam but on the way back I actually walked all the way until Ponotorson and I quite enjoyed the short hike. It took me about 2h with a bunch of short breaks.
 
@@ -82,11 +88,15 @@ It's also possible to walk to and from Pontorson. The way to Mont Saint Michel i
 
 On the island itself there's a few things to do. Apart from taking in the absolutely stunning architecture of the town you can go and visit the abby on the top of the Mont. It's usually not that busy so buying tickets right there is just fine. It's interesting to see the inside of the abby and listening to the audio guide is well worth it.&#x20;
 
+![The abby of Mont Saint-Michel](../.gitbook/assets/IMG\_1636.jpg) ![](../.gitbook/assets/IMG\_1647.jpeg) ![](<../.gitbook/assets/IMG\_1627 2.jpeg>) ![](../.gitbook/assets/IMG\_1713.jpeg)
+
 Apart from visiting the abby you can also walk around the little town on the sand, although it's important to be careful and not to go out far due to quicksand. If you do want to go further or even cross the bay it's important to go with a guided tour.&#x20;
 
 Inside the town you can visit various shops or restaurants and have a walk across the ramparts and so on.
 
 ### Staying on the island
+
+![A shot from the town below](../.gitbook/assets/IMG\_1783.jpeg) ![Sunrise from my hotel room](../.gitbook/assets/IMG\_2027.jpeg) ![](../.gitbook/assets/IMG\_2045.jpeg)
 
 Staying the night on Mont Saint-Michel is a bit pricey but also really beautiful. Depending on the hotel your room might be in a random little house on the island so you can really feel like living in a little medieval town. It's also cool that the place is a lot more quiet when all the day-tourists leave around 5-6pm. After that it's a lot easier to get great photos without crowds. And of course the sunset and tides are beautiful to check out. During high tide the island is completely surrounded by water, but you can still easily walk to the mainland via the bridge.
 
