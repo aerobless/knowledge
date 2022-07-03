@@ -38,11 +38,17 @@ There's several ticket options to go to Versailles. The basic one only includes 
 
 So overall, totally loved it. If you've got half a day or a day. Versailles is great.
 
+#### [The Paris Catacombs](https://www.catacombes.paris.fr/en)
 
+Below Paris there's a network of tunnels that originated during the time when Paris was built. These tunnels were mainly excavated to get the limestone used for building houses. At some point parts of Paris also collapsed because people forgot the tunnels and all the new buildings added too much weight.. at some point the tunnels were also used to dispose of bodies. Which was also not ideal as it occasionally happened that a cellar wall collapsed and suddenly you head a bunch of bones and remains in your cellar. Later the tunnels were studied and the remains/bones cleaned up and stacked. So the tunnels that can be visited nowadays are basically long, narrow underground corridors with more bones & skulls than you've probably ever seen in one place.
+
+It's best to buy a ticket online as the tunnels are quiet narrow and they strictly limit the amount of people that can go inside at one time. You select a time slot and you have to show up at that time to go in. Getting there via metro is easy, there's a station just around the block.
+
+The audio-guide is included in the price, it's basically just a phone that you can listen to while you're walking through the tunnel. You can only walk in one direction and there's not chance of getting lost :smirk:. The audio guide is well made and interesting to listen to.
+
+Is it worth it? It's a good experience. They say you should plan 1h, but really it takes about 30min to walk through. So it's maybe more pricey then other stuff like the Louvre or Versailles where you can basically spend forever to get your money's worth. Still it's quiet unique and for me it was worth it. It's also easy to squeeze in if you're just doing general Paris sightseeing.
 
 * Tour d'eiffel
-* Louvre
-* catacombs
 
 ## Notes
 
