@@ -16,9 +16,9 @@ Typically zones 1-3 are enough for anything within Paris itself. When visiting V
 
 Everywhere seems to support credit cards and mobile payments. I haven't had to use cash anywhere.
 
-### Points of interest in Paris
+#### Points of interest in Paris
 
-#### [Le Louvre](https://www.louvre.fr/en)
+### [Le Louvre](https://www.louvre.fr/en)
 
 ![The pyramid, one of the entrances to the Louvre](../.gitbook/assets/IMG\_0852.jpeg) ![The ceilings or often just as spectacular as the rooms themselves](../.gitbook/assets/IMG\_0901.jpeg) ![The Nintendo 3DS audioguide](../.gitbook/assets/IMG\_0884.jpeg) ![Good old Mona.. popular as always. There's literally a queue just for her..](../.gitbook/assets/IMG\_0938.jpeg)
 
@@ -28,7 +28,7 @@ Getting to the Louvre is easy as there's a metro terminal underground directly c
 
 It's important to buy the ticket online, then you can get in at a specific time without having a long wait. One thing to note is that there are two different queues for timed tickets at the glass pyramid. One is for all the half-hour time slots (e.g. 09:30, 10:30, 11:30) and the other for the full hour slots. Queuing at the right one is usually best ;-).
 
-#### [Château de Versailles](https://en.chateauversailles.fr/)
+### [Château de Versailles](https://en.chateauversailles.fr/)
 
 ![](../.gitbook/assets/IMG\_1101.jpeg) ![The king's bedchamber](../.gitbook/assets/IMG\_1119.jpeg) ![Windows in the hall of mirrors](../.gitbook/assets/IMG\_1164.jpeg) ![Even more so than in the Louvre.. the ceilings are just spectacular](../.gitbook/assets/IMG\_1202.jpeg)
 
@@ -46,7 +46,7 @@ There's several ticket options to go to Versailles. The basic one only includes 
 
 So overall, totally loved it. If you've got half a day or a day. Versailles is great.
 
-#### [The Paris Catacombs](https://www.catacombes.paris.fr/en)
+### [The Paris Catacombs](https://www.catacombes.paris.fr/en)
 
 ![Just imagine it as the IKEA of skeletons](../.gitbook/assets/IMG\_1505.jpeg) ![or maybe it's actually more like the pass of the dead in LotR where Aragorn calls the army of the dead..](../.gitbook/assets/IMG\_1515.jpeg) ![](../.gitbook/assets/IMG\_1500.jpeg)
 
@@ -58,7 +58,7 @@ The audio-guide is included in the price, it's basically just a phone that you c
 
 Is it worth it? It's a good experience. They say you should plan 1h, but really it takes about 30min to walk through. So it's maybe more pricey then other stuff like the Louvre or Versailles where you can basically spend forever to get your money's worth. Still it's quiet unique and for me it was worth it. It's also easy to squeeze in if you're just doing general Paris sightseeing.
 
-#### [Tour d'Eiffel](https://www.toureiffel.paris/en)
+### [Tour d'Eiffel](https://www.toureiffel.paris/en)
 
 ![The walk along the Seine is quite nice, there's also lots of house-boats to see](../.gitbook/assets/IMG\_1431.jpeg) ![And pretty bridges..](../.gitbook/assets/IMG\_1444.jpeg) ![and of course Le tour d'Eiffel](../.gitbook/assets/IMG\_1436.jpeg) ![](../.gitbook/assets/IMG\_1463.jpg)
 
