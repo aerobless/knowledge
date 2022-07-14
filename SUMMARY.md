@@ -62,6 +62,7 @@
   * [🇸🇪 Sweden](travel/sweden.md)
   * [🇵🇹 Portugal](travel/portugal.md)
   * [🇫🇷 France](travel/france.md)
+  * [🇬🇧 United Kingdom](travel/united-kingdom.md)
   * [🗣 Languages](travel/languages.md)
 * [🥘 Nutrion](nutrion/README.md)
   * [Recipes](nutrion/recipes.md)
