@@ -1,6 +1,8 @@
-# 📺 YouTube
+# 📺 YouTube & Podcasts
 
-## Awesome Channels
+## YouTube
+
+### Awesome Channels
 
 * [B1M: The definitive Video Channel for Construction](https://www.youtube.com/c/Theb1mGoogle) - Big projects like skyscrapers, moving buildings, high speed rail lines
 * [Kurzgesagt: In a Nutshell ](https://www.youtube.com/user/Kurzgesagt)- Short animated videos about science, space and the future. Very well made and to the point.
@@ -9,8 +11,12 @@
 * [Coldmirror](https://www.youtube.com/user/coldmirror) - Comedy & Harry Potter memes (German)
 * [SlivkiShow](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ) ([EN](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ)/[DE](https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA)) - Experiments & Lifehacks of russian youtuber
 
-## Odd Videos
+### Odd Videos
 
 * [11foot8+8 Bridge - The "Can Opener" (Channel)](https://www.youtube.com/c/yovo68/videos)
 * [Welcome to the Internet (Song) (2021)](https://www.youtube.com/watch?v=k1BneeJTDcU)
 * [On The Turing Completeness of PowerPoint (Video) (2017)](https://www.youtube.com/watch?v=uNjxe8ShM-8)
+
+## Podcasts
+
+* [Lex Fridman: Conversations about the nature of intelligence, consciousness, love, and power.](https://lexfridman.com/podcast/) -  Basically interviews & conversations of and with interesting people. E.g. a very interesting talk with Elon Musk about Mars, the future of humanity etc.

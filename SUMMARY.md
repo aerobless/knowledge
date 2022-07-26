@@ -52,7 +52,7 @@
 * [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)
 * [📚 Books](books.md)
-* [📺 YouTube](youtube.md)
+* [📺 YouTube & Podcasts](youtube.md)
 * [🛠 Crafting & DIY](crafting-and-diy/README.md)
   * [Woodworking](crafting-and-diy/woodworking.md)
 * [🌏 Locations](travel/README.md)
