@@ -1,4 +1,4 @@
-# macOS
+# 💻 macOS
 
 ## Useful Shell Commands
 

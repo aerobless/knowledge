@@ -12,6 +12,12 @@ In any case, this is my public second brain. I'm also using [Notion](saas/notion
 
 If you'd like to learn more about starting a second brain, this [video](https://www.youtube.com/watch?v=OP3dA2GcAh8) by Ali Abdaal is a good introduction into the topic.
 
-## Contributing
+### Contact
+
+> Twitter: [https://twitter.com/eletiy](https://twitter.com/eletiy)
+>
+> GitHub: [https://github.com/aerobless](https://github.com/aerobless)
+
+### Contributing
 
 If you find a mistake anywhere, I would appreciate your help. GitBook provides a quick way to open the GitHub page for any entry so you can make changes and submit a PR. 🤗
