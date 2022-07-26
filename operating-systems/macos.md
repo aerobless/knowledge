@@ -45,6 +45,7 @@
 * [Anki](https://apps.ankiweb.net): Flash card manager to learn vocabulary etc. It supports syncing with a web-based version and has algorithms for learning. It's also available for windows, linux and mobile. Although the mobile client is not free.
 * [Gifski](https://github.com/sindresorhus/Gifski): Convert videos to high-quality gifs.
 * [Krita](https://krita.org/en/): Free open source photoshop alternative, great for creating textures, concept art and illustrations - personally I find it more comfortable to use than GIMP.
+* [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
 
 ## Tricks
 

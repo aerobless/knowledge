@@ -15,11 +15,4 @@ Discovering new books to read is always tricky, so here's a few good resources:
 ### Utilities
 
 * [WebToEpub (Chrome Extension)](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm?hl=en): Used to download and convert web serials such as "[The Wandering Inn](https://wanderinginn.com)" to a epub file which can be read on common ebook readers.
-  * **How to use**
-    * Install the Chrome Extension: [WebToEpub](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm?hl=en)
-    * Visit the "[Table of contents](https://wanderinginn.com/table-of-contents/)" page on the wandering inn website.
-    * Click on the little puzzle icon in the top right corner of the browser and launch WebToEpub while you are on the "Table of contents" page.
-    * You can now add some metadata and a book cover image if you want. Then select the chapters you want to include in the book. I typically create one epub file per book. So I'd include all chapters from 1.00 to Interlude for the first book.
-    * Under advanced options there are some more options, but be sure to not include images otherwise the book files will be huge.
-    * When you are ready click `Pack ePub` and the epub will be created and downloaded to your machine. You can then e.g. use Calibre to import the book in your eReader.
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
