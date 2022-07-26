@@ -24,3 +24,5 @@ description: Software as a Service products that I like using.
 ## Content restrictions
 
 * [12ft Ladder](https://12ft.io/): Paywall-Remover, allows you to read articles that are blocked by a pay-wall.
+* [archive.today](https://archive.ph/): Archives pages & removes their paywall. Works in some places where 12ft ladder is blocked.
+* [txtify.it](https://txtify.it/): Converts web-pages to plain text. Also removes paywalls. Useful for readability as well.

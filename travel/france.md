@@ -10,7 +10,7 @@ Visiting all the points of interests in Paris is fairly easy thanks to the metro
 
 Typically zones 1-3 are enough for anything within Paris itself. When visiting Versailles, the airport or Disneyland zones 4-5 are needed as well.
 
-![](../.gitbook/assets/image.png)&#x20;
+![](<../.gitbook/assets/image (3).png>)&#x20;
 
 #### Credit card & mobile payment acceptance
 
