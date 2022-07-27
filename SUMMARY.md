@@ -9,6 +9,7 @@
 * [💻 Software Development](programming/README.md)
   * [📜 Tech Interview Cheatsheet](programming/tech-interview-cheatsheet.md)
   * [🔐 Security](programming/security.md)
+  * [🧩 Software Design Patterns](programming/software-design-patterns.md)
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java/README.md)
     * [JPA/Hibernate](programming/java/jpa-hibernate.md)
