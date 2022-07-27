@@ -26,6 +26,12 @@
 
 * Hosts file: `../../etc/hosts`
 
+``
+
+## Delete Google Chrome Auto Complete Suggestion
+
+[Select unwanted suggestion](https://superuser.com/a/835787) and press `Fn + Shift + Delete`
+
 ## Shortcuts
 
 * Show/hide hidden files in Finder: `CMD + SHIFT + .`
