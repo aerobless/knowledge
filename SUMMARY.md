@@ -56,7 +56,7 @@
 * [📺 YouTube & Podcasts](youtube.md)
 * [🛠 Crafting & DIY](crafting-and-diy/README.md)
   * [Woodworking](crafting-and-diy/woodworking.md)
-* [🌏 Locations](travel/README.md)
+* [🌏 Locations & Travel](travel/README.md)
   * [🇨🇭 Switzerland](travel/switzerland/README.md)
     * [Zürich](travel/switzerland/zuerich.md)
   * [🇩🇪 Germany](travel/germany.md)
