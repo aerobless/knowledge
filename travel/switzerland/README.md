@@ -9,3 +9,9 @@
 * Traversing back from Tgantieni to Crestas lift is possible when skirting the forest via the route below:
 
 ![Traversing back from Tgantieni to Crestas lift without an official ski slope is possible](<../../.gitbook/assets/Screenshot 2022-01-15 at 19.40.03.png>)
+
+
+
+## Notes
+
+* [Hike ideas reddit](https://www.reddit.com/r/askswitzerland/comments/we9rhd/what\_place\_is\_best\_for\_casual\_hiker\_and\_is/)
