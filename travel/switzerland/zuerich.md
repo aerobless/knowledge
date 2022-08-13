@@ -4,8 +4,13 @@ cover: >-
 coverY: 469.2444444444444
 ---
 
-# Zürich
+# 💙 Zürich
 
 ## Cool stuff
 
 * [Ganz Ohr im 4i Tram](http://www.4tram.ch/#!/): Audio Guide about landmarks and areas when riding the tram line 4 from/to Altstetten - Tiefenbrunnen. Made as a project by a class of school kids. (German)
+
+## Local events
+
+* [Züri Fäscht](https://www.zuerifaescht.ch/): Local city festival with music, fireworks, drone- and airshows happening every 3 years. Similar to [Seenachtfest Rapperswil](rapperswil.md) but bigger.
+* [Street Parade](https://www.streetparade.com/): Techno / electronic music parade in Zurich. It is the biggest event in the city of Zürich by attendance numbers and also the biggest techno parade in the world. Street parade usually happens once a year on the second Saturday of August. Officially it's classified as a demonstration for freedom, love and tolerance.

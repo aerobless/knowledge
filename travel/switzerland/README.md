@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1504218727796-db522606b16f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxTd2l0emVybGFuZHxlbnwwfHx8fDE2NjAzNzUxMTE&ixlib=rb-1.2.1&q=80
+coverY: 78.4955028618152
+---
+
 # 🇨🇭 Switzerland
 
 ## [Zürich](zuerich.md)
