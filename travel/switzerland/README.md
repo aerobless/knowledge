@@ -18,6 +18,7 @@ coverY: 78.4955028618152
 
 
 
-## Notes
+## Notes / Ideas
 
 * [Hike ideas reddit](https://www.reddit.com/r/askswitzerland/comments/we9rhd/what\_place\_is\_best\_for\_casual\_hiker\_and\_is/)
+* [Tuusigerstägli: round-trip hike near Olten](https://www.freizeitfreunde.ch/blogs/493)
