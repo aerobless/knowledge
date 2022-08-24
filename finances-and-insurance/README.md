@@ -2,8 +2,22 @@
 
 ## Pension
 
+#### Third Pillar
+
 * [How many 3a accounts make are useful in Switzerland](https://finpension.ch/en/how-many-3a-accounts-make-any-sense-at-all/)
   * tldr; 6-10 accounts since they can be paid out from 5 years before pension age until 5 years after (provided you keep working), not all cantons handle tax progression the same way so it might not matter, but it's better to be safe than sorry.
+
+#### Second Pillar
+
+* [How does the 2end pillar work (Overview)](https://thepoorswiss.com/second-pillar-retirement-switzerland/)
+* [Should you invest additional funds into the second pillar?](https://thepoorswiss.com/should-you-contribute-to-your-second-pillar/)
+  * tldr; no, traditional investments into ETFs/stocks are much more profitable over a long timeframe. Only shortly before retirement it may make sense to invest into the second pillar.  Additionally it may make sense to invest into the second pillar if you consider it like a bonds investment and you want to increase your bonds percentage
+
+#### First Pillar
+
+* [How does the first pillar work](https://thepoorswiss.com/first-pillar-retirement-switzerland/)
+* Should the first pillar be counted towards net worth?
+  * tldr; no. The system is based on direct "Umverteilung", e.g. young paying for old / rich paying for the poor. There is also no real guarantee that the system will still exist by the time I reach retirement age.
 
 ## Insurance
 
