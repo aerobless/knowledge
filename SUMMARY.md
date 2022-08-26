@@ -78,3 +78,4 @@
   * [Swiss taxes](finances-and-insurance/swiss-taxes.md)
   * [Investing](finances-and-insurance/investing.md)
 * [🥳 Social](social.md)
+* [🗃 Various Notes](various-notes.md)
