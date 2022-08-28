@@ -26,3 +26,7 @@ description: Software as a Service products that I like using.
 * [12ft Ladder](https://12ft.io/): Paywall-Remover, allows you to read articles that are blocked by a pay-wall.
 * [archive.today](https://archive.ph/): Archives pages & removes their paywall. Works in some places where 12ft ladder is blocked.
 * [txtify.it](https://txtify.it/): Converts web-pages to plain text. Also removes paywalls. Useful for readability as well.
+
+## Self-hosted
+
+* [Awesome-Hub](https://awesomehub.js.org/list/selfhosted): Find self-hosted software for various categories.
