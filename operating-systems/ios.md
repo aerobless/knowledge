@@ -13,6 +13,7 @@
 * [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480): my preferred email client, although I still miss Inbox
 * [Google Maps](https://apps.apple.com/us/app/google-maps/id585027354): Maps duh! 😄
 * [Pocket](https://getpocket.com/): Read-later news aggregator service. Useful to mark articles, blog posts and videos to consume later.
+* [Bring](https://www.getbring.com/): Groceries/shopping list app & SaaS. Allows you to create shared shopping lists. Integrates with Google Home (e.g. hey Google add sugar to my LIST\_NAME list). App is very well designed, it recognises product names and adds little pictograms to make it quick to use while shopping. You can also pre-defined the order of the list, e.g. fruit -> bread -> meats etc.
 
 ## Swiss apps
 
