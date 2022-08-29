@@ -68,7 +68,7 @@
   * [🇫🇷 France](travel/france.md)
   * [🇬🇧 United Kingdom](travel/united-kingdom.md)
   * [🗣 Languages](travel/languages.md)
-* [🥘 Nutrion](nutrion/README.md)
+* [💊 Health](nutrion/README.md)
   * [Recipes](nutrion/recipes.md)
 * [💡 Knowledge Management](knowledge-management.md)
 * [🔦 Self Organization](self-organization.md)
