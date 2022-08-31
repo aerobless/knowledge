@@ -17,3 +17,14 @@ coverY: 469.2444444444444
 * [Limmatschwimmen](https://www.limmatschwimmen.ch/): Swim down the Limmat from Frauenbad to the Oberer Letten Badi. Usually this stretch of the Limmat is closed for swimmers, only during special events such as the Limmatschwimmen it is possible to swim there.
 * [Knabenschiessen](https://www.knabenschiessen.ch/): Folk festival in Zurich based around a shooting competition. Boys and girls from the canton of Zurich can participate in the competition. The winner gets dubbed Schützenkönig (shooting king). The competition is accompanied with Chilbi rides (small rollercoasters etc.) and market/food stands. The festival usually happens on the second weekend of September and lasts until Monday afternoon.
 * [Monday Nightskate](https://www.nightskate.ch/staedte/zurich): Large group of people skating a predefined route on the streets of Zurich with inline skates. The event happens about once per month between May and September. The route is predefined and the secured by the city police.
+
+## Things to do / Team Event ideas
+
+* [Foxtrail](https://www.foxtrail.ch/en/alle-trails)
+* Airport / S Air Technics Tour
+* [Sewage Treatment Tour](https://www.zuerich.com/en/visit/tours-excursions/from-sewage-to-clean-water)
+* [Seilpark (Climbing park)](https://www.seilpark-zuerich.ch/firmen)
+* [Axe throwing (Axtrazh)](https://axtrazh.ch/)
+* [Electric Go Karts](https://kart.ch/tempodrom/) (Winterthur)
+* Escape Rooms
+* [VR Experience](https://zuerich.fusionarena.ch/)
