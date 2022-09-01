@@ -44,6 +44,7 @@
 * [Owly](https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12): Prevent the mac from falling asleep, useful when streaming video to TV
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl): Lets me control the volume & brightness of my external monitor (connected via USB-C & Thunderbolt Dock) via the native mac keys. Normally macOS doesn't allow this making it awkward to change the audio volume when connected to the external monitor.
 * [Displaperture](https://apps.apple.com/us/app/displaperture/id1543920362?mt=12): Fake rounded corners on older macbooks.
+* [Scroll Reverser](https://pilotmoon.com/scrollreverser/): Lets you change the scroll behaviour of mice to be in line with e.g. Windows. Useful if you often have to switch between multiple OS and it throws you off.
 * [iTerm2](https://www.iterm2.com): Terminal replacement
 * [Homebrew](http://brew.sh): Packet manager, like apt-get on linux, simplifies installing development dependencies etc.
 * [Google Chrome](https://www.google.com/chrome/): Browser of choice
