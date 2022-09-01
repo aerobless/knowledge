@@ -7,6 +7,10 @@
 * Command: `lsof -ti:port | xargs kill`
 * Example Usage: `lsof -ti:8080 | xargs kill`
 
+### System information
+
+* Fan speed, CPU temperature etc.: `sudo powermetrics`&#x20;
+
 ### SCP
 
 * Upload: `scp filename.txt username@ipOrDomain.ch:/var/lib/location/on/server`
