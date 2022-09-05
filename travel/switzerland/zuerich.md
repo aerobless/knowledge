@@ -42,3 +42,4 @@ coverY: 469.2444444444444
 * [Electric Go Karts](https://kart.ch/tempodrom/) (Winterthur)
 * Escape Rooms
 * [VR Experience](https://zuerich.fusionarena.ch/)
+* [Urban Golf (free, Züri West)](https://www.stadt-zuerich.ch/ssd/de/index/sport/sportanlagen/urban-golf.html)
