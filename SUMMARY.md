@@ -50,6 +50,7 @@
 * [🕹 Games](games.md)
 * [☁ SaaS & Web](saas/README.md)
   * [Notion](saas/notion.md)
+  * [📀 Self-Hosting](saas/self-hosting.md)
 * [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)
 * [📚 Books](books.md)
