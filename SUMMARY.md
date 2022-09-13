@@ -42,7 +42,7 @@
   * [Unity C#](programming/unity-c.md)
   * [Mkdocs](programming/mkdocs.md)
   * [HTML](programming/html.md)
-  * [GCP](programming/gcp.md)
+  * [GCP](gcp.md)
 * [🏠 Home Automation](home-automation.md)
 * [🎮 Virtual Reality](virtual-reality/README.md)
   * [VR Development](virtual-reality/vr-development/README.md)
