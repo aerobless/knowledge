@@ -6,6 +6,6 @@
 
     ```
     sudo journalctl -u google-startup-scripts.service
-
     ```
-*
+* Keep application running in background even when disconnected: `nohup CMD &`
+
