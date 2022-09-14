@@ -14,6 +14,9 @@ description: Google Cloud Platform
 
 **Details**: [Stable Diffusion Dream Fork](https://github.com/lstein/stable-diffusion/) on Linux
 
+**Cost**: The cost of running a VM with a GPU is fairly substantial.\
+![](<.gitbook/assets/Screenshot 2022-09-14 at 16.37.15.png>)
+
 ### Cloud Run
 
 **Machine Type**: 1GB memory, 1 vCPU, 0-4 instance, running a docker container
