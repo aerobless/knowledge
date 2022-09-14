@@ -6,7 +6,29 @@ description: Google Cloud Platform
 
 ## Camp22 Stable-Diffusion Project
 
-<figure><img src=".gitbook/assets/DeploymentDiagram (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DeploymentDiagram (2).png" alt=""><figcaption><p>GCP deployment diagram</p></figcaption></figure>
+
+### Cloud Compute
+
+**Machine Type**: n1-standard-4, 4 vCPU, 15GB memory, Nvidia Tesla T4 GPU
+
+**Details**: [Stable Diffusion Dream Fork](https://github.com/lstein/stable-diffusion/) on Linux
+
+### Cloud Run
+
+**Machine Type**: 1GB memory, 1 vCPU, 0-4 instance, running a docker container
+
+**Details**: Cloud Run runs our spring boot backend connecting between the flutter app and the stable diffusion image generator. The backend has a database that saves the prompt and some other image metadata to be served to the frontend.
+
+### Cloud SQL
+
+**Machine Type**: PostgreSQL 14.4, 1vCPU, 3.75GB memory, 100GB storage
+
+**Details**: We use a managed Postgres database to store image metadata such as the prompt, seed, user that created the image and whether they chose to publish it.
+
+### Artifact Registry
+
+**Details**: Artifact registry is used to provide a docker registry for our backend. Docker images are built and published to the repository via GitHub actions.
 
 ## Notes
 
