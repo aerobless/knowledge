@@ -1,4 +1,12 @@
-# GCP
+---
+description: Google Cloud Platform
+---
+
+# 🌤 GCP
+
+## Camp22 Stable-Diffusion Project
+
+<figure><img src=".gitbook/assets/DeploymentDiagram (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Notes
 
@@ -8,6 +16,7 @@
     sudo journalctl -u google-startup-scripts.service
     ```
 * [Nohup](https://linuxhint.com/how\_to\_use\_nohup\_linux/): Keep application running in background even when disconnected: `nohup CMD &`
+* [Export GCP project as terraform infrastructure as code (IAC)](https://cloud.google.com/docs/terraform/resource-management/export)
 * [Deploy dockerized application via GitHub Action to Google Cloud Run](https://cloud.google.com/community/tutorials/cicd-cloud-run-github-actions)
 
 <pre class="language-yaml"><code class="lang-yaml"><strong>name: Build spring boot backend

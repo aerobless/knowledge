@@ -2,7 +2,7 @@
 description: Amazon Web Services
 ---
 
-# AWS
+# ☁ AWS
 
 ## [Elastic Compute Cloud (EC2)](./#elastic-compute-cloud-ec2)
 
