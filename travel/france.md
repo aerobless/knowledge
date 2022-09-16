@@ -103,3 +103,7 @@ Staying the night on Mont Saint-Michel is a bit pricey but also really beautiful
 ## Notes
 
 * [The Do’s, Don’ts, and Maybes of Mont Saint Michel](https://habitsofatravellingarchaeologist.com/the-dos-donts-and-maybes-of-mont-saint-michel/)
+
+## New things to see
+
+* [Aeroplume.fr](https://aeroplume.fr/en/) \[[Tom Scott: YT](https://www.youtube.com/watch?v=CwABJGzifao)]: Fly around in hangar attached to a helium blimp calibrated to your weight for 60 euros.
