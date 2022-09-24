@@ -9,6 +9,7 @@ description: >-
 ## Stock analysis tools
 
 * [Tikr Terminal](https://tikr.com/): Equity screener and access to financial data & metrics. Useful for idea generation. Access to US based stocks is free, global stocks starts at 14.95/month
+* [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-portfolio): Useful for backtesting portfolio compositions
 
 ## Resources
 
@@ -21,8 +22,10 @@ description: >-
   * There are other ETFs replication the S\&P 500 ($SPY etc.) what's the difference? tldr; there's very little difference in terms of performance, so it's worth it to take the cheapest ETF to reduce long term fees. E.g. $SPY has a TER of 0.09% so it's about 3x more expensive then $VOO
 * [$VOOG](https://investor.vanguard.com/investment-products/etfs/profile/voog): S\&P 500 growth focused, US only, TER 0.10%
   * heavier focus on growth companies in the S\&P 500, therefore higher possible return if this growth is realised. However the TER is worse than plain $VOO.
-* [$VEU](https://investor.vanguard.com/investment-products/etfs/profile/veu): FTSE, only non-US (developed & emerging), TER 0.07%
-  * Good way to get exposure into non-us stocks.
+* [$VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus): tracks FTSE global all caps, only non-US (developed & emerging) TER 0.07%
+  * [Basically a newer version](https://www.optimizedportfolio.com/vxus-vs-veu/) (2011) of $VEU with more stocks. $VXUS and $VEU have pretty much the same curve, however $VXUS contains also small cap stocks. ($VXUS ca. 7000 vs $VEU 3000). This makes it more diversified for the same price.&#x20;
+  * [$VEU](https://investor.vanguard.com/investment-products/etfs/profile/veu): FTSE, only non-US (developed & emerging), TER 0.07%
+    * Good way to get exposure into non-us stocks.
 * [$CHSPI](https://www.ishares.com/ch/individual/en/products/264107/ishares-spi-ch-fund): Tracks companies on the SIX Swiss Exchange, TER 0.10%
   * [the poor swiss](https://thepoorswiss.com/portfolio/) uses this for their swiss market exposure
   * It's a common tactic to have some exposure to your home stock market
