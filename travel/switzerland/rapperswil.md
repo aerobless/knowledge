@@ -19,3 +19,4 @@ coverY: 404.3434178250204
 ## Local Events
 
 * [Seenachtfest](https://www.seenachtfest.ch/): Local city festival with music, fireworks and airshows happening every 3 years. Similar to [Züri Fäscht](zuerich.md).
+* [SlowUp](https://www.slowup.ch/): The road (Seestrasse) along the lake of Zürich from Schmerikon via Rapperswil to Meilen (55km) is barred for cars and can be used by cyclists, inline-skaters etc. SlowUp at the lake of Zurich usually happens in September. However there are also other SlowUp event around Switzerland during other dates.
