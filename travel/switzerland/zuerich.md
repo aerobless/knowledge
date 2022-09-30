@@ -22,6 +22,7 @@ coverY: 469.2444444444444
 * [Züri Fäscht](https://www.zuerifaescht.ch/): Local city festival with music, fireworks, drone- and airshows happening every 3 years. Similar to [Seenachtfest Rapperswil](rapperswil.md) but bigger.
 * [Street Parade](https://www.streetparade.com/): Techno / electronic music parade in Zurich. It is the biggest event in the city of Zürich by attendance numbers and also the biggest techno parade in the world. Street parade usually happens once a year on the second Saturday of August. Officially it's classified as a demonstration for freedom, love and tolerance.
 * [Limmatschwimmen](https://www.limmatschwimmen.ch/): Swim down the Limmat from Frauenbad to the Oberer Letten Badi. Usually this stretch of the Limmat is closed for swimmers, only during special events such as the Limmatschwimmen it is possible to swim there.
+* [Zurich Film Festival](https://zff.com/en/home/): The film festival happens yearly at the end of September. There's usually a pavilion on the Sechseläutenplatz and films are screening in the surrounding cinemas.&#x20;
 
 ### Fall
 
