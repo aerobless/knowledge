@@ -1,4 +1,4 @@
-# Swiss taxes
+# 💸 Swiss taxes
 
 ## Checklist deductions
 

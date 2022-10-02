@@ -100,6 +100,50 @@ Inside the town you can visit various shops or restaurants and have a walk acros
 
 Staying the night on Mont Saint-Michel is a bit pricey but also really beautiful. Depending on the hotel your room might be in a random little house on the island so you can really feel like living in a little medieval town. It's also cool that the place is a lot more quiet when all the day-tourists leave around 5-6pm. After that it's a lot easier to get great photos without crowds. And of course the sunset and tides are beautiful to check out. During high tide the island is completely surrounded by water, but you can still easily walk to the mainland via the bridge.
 
+## Carcassonne
+
+Carcassonne is a hilltop town in the south of France. It's famous for its walled city (Citadel) containing a castle. At night the outer walls of the citadel are illuminated beautifully. The citadel itself is set apart from the more modern city of Carcassonne by a river, however it still feels like very much as a part of the city. It seems like the city just kept expanding and at some point the walls and fortifications weren't necessary anymore.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_2560.jpg" alt=""><figcaption><p>Carcassonne at night</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2465.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2382.jpg" alt=""><figcaption><p>The ramparts of the citadel</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2372.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Today the old citadel is mostly a tourist attraction. There are many little shops and restaurants but catering mostly towards visitors. Entering the citadel is free, but visiting the castle and some parts of the ramparts costs a small entry fee. It's definitely worth visiting though as the views from the castle walls are spectacular. The castle is also a fairly interesting build with good insights into how the fortifications worked against invaders. E.g. having the gate towers open towards the courtyard so that the defenders could still shoot down invaders that have managed to take over a gate tower.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_2244.jpg" alt=""><figcaption><p>The roads leading to the citadel also have tons of restaurants</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2270.jpg" alt=""><figcaption><p>A view of the modern city from the walls of the citadel</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2406.jpg" alt=""><figcaption><p>Event venue inside the citadel</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2248.jpg" alt=""><figcaption><p>Little alley inside the citadel</p></figcaption></figure>
+
+</div>
+
+Inside the citadel there's also a huge stage for events such as concerts, theatre etc. taking place in Carcassonne.
+
 ## Notes
 
 * [The Do’s, Don’ts, and Maybes of Mont Saint Michel](https://habitsofatravellingarchaeologist.com/the-dos-donts-and-maybes-of-mont-saint-michel/)
