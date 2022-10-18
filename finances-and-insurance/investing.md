@@ -14,13 +14,6 @@ description: >-
 ## Resources
 
 * [The Poor Swiss](https://thepoorswiss.com/): Good analysis of brokers, banking and other financial services from the view of a swiss person. The country is relevant for this kinda stuff due to local laws, taxes etc.
-* [Ben Felix: Common Sense Investing](https://www.youtube.com/c/BenFelixCSI) (YouTube)- Fact based explanations about various financial topics.
-
-#### Communities
-
-* [/r/Bogleheads](https://reddit.com/r/bogleheads): Reddit community about long-term, diversified, passive index investing
-* [/r/ETFs](https://www.reddit.com/r/ETFs/): Reddit community about exchange traded funds.
-* [/r/Wallstreetbets:](https://www.reddit.com/r/wallstreetbets/) Gambling addicts playing the stock market, generally a good place to see things that should be avoided. It's best to keep in mind that usually topics are overhyped and don't actually play out the way this community imagines.
 
 ## ETFs
 
@@ -37,8 +30,6 @@ description: >-
 * [$CHSPI](https://www.ishares.com/ch/individual/en/products/264107/ishares-spi-ch-fund): Tracks companies on the SIX Swiss Exchange, TER 0.10%
   * [the poor swiss](https://thepoorswiss.com/portfolio/) uses this for their swiss market exposure
   * It's a common tactic to have some exposure to your home stock market
-* [$AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html): Small cap value, US only, TER 0.25%
-  * good for tilting towards small cap value stocks in order to get an additional factor risk premium
 
 #### Factor Investing
 
