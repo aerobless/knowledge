@@ -10,7 +10,6 @@
 * [MKBHD](https://www.youtube.com/user/marquesbrownlee) - Tech reviews
 * [Coldmirror](https://www.youtube.com/user/coldmirror) - Comedy & Harry Potter memes (German)
 * [SlivkiShow](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ) ([EN](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ)/[DE](https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA)) - Experiments & Lifehacks of russian youtuber
-* [Ben Felix: Common Sense Investing](https://www.youtube.com/c/BenFelixCSI) - Fact based explanations about various financial topics.
 
 ### Odd Videos
 
