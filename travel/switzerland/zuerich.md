@@ -44,3 +44,4 @@ coverY: 469.2444444444444
 * Escape Rooms
 * [VR Experience](https://zuerich.fusionarena.ch/)
 * [Urban Golf (free, Züri West)](https://www.stadt-zuerich.ch/ssd/de/index/sport/sportanlagen/urban-golf.html)
+* [Chocolate Workshop (Minischoggi)](https://www.minischoggi.ch/kurse/schokoladenkurse/)
