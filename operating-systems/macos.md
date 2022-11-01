@@ -59,6 +59,7 @@
 * [Krita](https://krita.org/en/): Free open source photoshop alternative, great for creating textures, concept art and illustrations - personally I find it more comfortable to use than GIMP.
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
 * [Raycast](https://www.raycast.com/): Spotlight replacement with tons of extensions. Useful to integrate e.g. with Notion or similar applications that can't be searched via spotlight. It also has tons of quality of life utilities, e.g. killing apps, opening quick links, notes etc.
+  * [Static Marks - Bookmark Search for Raycast](https://www.raycast.com/aerobless/static-marks#readme)
 
 ## Tricks
 
