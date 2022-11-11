@@ -12,6 +12,7 @@
   * [🧩 Software Design Patterns](programming/software-design-patterns.md)
   * [Code Reviews](programming/code-reviews.md)
   * [Java](programming/java/README.md)
+    * [Spring Boot OAuth2 Client](programming/java/spring-boot-oauth2-client.md)
     * [JPA/Hibernate](programming/java/jpa-hibernate.md)
     * [Spring Cloud Function](programming/java/spring-cloud-function.md)
   * [Jenkins](programming/jenkins.md)
