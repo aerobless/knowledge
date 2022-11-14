@@ -20,3 +20,7 @@ Home Automation is a bit of a hobby of mine. Which is why I've [documented my se
 * **Grafana**
   * [Enable Flux for Home Assistant Influx Addon](https://community.home-assistant.io/t/flux-in-grafana/197155/33)
     * [Aggregate data by month or year with Flux](https://www.influxdata.com/blog/aggregating-by-months-or-years-in-flux/) (can't be done with Influx QL)
+* Plants in Home Assistant
+  * [Custom plant component (manual install via HACs)](https://github.com/Olen/homeassistant-plant)
+    * [OpenPlantbook (open API to fetch plant data) (manual install via HACs)](https://github.com/Olen/home-assistant-openplantbook)
+  * [Lovelace flower card (manual install via HACs)](https://github.com/Olen/lovelace-flower-card/tree/new\_plant)
