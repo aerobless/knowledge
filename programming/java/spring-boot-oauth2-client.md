@@ -63,3 +63,19 @@ public class SecurityConfig {
 }
 ```
 
+#### Logout
+
+* Spring Boot provides a Logout endpoint. By default it uses a POST request with CSRF to prevent someone else from doing an attack and logging a user out.
+* To get this to work properly we need to configure CSRF in the security chain, otherwise we'll always get a 403 when trying to POST a logout request.
+
+```java
+.and()
+.logout()
+//.logoutSuccessHandler(logoutSuccessHandler())
+.invalidateHttpSession(true)
+.clearAuthentication(true)
+.and()
+.csrf()
+.csrfTokenRepository(CookieCsrfTokenRepository.withHttpOnlyFalse());
+```
+
