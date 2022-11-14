@@ -67,6 +67,8 @@ public class SecurityConfig {
 
 * Spring Boot provides a Logout endpoint. By default it uses a POST request with CSRF to prevent someone else from doing an attack and logging a user out.
 * To get this to work properly we need to configure CSRF in the security chain, otherwise we'll always get a 403 when trying to POST a logout request.
+* The logout endpoint is then located at: [http://localhost:8045/backend/api/v1/logout](http://localhost:8045/backend/api/v1/logout)
+* In order to test it with Postman we need to set the X-XSRF-TOKEN as a header which is provided by the backend and stored as a cookie.
 
 ```java
 .and()
