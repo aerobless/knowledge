@@ -30,17 +30,7 @@
 
 * Hosts file: `../../etc/hosts`
 
-## Format SD card
-
-When Disk Utility does not show the full capacity of an SD card there is likely a linux partion on the there. To format the card fully the following commands can be used:
-
-```bash
-// Identify the disk with
-diskutil
-
-// Format it with
-sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
-```
+``
 
 ## Delete Google Chrome Auto Complete Suggestion
 
