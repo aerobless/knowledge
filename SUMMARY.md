@@ -60,6 +60,7 @@
 * [📚 Books](books.md)
 * [📺 YouTube & Podcasts](youtube.md)
 * [🛠 Crafting & DIY](crafting-and-diy/README.md)
+  * [3D Printing](crafting-and-diy/3d-printing.md)
   * [Woodworking](crafting-and-diy/woodworking.md)
 * [🌏 Locations & Travel](travel/README.md)
   * [🇨🇭 Switzerland](travel/switzerland/README.md)
