@@ -4,6 +4,8 @@
 
 * [https://www.thingiverse.com/](https://www.thingiverse.com/)
   * [Benchy (Test Model to calibrate printer)](https://www.thingiverse.com/thing:763622)
+* [Printable bricks](https://printablebricks.com/): Lego compatible brick models
+  * See also [wayback machine printablebricks.org](https://web.archive.org/web/20190718130413/https://printabrick.org/), contains also whole lego models + instructions
 
 ## Tools
 
