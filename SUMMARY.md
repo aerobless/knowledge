@@ -82,6 +82,7 @@
 * [💰 Finances & Insurance](finances-and-insurance/README.md)
   * [🪙 Cryptocurrencies](finances-and-insurance/cryptocurrencies.md)
   * [💸 Swiss taxes](finances-and-insurance/swiss-taxes.md)
-  * [📈 Investing](finances-and-insurance/investing.md)
+  * [📈 Investing](finances-and-insurance/investing/README.md)
+    * [🚀 Space Sector](finances-and-insurance/investing/space-sector.md)
 * [🥳 Social](social.md)
 * [🗃 Various Notes](various-notes.md)
