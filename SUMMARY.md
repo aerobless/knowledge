@@ -73,6 +73,7 @@
   * [🇵🇹 Portugal](travel/portugal.md)
   * [🇫🇷 France](travel/france.md)
   * [🇬🇧 United Kingdom](travel/united-kingdom.md)
+  * [🇵🇪 Peru](travel/peru.md)
   * [🗣 Languages](travel/languages.md)
 * [💊 Health](nutrion/README.md)
   * [Recipes](nutrion/recipes.md)
