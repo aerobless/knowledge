@@ -76,7 +76,7 @@
   * [🇵🇪 Peru](travel/peru.md)
   * [🗣 Languages](travel/languages.md)
 * [💊 Health](nutrion/README.md)
-  * [🥗 Food Recipes](nutrion/food-recipes/README.md)
+  * [🥗 Food Recipes](nutrion/recipes.md)
     * [🍪 American Cookies](nutrion/food-recipes/american-cookies.md)
 * [💡 Knowledge Management](knowledge-management.md)
 * [🔦 Self Organization](self-organization.md)
