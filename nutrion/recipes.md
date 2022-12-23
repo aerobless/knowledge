@@ -1,4 +1,4 @@
-# 🥗 Food Recipes
+# Recipes
 
 ### Pan bread
 
