@@ -5,6 +5,7 @@
   * [💻 macOS](operating-systems/macos.md)
   * [📱 iOS](operating-systems/ios.md)
   * [🐧 Raspian](operating-systems/raspian.md)
+  * [🧙♂ Proxmox VE](operating-systems/proxmox-ve.md)
   * [🪟 Windows](operating-systems/windows.md)
 * [💻 Software Development](programming/README.md)
   * [📜 Tech Interview Cheatsheet](programming/tech-interview-cheatsheet.md)
