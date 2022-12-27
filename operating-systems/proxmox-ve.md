@@ -6,6 +6,8 @@ description: >-
 
 # 🧙♂ Proxmox VE
 
+I run [Proxmox VE](https://www.proxmox.com/en/) on a Intel NUC as a host for [Home Assistant (VM install method)](../home-automation.md), [Yunohost](https://yunohost.org/#/) and a Ubuntu Server based dev env.
+
 ## Download ISO image to Proxmox server
 
 ```
