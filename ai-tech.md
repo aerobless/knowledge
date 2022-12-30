@@ -13,6 +13,7 @@ description: Text, image generation and big GPUs
 * [Dall-E](https://openai.com/dall-e-2/): Cloud Service with API by OpenAI
 * [Stable-Diffusion](https://stability.ai/blog/stable-diffusion-public-release): Open & free AI models for image generations made by Stability AI, can be used in the cloud e.g. via DreamStudio oder locally on a machine with a big GPU
   * [Simple Installer with Web UI for windows](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer)
+    * [Enable sharing/external access](https://www.reddit.com/r/StableDiffusion/comments/xtkovu/is\_there\_a\_way\_i\_can\_share\_my\_local\_automatic1111/)
   * [Lexica.art](https://lexica.art/): Images and corresponding prompts for stable diffusion
   * [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/): Subreddit about stable diffusion and other interesting AI topics
 
