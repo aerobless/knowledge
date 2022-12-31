@@ -31,7 +31,9 @@ coverY: 469.2444444444444
 
 ### Winter
 
-
+* [XMAS Market](https://www.zuerich.com/en/visit/christmas-in-zurich/christmas-markets): There are various christmas markets in Zurich. The main one is on the Sechseläutenplatz in front of the opera house with lots of mulled wein, fondue and small market stands with food. There's also a xmas market at the main station (Zurich HB) and there are various mulled wein stands dotted around the city. Bahnhofstrasse and the old town streets are also nicely decorated with lights. The Xmas markets are usually active from the end of November till the 23d of December.
+* [Dolder Ice Skating Rink](https://www.doldersports.com/en/winter-front-page-en/ice-skating-rink/): The best place to ice-skate in Zurich is at the Dolder Ice Skating rink. It's easily accessible via the Dolder Bahn from Stadelhofen.
+* [Uetliberg Uto Kulm Winter Magic](https://www.utokulm.ch/winter-magic): A great place for a quick hike or experiencing the snow (if there is any). During winter there is usually a mulled wein stand, food and some Xmas decorations up there.
 
 ## Things to do / Team Event ideas
 
