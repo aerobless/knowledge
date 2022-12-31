@@ -60,7 +60,7 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 * [Displaperture](https://apps.apple.com/us/app/displaperture/id1543920362?mt=12): Fake rounded corners on older macbooks.
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/): Lets you change the scroll behaviour of mice to be in line with e.g. Windows. Useful if you often have to switch between multiple OS and it throws you off.
 * [iTerm2](https://www.iterm2.com): Terminal replacement
-* [Homebrew](http://brew.sh): Packet manager, like apt-get on linux, simplifies installing development dependencies etc.
+* [Homebrew](http://brew.sh): Packet manager, like apt-get on linux, simplifies installing development dependencies etc. Note 12.2022: I'm not a huge fan of this anymore, Homebrew appears to compile a lot of stuff on device and this takes too much time imho. Manual installs are often faster.. which kinda defeats the purpose for me to use a package manager.
 * [Google Chrome](https://www.google.com/chrome/): Browser of choice
 * [Notion](https://www.notion.so): Personal note-taking & organisation app
 * [Parallels](https://www.parallels.com): Although you need to buy an upgrade for almost every new version of macOS it's still the best virtualisation software for mac. I use it occasionally when I need to run windows software. It's main advantage over competitors (e.g. VirtualBox) is that it support GPU acceleration and advanced chipset virtualisation without any special configuration. It is also very well integrated into macOS. It's perfectly possible to run 3D games in a Parallels VM when necessary.
@@ -70,6 +70,8 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
 * [Raycast](https://www.raycast.com/): Spotlight replacement with tons of extensions. Useful to integrate e.g. with Notion or similar applications that can't be searched via spotlight. It also has tons of quality of life utilities, e.g. killing apps, opening quick links, notes etc.
   * [Static Marks - Bookmark Search for Raycast](https://www.raycast.com/aerobless/static-marks#readme)
+* [Maccy](https://github.com/p0deje/Maccy): Clipboard manager, keeps history of clipboard and allows search
+* [Spotlight & Quicklook Plugin for ePub Files](https://github.com/GenjiApp/EPUB-Plugins): Allows to use macOS native spotlight & quicklook feature for ePub files.
 
 ## Tricks
 
