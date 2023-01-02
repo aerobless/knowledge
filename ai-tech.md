@@ -14,6 +14,8 @@ description: Text, image generation and big GPUs
 * [Stable-Diffusion](https://stability.ai/blog/stable-diffusion-public-release): Open & free AI models for image generations made by Stability AI, can be used in the cloud e.g. via DreamStudio oder locally on a machine with a big GPU
   * [Simple Installer with Web UI for windows](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer)
     * [Enable sharing/external access](https://www.reddit.com/r/StableDiffusion/comments/xtkovu/is\_there\_a\_way\_i\_can\_share\_my\_local\_automatic1111/)
+  * [Civitai](https://civitai.com/): Share custom stable diffusion models
+    * [Protogen x3.4](https://www.reddit.com/r/StableDiffusion/comments/100fmx6/comment/j2hglyx/?utm\_source=share\&utm\_medium=web2x\&context=3): Model for photorealistic images&#x20;
   * [Lexica.art](https://lexica.art/): Images and corresponding prompts for stable diffusion
   * [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/): Subreddit about stable diffusion and other interesting AI topics
 
