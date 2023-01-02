@@ -27,6 +27,10 @@ description: Software as a Service products that I like using.
 * [archive.today](https://archive.ph/): Archives pages & removes their paywall. Works in some places where 12ft ladder is blocked.
 * [txtify.it](https://txtify.it/): Converts web-pages to plain text. Also removes paywalls. Useful for readability as well.
 
+## Data Visualization
+
+* [SankeyMATIC](https://sankeymatic.com/): Text to image sankey diagram builder (data split into channels and then even finer channels so you can see where it leads).
+
 ## Self-hosted
 
 * [Awesome-Hub](https://awesomehub.js.org/list/selfhosted): Find self-hosted software for various categories.
