@@ -54,15 +54,6 @@ description: >-
 
 * ETF: Exchange Traded Fund
 
-### Hedging
-
-* [Should you use currency hedging in your portfolio](https://thepoorswiss.com/currency-hedging-portfolio/):&#x20;
-  * it's unclear if hedging can improve long-term results
-  * you should not hedge more than half of your portfolio
-  * hedging currency is akin to an insurance, insurance services cost money, therefor hedged investments have higher fees then normal ones
-* [US view](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/on-the-minds-of-investors/should-investors-hedge-the-currency-when-investing-in-international-equities/)
-  * they argue the average US investor is overweight in USD, from a swiss point of view I might be overweight in USD as well, so hedging would reduce this a bit
-
 ## Special Corporate Situations
 
 ### Spinoffs
