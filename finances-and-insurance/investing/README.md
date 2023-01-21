@@ -22,6 +22,10 @@ description: >-
 * [/r/ETFs](https://www.reddit.com/r/ETFs/): Reddit community about exchange traded funds.
 * [/r/Wallstreetbets:](https://www.reddit.com/r/wallstreetbets/) Gambling addicts playing the stock market, generally a good place to see things that should be avoided. It's best to keep in mind that usually topics are overhyped and don't actually play out the way this community imagines.
 
+## Inspiration
+
+* [A History of Share Prices (1500-2016)](https://www.trendfollowing.com/pdfs/500.pdf): Stocks always go up. Every crisis seems big in the moment but doesn't have a lasting impact on long term stock prices.
+
 ## ETFs
 
 * [$VOO](https://investor.vanguard.com/investment-products/etfs/profile/voo): S\&P 500, US only, TER 0.03%
@@ -53,6 +57,15 @@ description: >-
 ## Vocabulary
 
 * ETF: Exchange Traded Fund
+
+### Hedging
+
+* [Should you use currency hedging in your portfolio](https://thepoorswiss.com/currency-hedging-portfolio/):&#x20;
+  * it's unclear if hedging can improve long-term results
+  * you should not hedge more than half of your portfolio
+  * hedging currency is akin to an insurance, insurance services cost money, therefor hedged investments have higher fees then normal ones
+* [US view](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/on-the-minds-of-investors/should-investors-hedge-the-currency-when-investing-in-international-equities/)
+  * they argue the average US investor is overweight in USD, from a swiss point of view I might be overweight in USD as well, so hedging would reduce this a bit
 
 ## Special Corporate Situations
 
