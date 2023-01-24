@@ -31,6 +31,10 @@ description: Software as a Service products that I like using.
 
 * [SankeyMATIC](https://sankeymatic.com/): Text to image sankey diagram builder (data split into channels and then even finer channels so you can see where it leads).
 
+## VPN
+
+* [Tailscale](https://tailscale.com/): Zeroconf VPN solution based on WireGuard. Works amazingly well together with a [Home Assistant Community Add-On](https://github.com/hassio-addons/addon-tailscale). The HA addon can act as a gateway into my local network. Also very cool that you can use Google, MS or other global IDP accounts to authenticate yourself. The service is free with some pretty generous limits.
+
 ## Self-hosted
 
 * [Awesome-Hub](https://awesomehub.js.org/list/selfhosted): Find self-hosted software for various categories.

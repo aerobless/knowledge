@@ -15,13 +15,19 @@ Home Automation is a bit of a hobby of mine. Which is why I've [documented my se
 * [Unofficial Google Home REST API](https://rithvikvibhu.github.io/GHLocalApi/#header-getting-started)
 * [Zigbee Device Compatibility Repository ](https://zigbee.blakadder.com/)(ZHA vs DECONZ vs zigbee2mqtt)
 
+## Addons
 
+* [Tailscale Zeroconf VPN](https://github.com/hassio-addons/addon-tailscale): A zeroconf VPN solution based on WireGuard. The HA addon can be used a gateway into the local network. Works very well. See also [SaaS -> VPN -> Tailscale](saas/#vpn).
 
 ## Connectivity
 
 ### Bluetooth
 
 * [ESPHome Bluetooth Proxy Installer](https://esphome.github.io/bluetooth-proxies/): ESP32 chips can act as range extenders for Home Assistant bluetooth connections. This allows Home Assistant to pick up all kinds of bluetooth devices that you may already have in your home. I use this for my Oral-B toothbrush and Xiaomi FlowerCare plant sensors.
+
+## Ad
+
+## Ad
 
 ## Notes
 
