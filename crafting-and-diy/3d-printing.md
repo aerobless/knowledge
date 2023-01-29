@@ -22,3 +22,10 @@ Warping occurs when the PLA cools too quickly. This can be mitigated by:
 * Enable raft or brim
 * Increase heat of bed
 * Enclose printer (keep doors shut during print)
+
+## Cool models to print
+
+* **Wallets**
+  * [Slim Card Wallet for 8 cards with money strap](https://www.thingiverse.com/thing:4797082)
+  * [Minimalist wallet with money strap, solid screwed](https://www.thingiverse.com/thing:3572911)
+  * [Minimalist expandable wallet with strap](https://www.thingiverse.com/thing:4831962)

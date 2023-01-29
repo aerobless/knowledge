@@ -22,7 +22,6 @@ description: Text, image generation and big GPUs
 ## Text Generation
 
 * [KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client): WebUI for text generation model, has a simple installer for windows and can self-download models such as GPT-J and others. Can be used for text-based adventures similar to aiDungeon, novel text generation or universal text generation as well as chat-based answers. Models are quite big, so a good GPU is needed.
-  * [Google Colab installation of KoboldAI](https://colab.research.google.com/github/KoboldAI/KoboldAI-Client/blob/main/colab/TPU.ipynb)
 
 ## Online services based on AI tech
 
