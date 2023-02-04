@@ -151,3 +151,4 @@ Inside the citadel there's also a huge stage for events such as concerts, theatr
 ## New things to see
 
 * [Aeroplume.fr](https://aeroplume.fr/en/) \[[Tom Scott: YT](https://www.youtube.com/watch?v=CwABJGzifao)]: Fly around in hangar attached to a helium blimp calibrated to your weight for 60 euros.
+* Annecy \[[Insta](https://www.instagram.com/p/CnpnMoqsseI/?igshid=MDJmNzVkMjY%3D)]: Venice of the alps, nice town in France near Swiss border
