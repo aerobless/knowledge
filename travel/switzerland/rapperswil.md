@@ -2,7 +2,7 @@
 description: Also known as the City of Roses.
 cover: >-
   https://images.unsplash.com/photo-1616247630026-eb3b45a54e7a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyYXBwZXJzd2lsJTIwY2FzdGxlfGVufDB8fHx8MTY2MDM3NDgzNw&ixlib=rb-1.2.1&q=80
-coverY: 404.3434178250204
+coverY: 250.34341782502042
 ---
 
 # 🌹 Rapperswil
