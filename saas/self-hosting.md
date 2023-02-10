@@ -22,3 +22,4 @@ A page containing bookmarks and useful information when you're opening a new tab
 ## Various
 
 * [Reddit user washglad3114s 40 container self-hosted setup](https://www.reddit.com/r/selfhosted/comments/10wyzxh/40\_containers\_counting/?utm\_source=share\&utm\_medium=ios\_app\&utm\_name=iossmf): looks interesting, although a bit heavy on the piracy front :P
+* [Awesome-Hub](https://awesomehub.js.org/list/selfhosted): Find self-hosted software for various categories.
