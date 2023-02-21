@@ -60,7 +60,7 @@
   * [📀 Self-Hosting](saas/self-hosting.md)
 * [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)
-* [📚 Books](books.md)
+* [📚 Reading](books.md)
   * [Amazon Kindle](books/amazon-kindle.md)
 * [📺 YouTube & Podcasts](youtube.md)
 * [🛠 Crafting & DIY](crafting-and-diy/README.md)
