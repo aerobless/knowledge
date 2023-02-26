@@ -1,4 +1,4 @@
-# 📚 Reading
+# 📚 Books
 
 I love reading fantasy & scifi books and occasionally other stuff as well. I use [Goodreads](https://www.goodreads.com/aerobless) to keep track of the books I've [read](https://www.goodreads.com/review/list/7725364?shelf=read) or [want to read](https://www.goodreads.com/review/list/7725364?shelf=to-read). In 2021 I'm planning to read at least 21 books.
 
@@ -24,7 +24,3 @@ Discovering new books to read is always tricky, so here's a few good resources:
     * Under advanced options there are some more options, but be sure to not include images otherwise the book files will be huge.
     * When you are ready click `Pack ePub` and the epub will be created and downloaded to your machine. You can then e.g. use Calibre to import the book in your eReader.
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
-
-## Blogs
-
-* [WaitButWhy?](https://waitbutwhy.com/): Interesting blogs posts about society, psychology, space, the future and various other topics. Written by [Tim Urban](https://twitter.com/waitbutwhy)
