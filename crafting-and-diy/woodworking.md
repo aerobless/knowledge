@@ -1,4 +1,4 @@
-# Woodworking
+# 🪚 Woodworking
 
 ## Applying Varnish
 
