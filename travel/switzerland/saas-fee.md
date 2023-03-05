@@ -1,8 +1,7 @@
 ---
 description: >-
   Saas-Fee, a resort village in the Swiss Alps near the Italian border, is known
-  for its proximity to mountains more than 4,000m above sea level, or
-  4-thousanders.
+  for its proximity to mountains more than 4,000m above sea level.
 ---
 
 # ☃ Saas Fee
