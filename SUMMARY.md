@@ -75,6 +75,7 @@
     * [💙 Zürich](travel/switzerland/zuerich.md)
   * [🇩🇪 Germany](travel/germany.md)
   * [🇺🇸 USA](travel/usa.md)
+  * [🇩🇰 Denmark](travel/denmark.md)
   * [🇺🇦 Ukraine](travel/ukraine.md)
   * [🇸🇪 Sweden](travel/sweden.md)
   * [🇵🇹 Portugal](travel/portugal.md)
