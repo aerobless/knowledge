@@ -17,3 +17,4 @@
 ## Notes
 
 * [The Poor Swiss: Tax Deductions in Switzerland](https://thepoorswiss.com/tax-deductions-in-switzerland/)
+* [Tax Calculator / Comperator for various locations in CH (UBS)](https://www.ubs.com/ch/en/private/pension/calculators/tax-calculator.html)
