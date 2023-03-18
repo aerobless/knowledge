@@ -58,6 +58,7 @@
 * [☁ SaaS & Web](saas/README.md)
   * [Notion](saas/notion.md)
   * [📀 Self-Hosting](saas/self-hosting.md)
+  * [📧 E-Mail Forwarding](saas/e-mail-forwarding.md)
 * [📈 Quantified Self](quantified-self/README.md)
   * [Glucose Monitoring](quantified-self/glucose-monitoring.md)
 * [📚 Reading](books.md)
