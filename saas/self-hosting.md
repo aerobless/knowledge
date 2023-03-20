@@ -19,6 +19,10 @@ A page containing bookmarks and useful information when you're opening a new tab
 * [Yunohost](https://yunohost.org/): Base Image to run self-hosted applications
 * [Unraid OS](https://unraid.net/product): A combination of Yunohost and Proxmox. Paid OS that has a nice UI that allows the creation of VMs and installation of pre-packaged self-hosted software such as Firefly etc. One-time purchase. I don't use this, but if I had to setup a new server I would seriously consider it.
 
+### Docker
+
+* [Runtipi.io](https://www.runtipi.io/): Easy self-hosted platform to run docker containers. Has an app store with predefined templates and looks quite nice.
+
 ## Various
 
 * [Reddit user washglad3114s 40 container self-hosted setup](https://www.reddit.com/r/selfhosted/comments/10wyzxh/40\_containers\_counting/?utm\_source=share\&utm\_medium=ios\_app\&utm\_name=iossmf): looks interesting, although a bit heavy on the piracy front :P
