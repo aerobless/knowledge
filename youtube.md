@@ -11,6 +11,9 @@
 * [Coldmirror](https://www.youtube.com/user/coldmirror) - Comedy & Harry Potter memes (German)
 * [SlivkiShow](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ) ([EN](https://www.youtube.com/channel/UC37D-JTE7-V-L-VIrxzzZpQ)/[DE](https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA)) - Experiments & Lifehacks of russian youtuber
 * [Ben Felix: Common Sense Investing](https://www.youtube.com/c/BenFelixCSI) - Fact based explanations about various financial topics.
+* [ReasonTV](https://www.youtube.com/@ReasonTV): YouTube channel of American libertarian magazin "Reason". Has interesting points in favour of free markets, capitalism and a scientific approach to politics. Also posts ocasionally fun music videos that make fun of american politics (both parties).
+  * [I didn't realize people still think socialsm is a good idea](https://www.youtube.com/watch?v=a4E9usD\_4Fo)
+  * [Music video: Free Trade Bananas](https://www.youtube.com/watch?v=rw7PUrgU3N0)
 
 ### Odd Videos
 
