@@ -57,6 +57,7 @@
 * [🕹 Games](games.md)
 * [☁ SaaS & Web](saas/README.md)
   * [Notion](saas/notion.md)
+  * [🧪 My Home Server](saas/my-home-server.md)
   * [📀 Self-Hosting](saas/self-hosting.md)
   * [📧 E-Mail Forwarding](saas/e-mail-forwarding.md)
 * [📈 Quantified Self](quantified-self/README.md)
