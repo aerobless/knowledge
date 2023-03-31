@@ -48,6 +48,8 @@
   * [Mkdocs](programming/mkdocs.md)
   * [HTML](programming/html.md)
   * [📐 Angular](programming/angular.md)
+* [🍍 Project Management](project-management/README.md)
+  * [👨💻 Scrum](project-management/scrum.md)
 * [🏠 Home Automation](home-automation.md)
 * [🤖 AI Tech](ai-tech.md)
 * [🎮 Virtual Reality](virtual-reality/README.md)
