@@ -1,4 +1,4 @@
-# 🐧 Raspian
+# 🍇 Raspian
 
 ## Headless OS Setup
 
