@@ -67,6 +67,28 @@ It is also important to find action items as a result of discovered problems/pai
 
 ### Definition of Done
 
+In a Scrum team the developers are responsible for creating done increments. In order to find out if something is done we need a definition, namely the DoD.
+
+#### Establishing a Definition of Done
+
+* Start with a short list of measurable checks, that ideally can be automated.
+* The list should include all necessary work that is required to ship the product increment into production.
+* The DoD needs to be doable by the team. There is little value to adding checks to the DoD that cannot be satisfied by the team. It is therefor better to start with a smaller DoD and expand it rather then make a massive list of checks upfront.
+
+#### Examples of what could be on a DoD
+
+* Increment passes SonarCube checks with no Critical errors
+* Cover Coverage is above a certain threshold
+* Increment meets design / architecture standards
+* Acceptance criteria pass
+* Security checks pass
+* Increment meets UX standards
+* ...
+
+#### Resources
+
+* [Nkdagility.com: Getting started with DoD](https://nkdagility.com/blog/getting-started-definition-done-dod/)
+
 ## Resources
 
 * [Scrum.org: What is Scrum?](https://www.scrum.org/learning-series/what-is-scrum)
