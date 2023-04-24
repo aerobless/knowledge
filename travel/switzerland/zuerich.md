@@ -48,3 +48,4 @@ coverY: 278.2444444444444
 * [Urban Golf (free, Züri West)](https://www.stadt-zuerich.ch/ssd/de/index/sport/sportanlagen/urban-golf.html)
 * [Chocolate Workshop (Minischoggi)](https://www.minischoggi.ch/kurse/schokoladenkurse/)
 * [Zentralbibliothek Escape Game (free)](https://www.zb.uzh.ch/de/services/escape-game)
+* [Zurich Unbezahlbar: Free stuff that you can do in Zurich](https://www.zuerichunbezahlbar.ch/events/)
