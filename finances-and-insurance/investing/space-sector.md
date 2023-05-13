@@ -4,13 +4,13 @@ In my opinion it's a great time to invest into space companies, the field is sti
 
 ## Public space companies
 
-* ****[**RocketLab**](https://www.rocketlabusa.com/)**, $RKLB**: has small re-usable orbiatal rocket (electron), large rocket in development, has successful launches, also builds satelites and other space infrastructure
-* ****[**Redwire Space**](https://redwirespace.com/)**, $RDW**: US startup, builds space infrastructure, satelites etc. has many subsidiaries that focus on specific space infrastructure (e.g. 3D printing in space, thermal shielding technologies etc.)
+* [**RocketLab**](https://www.rocketlabusa.com/)**, $RKLB**: has small re-usable orbiatal rocket (electron), large rocket in development, has successful launches, also builds satelites and other space infrastructure
+* [**Redwire Space**](https://redwirespace.com/)**, $RDW**: US startup, builds space infrastructure, satelites etc. has many subsidiaries that focus on specific space infrastructure (e.g. 3D printing in space, thermal shielding technologies etc.)
 
 ## Private space companies
 
-* ****[**Space X**](https://www.spacex.com/): leader in rocket launches, highly proven and re-usable, sadly not publicly traded, investments only possible with Alphabet and similar stakeholders
-* ****[**Relativity Space**](https://www.relativityspace.com/): US startup that 3D prints re-usable rockets, no sucessful launches yet but seems very promising
+* [**Space X**](https://www.spacex.com/): leader in rocket launches, highly proven and re-usable, sadly not publicly traded, investments only possible with Alphabet and similar stakeholders
+* [**Relativity Space**](https://www.relativityspace.com/): US startup that 3D prints re-usable rockets, no sucessful launches yet but seems very promising
 
 ## Notes
 

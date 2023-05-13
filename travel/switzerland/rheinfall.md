@@ -26,7 +26,7 @@ A lot of stuff around the Rheinfall costs money, but in my opinion it's worth it
 
 When you arrive at the river below you can take a boat across or to the little island in the middle of the waterfall. I recommend doing this at least once, it's quite an experience and the view from the middle is really cool. When getting a ticket to visit the little island a ticket to cross the river is included. Beware that the stairs on the little island are quite narrow and you need good mobility to get up to the viewing spot.
 
-<div>
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/IMG_5070.jpg" alt=""><figcaption></figcaption></figure>
 
