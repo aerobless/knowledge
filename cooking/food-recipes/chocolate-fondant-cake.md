@@ -28,7 +28,7 @@ description: Chocolate fondant cake without flour
 
 ## Results
 
-Cake is nice and moist. Can be dressed up with raspberries and cream.
+Cake is nice and moist. Can be dressed up with powdered sugar, raspberries and cream.
 
 <div>
 
