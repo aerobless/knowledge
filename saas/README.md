@@ -24,6 +24,7 @@ description: Software as a Service products that I like using.
 ## Content restrictions
 
 * [12ft Ladder](https://12ft.io/): Paywall-Remover, allows you to read articles that are blocked by a pay-wall.
+* [Paywall Bypass Extension](https://github.com/iamadamdev/bypass-paywalls-chrome): Chrome extension that allows to bypass paywalls for common newspapers.
 * [archive.today](https://archive.ph/): Archives pages & removes their paywall. Works in some places where 12ft ladder is blocked.
 * [txtify.it](https://txtify.it/): Converts web-pages to plain text. Also removes paywalls. Useful for readability as well.
 
