@@ -21,6 +21,10 @@ description: Software as a Service products that I like using.
 * [Spotify](https://spotify.com): Primary music streaming provider.
 * [YouTube](https://www.youtube.com): Not sure how to classify this one.. but I do spend a lot of time on YouTube.
 
+## Content Aggregation
+
+* [Pocket](https://getpocket.com/): Save articles, websites, videos for later. I'm trying to establish a habit that I collect things I want to read later with this. So far I haven't succeed in using it regularly, but it seems like a good service.
+
 ## Content restrictions
 
 * [12ft Ladder](https://12ft.io/): Paywall-Remover, allows you to read articles that are blocked by a pay-wall.
