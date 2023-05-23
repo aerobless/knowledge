@@ -26,6 +26,10 @@ description: Text, image generation and big GPUs
 * [KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client): WebUI for text generation model, has a simple installer for windows and can self-download models such as GPT-J and others. Can be used for text-based adventures similar to aiDungeon, novel text generation or universal text generation as well as chat-based answers. Models are quite big, so a good GPU is needed.
   * [Google Colab installation of KoboldAI](https://colab.research.google.com/github/KoboldAI/KoboldAI-Client/blob/main/colab/TPU.ipynb)
 
+## Voice Generation & Cloning
+
+* [ElevenLabs](https://beta.elevenlabs.io/voice-lab): Allows to easily create new voices or clone existing ones by submitting a few minutes of audio of a person speaking. Allows to easily clone voices of movie characters such as Severus Snape. I have tested this and even with poor quality audio and relatively low effort it works really well. Need some voice lines for a YouTube video, TikTok etc. but don't want to speak yourself? This is the tool to use.
+
 ## Online services based on AI tech
 
 * [AI Dungeon](https://play.aidungeon.io/): Text based adventure generator
