@@ -42,6 +42,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 * [Chat GPT](https://chat.openai.com/): The leader in conversational AIs. A free version is available but the more advanced model and additional features are a paid service. A lot of other AI products are based on this, respectively the same API that powers ChatGPT so it can be made to do a lot of things if you know how to prompt it right.
 * [Google Bard](https://bard.google.com/): Free conversational LLM from Google. So far (as of May 2023) not available in Europe due to Google fearing EU laws. This can be circumvented by using a VPN to a US server but so far I don't find it better then ChatGPT therefor it's not worth the hassle of using a VPN.
 * [Bing AI](https://www.bing.com/): Free conversational LLM based on GPT4. Works well and is based on the same advanced model that ChatGPT premium uses. However you can only access it in Edge currently (May 2023).
+* [HeyPi](https://heypi.com/talk): Free conversational LLM by Inflection AI. Supposedly the model is trained in house by them and it is not using any of the other vendors LLM models. It feels very like chatGPT but if it is indeed based on their own original design this is very impressive.
 
 ### Experimental / local clients
 
