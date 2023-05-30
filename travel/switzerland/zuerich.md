@@ -49,3 +49,7 @@ coverY: 278.2444444444444
 * [Chocolate Workshop (Minischoggi)](https://www.minischoggi.ch/kurse/schokoladenkurse/)
 * [Zentralbibliothek Escape Game (free)](https://www.zb.uzh.ch/de/services/escape-game)
 * [Zurich Unbezahlbar: Free stuff that you can do in Zurich](https://www.zuerichunbezahlbar.ch/events/)
+
+## Restaurants & Food
+
+* [Gault & Millau - Züri isst](https://www.gaultmillau.ch/zueri-isst) (german): Zurich food blog, with inspiring articles and news about pop-up places or new restaurants.
