@@ -23,5 +23,6 @@ description: >-
 * Cmd+Tab: Navigate through open files
 * Crtl+Space: Trigger suggestion
 * Crtl+Shift+\`: Show/hide terminal
+* Crtl+Enter: Open Copilot suggestions
 
 ### [Unity](https://unity.com) (Game Engine)
