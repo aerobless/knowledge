@@ -44,6 +44,15 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 * [Bing AI](https://www.bing.com/): Free conversational LLM based on GPT4. Works well and is based on the same advanced model that ChatGPT premium uses. However you can only access it in Edge currently (May 2023).
 * [HeyPi](https://heypi.com/talk): Free conversational LLM by Inflection AI. Supposedly the model is trained in house by them and it is not using any of the other vendors LLM models. It feels very like chatGPT but if it is indeed based on their own original design this is very impressive.
 
+### Programming Assistant / AI Pair Programming
+
+* [GitHub Copilot](https://github.com/features/copilot): Can be used as plugin in common IDEs, such as IntelliJ, Visual Studio Code etc. The broadly available version (June 2023) provides mainly helpful suggestions and advanced autocomplete funcationality while coding. Copilot X (currently in BETA) will also be able to do refactoring and have a chat prompt to answer questions.&#x20;
+  * Current features & how to use them:
+    * Start typing code & autocomplete. Can be only a single line or a whole method block or even class.
+    * Ask questions via comments. Type //q: Your question? and you will get a autocomplete with //a: answer on the next line.
+    * Create unit tests via comments. Type // Create unit tests for x-y
+    * Get multiple solutions for a problem. Hover over suggestions and click on the "3 dots -> Copilot" to open a window with up to 10 solutions.
+
 ### Experimental / local clients
 
 * [KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client): WebUI for text generation model, has a simple installer for windows and can self-download models such as GPT-J and others. Can be used for text-based adventures similar to aiDungeon, novel text generation or universal text generation as well as chat-based answers. Models are quite big, so a good GPU is needed.

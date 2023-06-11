@@ -4,7 +4,7 @@ description: >-
   computer how to perform a task
 ---
 
-# 💻 Programming
+# 💻 Software Development
 
 ## Development Tools
 
@@ -15,5 +15,13 @@ description: >-
     * [https://plantuml.com/](https://plantuml.com)
 
 ### [Visual Studio Code](https://code.visualstudio.com) (Universal editor)
+
+#### Essential Shortcuts
+
+* Cmd+Shift+P: Open Command Prompt (Palette)
+* Cmd+P: Quick Open Prompt, Go to File
+* Cmd+Tab: Navigate through open files
+* Crtl+Space: Trigger suggestion
+* Crtl+Shift+\`: Show/hide terminal
 
 ### [Unity](https://unity.com) (Game Engine)
