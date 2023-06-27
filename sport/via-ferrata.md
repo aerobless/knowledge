@@ -18,3 +18,7 @@ Climbing a via ferrata can be compared to climbing in a climbing park in terms o
 * Gloves
 * Sunglasses
 * Resting lanyard
+
+## Routes
+
+* [Kandersteg-Allmenalp (Switzerland)](../travel/switzerland/)

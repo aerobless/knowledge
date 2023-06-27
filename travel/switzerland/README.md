@@ -15,5 +15,5 @@ coverY: 78.4955028618152
 
 ## Via Ferrata (Klettersteig)
 
-* [Kandersteg-Allmenalp](http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1): Beautiful via ferrata with two route options, multiple rope-bridges and a zip-line. Access via public transport is easily possible. Can be crowded on nice weekends. It is possible to do this as a beginner, but you should not be afraid of heights since the route is fairly exposed. Many youtube videos of the route exist which can be used to judge whether one is up to the task. It is important to know that it's not possible to exit the climb once started.
+* [Kandersteg-Allmenalp](http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1): Beautiful [via ferrata](../../sport/via-ferrata.md) with two route options, multiple rope-bridges and a zip-line. Access via public transport is easily possible. Can be crowded on nice weekends. It is possible to do this as a beginner, but you should not be afraid of heights since the route is fairly exposed. Many youtube videos of the route exist which can be used to judge whether one is up to the task. It is important to know that it's not possible to exit the climb once started.
 
