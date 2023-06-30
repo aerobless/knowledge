@@ -6,6 +6,7 @@ In my opinion it's a great time to invest into space companies, the field is sti
 
 * [**RocketLab**](https://www.rocketlabusa.com/)**, $RKLB**: has small re-usable orbital rocket (electron), large rocket in development, has successful launches, also builds satellites and other space infrastructure
 * [**Redwire Space**](https://redwirespace.com/)**, $RDW**: US startup, builds space infrastructure, satellites etc. has many subsidiaries that focus on specific space infrastructure (e.g. 3D printing in space, thermal shielding technologies etc.)
+* [**Mynaric**](https://mynaric.com/)**, $MYNA**:  German startup, builds laser communication devices for communication between satellites and/or ground stations.
 
 ## Private space companies
 
