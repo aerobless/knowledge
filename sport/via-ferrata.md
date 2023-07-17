@@ -22,3 +22,4 @@ Climbing a via ferrata can be compared to climbing in a climbing park in terms o
 ## Routes
 
 * [Kandersteg-Allmenalp (Switzerland)](../travel/switzerland/)
+* [Brunni: Zittergrat, Rigidalstock (Switzerland)](../travel/switzerland/)
