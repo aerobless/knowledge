@@ -1,4 +1,4 @@
-# Code Reviews
+# 🕵 Code Reviews
 
 1. **Issue Tracker Hygiene (Jira, Redmine etc.)**
    * Is the fix version set?
@@ -17,4 +17,3 @@
    * Are failure & special cases covered?
    * Does the test name adequately explain the test case?
    * Is the test easily readable and maintainable?
-

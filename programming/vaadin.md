@@ -4,7 +4,7 @@ description: >-
   tools for building PWAs (Progressive Web Apps).
 ---
 
-# Vaadin
+# 🦌 Vaadin
 
 ### What's the USP of Vaadin?
 

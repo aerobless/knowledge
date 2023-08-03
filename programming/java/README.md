@@ -1,4 +1,4 @@
-# Java
+# ☕ Java
 
 ## Essential libraries
 

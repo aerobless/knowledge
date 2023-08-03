@@ -1,4 +1,4 @@
-# Unity C\#
+# 🪟 Unity C\#
 
 ## Async tasks - [Best Practices](https://youtu.be/7eKi6NKri6I?t=1769)
 

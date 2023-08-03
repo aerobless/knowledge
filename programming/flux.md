@@ -4,7 +4,7 @@ description: >-
   analyzing, and acting on data.
 ---
 
-# Flux
+# 🪅 Flux
 
 ## Setup
 
