@@ -122,7 +122,7 @@ When visiting the cisterns it's a good idea to bringt a sweater or jacket, as it
 
 </div>
 
-## Food & Drinks
+### Food & Drinks
 
 * [**The Pescatarian**](https://thepescatarian.dk/home)\
   Fine dining, local, danish seafood experience. Has vegetarian option for all courses and can even be made vegan upon advanced request. Highly recommended.
