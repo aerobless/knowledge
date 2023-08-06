@@ -58,7 +58,7 @@ While waiting for our time slot to climb the spire we had a quick look at the co
 
 </div>
 
-## Tivoli Garden
+### Tivoli Garden
 
 Opend in 1843, Tivoli Gardens is the worlds second-oldest amusement park. It's located right in the middle of Copenhagen so you really can't miss it. Admission is split between a basic entry fee and a variety of ride passes. It's also possible to pay for rides individually although it becomes cheaper to have a ride pass fairly quick. For reference their biggest rollercoaster, The Demon, costs 90 DKK without a ride pass.
 
@@ -78,6 +78,8 @@ Opend in 1843, Tivoli Gardens is the worlds second-oldest amusement park. It's l
 
 The park isn't gigantic and the rides are mostly of the carneval variety. But it is nicely maintained and good fun for spending half a day to a day. Since it's right in Copenhagen it's also possible to leave at any time and come back for the evening. Just be sure to get an exit stamp as you leave.
 
+The park is open quite late, and it is totally worth to come back in the evening to take advantage of the shorter ride queues and to admire all the beautiful light installations. There's also a laser show over the little lake area and sometimes there are also concerts taking place inside Tivoli.
+
 <div data-full-width="true">
 
 <figure><img src="../.gitbook/assets/IMG_20230731_215130.jpg" alt=""><figcaption></figcaption></figure>
@@ -96,7 +98,29 @@ The park isn't gigantic and the rides are mostly of the carneval variety. But it
 
 </div>
 
-The park is open quite late, and it is totally worth to come back in the evening to take advantage of the shorter ride queues and to admire all the beautiful light installations. There's also a laser show over the little lake area and sometimes there are also concerts taking place inside Tivoli.
+### Søndermarken Cisternerne
+
+Beneath Søndermarken there is a former water reservoir that is now used as an exhibition space. While I was there in 2023 there was an exhibition by South Korean artist Kimsooja called "Weaving the light". Kimsooja uses light refracting sheets of glass that create wonderfully abstract images of rainbow colours. You can have a totally different experience depending on where you stand or how you move through the exhibition.
+
+When visiting the cisterns it's a good idea to bringt a sweater or jacket, as it's fairly cool and damp down there.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_0961.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_0920 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_0929.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_0993 (1).JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Notes
 
