@@ -122,6 +122,15 @@ When visiting the cisterns it's a good idea to bringt a sweater or jacket, as it
 
 </div>
 
+## Food & Drinks
+
+* [**The Pescatarian**](https://thepescatarian.dk/home)\
+  Fine dining, local, danish seafood experience. Has vegetarian option for all courses and can even be made vegan upon advanced request. Highly recommended.
+* [**Vaekst**](https://cofoco.dk/en/vaekst)\
+  Nordic menu with fresh vegetables and herbs. Restaurant is styled like a greenhouse with hanging plants everywhere. Great option for lunch or dinner.
+* [**Brus**](https://tapperietbrus.dk/)\
+  Awesome bar with a variety of IPAs and special beers on tap. There is plenty of seating inside and out. Be sure to try out the fermented fries! They're amazing!
+
 ## Notes
 
 * [**Lego house**](https://legohouse.com/en-gb/): specially designed house, lego museum, occasionally sells specials lego sets that are only available there
