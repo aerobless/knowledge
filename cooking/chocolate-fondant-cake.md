@@ -32,14 +32,18 @@ Cake is nice and moist. Can be dressed up with powdered sugar, raspberries and c
 
 <div>
 
-<figure><img src="../../.gitbook/assets/IMG_8297.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8297.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_8298.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8298.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_8302.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_8302.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
+
+
+
+> _Recipe by H\*_

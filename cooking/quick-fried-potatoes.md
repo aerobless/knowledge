@@ -1,10 +1,4 @@
-# 🥗 Food Recipes
-
-### Pan bread
-
-{% embed url="https://youtu.be/H350I0RQWL8" %}
-
-### Quick fried Potatoes
+# 🥔 Quick fried Potatoes
 
 * Cut potatoes in quarters
 * Microwave potatoes in microwave dish + floor level water for 10min on 600 (Microwaving them reduces the total cook time significantly)

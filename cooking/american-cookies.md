@@ -1,7 +1,5 @@
 # 🍪 American Cookies
 
-Based on [Swiss Milk Recipe](https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/RB\_KAF2002\_12\_A/chocolate-chip-cookies-american-cookies/)
-
 ### Ingredients for 2 sheets (73 cookies)
 
 * 200g butter
@@ -30,3 +28,7 @@ Based on [Swiss Milk Recipe](https://www.swissmilk.ch/de/rezepte-kochideen/rezep
 * Shaping balls and flattening works better with cold/wet (water) hands
 * Bake only one sheet at a time
 * Leave enough space on sheet between cookies or they may form one gigant sheet sized cookie ;-)
+
+
+
+> Based on [Swiss Milk Recipe](https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/RB\_KAF2002\_12\_A/chocolate-chip-cookies-american-cookies/)
