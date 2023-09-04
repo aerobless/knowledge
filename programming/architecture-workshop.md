@@ -4,8 +4,6 @@ description: Zühlke Camp Architecture Workshop (04.09.23)
 
 # 📐 Architecture Workshop
 
-## Setup
-
 The idea is to create a software architecture for a fictional java backend application. In order to get different NFRs for all workshop participants chatGPT is used with the following prompt:
 
 {% code overflow="wrap" %}
@@ -125,9 +123,9 @@ MonitoringLogs("📜 Monitoring:\n Log Analysis (e.g. Kibana)")
 #### Sharding
 
 * Sharding needs to be considered when doing the db schema design
-* **Vertical** sharding: Distributes columns across multiple databases or tables. Each shard contains a different schema but serves the same set of records.
-* **Horizontal** sharding: Distributes rows across multiple databases or tables. Each shard contains the same schema but different subsets of data.
-* see more: [https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/)
+  * **Vertical** sharding: Distributes columns across multiple databases or tables. Each shard contains a different schema but serves the same set of records.
+  * **Horizontal** sharding: Distributes rows across multiple databases or tables. Each shard contains the same schema but different subsets of data.
+  * see more: [https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/)
 * Horizontal sharding is generally more common for several reasons:
   1. **Scalability**: It's easier to scale horizontally-sharded databases by just adding more servers.
   2. **Uniformity**: Horizontal sharding often requires less drastic changes to application logic and SQL queries.
@@ -141,10 +139,13 @@ MonitoringLogs("📜 Monitoring:\n Log Analysis (e.g. Kibana)")
 * Cached data has a TTL, when TTL is exceeded these entries are dropped to keep the cache from growing too large for seldom used data.
 * When reading the cache is consulted first, if the entry is not found the data is loaded from the DB and written to the cache
 
+### Microservices
+
+tbd
+
 ### Todo:
 
 * load balancer failover in 30s possible? how does dns failover work?
-* how to persist data to cache and db at the same time?
-* how does db sharding work?
-  * relational vs. nosql db?
 * missing: geo zones, redirect based on geo location
+* microservices
+  * what does the backend node do?
