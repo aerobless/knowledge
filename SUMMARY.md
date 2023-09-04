@@ -10,6 +10,7 @@
   * [🪟 Windows](operating-systems/windows.md)
 * [💻 Software Development](programming/README.md)
   * [☀ Apache Solr](programming/apache-solr.md)
+  * [📐 Software Architecture](programming/software-architecture.md)
   * [📜 Tech Interview Cheatsheet](programming/tech-interview-cheatsheet.md)
   * [🔐 Security](programming/security.md)
   * [🧩 Software Design Patterns](programming/software-design-patterns.md)
