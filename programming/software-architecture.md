@@ -39,6 +39,48 @@ for me this resulted in the following NFRs:
 9. **Uptime**: 99.9% service availability, not counting scheduled maintenance.
 10. **Geo-Redundancy**: Availability zones in at least 3 geographic regions for data and application failover.
 
-### Example architecture
+### Exercise
 
-tbd
+#### Initial thoughts
+
+* **10'000 reqs/s is a lot**
+  * how many server nodes are needed to handle this demand? autoscaling?
+  * how demanding is a request?
+  * is data read/write or mostly read? If it is read/write is it data that needs to be available across all nodes immediately e.g. online shop inventory or is eventually consistency ok?
+  * nodes should be stateless
+  * where can caching be implemented?
+* **200ms peak response time**
+  * seems doable, within normal limits, although guaranteeing it might be difficult
+* **Fault tolerance with 30s failover**
+  * the data needs to be kept in sync for this to work, although given all the other requirements scalability, sharing etc. a cloud solution is likely, so many small server can be used, which would enable this a bit more easily
+* **DB backup**
+  * seems doable, although it might be more difficult to do the full backups if the DB is very large
+* **Scaling: adding nodes without downtime, db sharding**
+  * again leading in the direction of cloud services. This might be difficult to do if on premise solution is required
+* **Automation/deployment**
+  * seems doable, makes sense
+  * monitoring is needed anyway for failover etc.
+
+#### Initial solution
+
+This case seems targeted at using a public cloud offering such as AWS or Google. On premise this may be difficult to implement, but could be done with a Kubernetes Cluster or similar. Although the last NFR about geo redundancy would make this very expensive and only feasible for a large multinational corp.
+
+```mermaid
+graph TD
+A("User Input 🙍‍♂️")-->|10'000req/s|LB("Load Balancer")
+LB --> BeNode1("Backend Node 1")
+LB --> BeNode2("Backend Node 2")
+LB --> BeNode3("Backend Node n")
+
+Config("Configuration Server")
+
+Cache("DB Cache")
+BeNode1 --> Cache
+BeNode2 --> Cache
+BeNode3 --> Cache
+```
+
+#### Backend Node
+
+* stateless
+* gets configuration from configuration server
