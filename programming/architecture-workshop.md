@@ -86,10 +86,10 @@ LB2 -.-> BeNodes
 Config("🔧 Configuration Server")
 BeNodes --> |load configuration on startup|Config
 
-Cache[("Cache \n (e.g. Redis or similar) \n with TTL")]
+Cache[("🗂️ Cache \n (e.g. Redis or similar) \n with TTL")]
 BeNodes --> |"read (lazy loading)"|Cache
 
-DB[("Database Cluster \n(with horizontal sharding \n e.g. based on region?)")]
+DB[("📚 Database Cluster \n(with horizontal sharding \n & replication factor \n sharding e.g. based on region?)")]
 
 dataWrite{{write/update data}}
 BeNodes --> dataWrite
@@ -97,7 +97,7 @@ dataWrite --> Cache
 dataWrite --> DB
 BeNodes -->|read in case of cache miss \n -> update cache| DB
 
-MonitoringStats[("Monitoring:\n Time Series DB (e.g. Influx) \n user count, uptime, etc.")]
+MonitoringStats[("🕵️‍♂️ Monitoring:\n Time Series DB (e.g. Influx) \n user count, uptime, etc.")]
 MonitoringDashboard("📈 Monitoring:\n Dashboard (e.g. Grafana)")
 MonitoringDashboard --> MonitoringStats
 BeNodes --> |push logs| MonitoringLogs
@@ -139,9 +139,7 @@ MonitoringLogs("📜 Monitoring:\n Log Analysis (e.g. Kibana)")
 * Cached data has a TTL, when TTL is exceeded these entries are dropped to keep the cache from growing too large for seldom used data.
 * When reading the cache is consulted first, if the entry is not found the data is loaded from the DB and written to the cache
 
-### Microservices
 
-tbd
 
 ### Todo:
 
