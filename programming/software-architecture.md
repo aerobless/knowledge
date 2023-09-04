@@ -67,17 +67,18 @@ This case seems targeted at using a public cloud offering such as AWS or Google.
 
 ```mermaid
 graph TD
-A("User Input 🙍‍♂️")-->|10'000req/s|LB("Load Balancer")
-LB --> BeNode1("Backend Node 1")
-LB --> BeNode2("Backend Node 2")
-LB --> BeNode3("Backend Node n")
+A("User Input 🙍‍♂️")-->|10'000req/s \n max 200ms resp. time|LB("Load Balancer")
+LB --> BeNodes("Backend Node 1 of n")
 
 Config("Configuration Server")
 
-Cache("DB Cache")
-BeNode1 --> Cache
-BeNode2 --> Cache
-BeNode3 --> Cache
+Cache("Cache (e.g. Redis or similar)")
+BeNodes --> |read|Cache
+BeNodes --> |load configuration on startup|Config
+
+DB("Database (with sharding)")
+BeNodes --> |write|DB
+DB --> |update cache|Cache
 ```
 
 #### Backend Node
