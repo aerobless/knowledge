@@ -67,18 +67,36 @@ This case seems targeted at using a public cloud offering such as AWS or Google.
 
 ```mermaid
 graph TD
-A("User Input 🙍‍♂️")-->|10'000req/s \n max 200ms resp. time|LB("Load Balancer")
-LB --> BeNodes("Backend Node 1 of n")
+LB1("Load Balancer 1 (active)")
+LB2("Load Balancer 2 (passive)")
 
-Config("Configuration Server")
+DNS("🛜 DNS Server")
+LBMonitoring("✅ LB Monitoring \n (receives heartbeat from LB1/2)")
+LBMonitoring --> |elect active LB|DNS
 
-Cache("Cache (e.g. Redis or similar)")
+A("User Input 🙍‍♂️ \n (Frontend)")-->|10'000req/s \n max 200ms resp. time|DNS
+DNS --> LB1
+DNS -.-> LB2
+LB1 --> BeNodes("⚙️ Backend Node 1 of n")
+LB2 -.-> BeNodes
+
+Config("🔧 Configuration Server")
+
+Cache[("Cache \n (e.g. Redis or similar)")]
 BeNodes --> |read|Cache
 BeNodes --> |load configuration on startup|Config
 
-DB("Database (with sharding)")
+DB[("Database \n(with sharding)")]
 BeNodes --> |write|DB
 DB --> |update cache|Cache
+
+MonitoringStats[("Monitoring:\n Time Series DB (e.g. Influx)")]
+MonitoringDashboard("📈 Monitoring:\n Dashboard (e.g. Grafana)")
+MonitoringDashboard --> MonitoringStats
+BeNodes --> |pushes metrics|MonitoringStats
+BeNodes --> |push logs| MonitoringLogs
+
+MonitoringLogs("📜 Monitoring:\n Log Analysis (e.g. Kibana)")
 ```
 
 #### Backend Node
