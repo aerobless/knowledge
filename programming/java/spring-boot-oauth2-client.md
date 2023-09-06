@@ -1,4 +1,4 @@
-# Spring Boot OAuth2 Client
+# 🍃 Spring Boot OAuth2 Client
 
 Configuring a Spring Boot backend as a OAuth2 Client. The idea being that a frontend application (e.g. Angular UI) does not handle any of the oauth stuff. It simply has a active session with the backend via a session cookie (JSESSIONID).
 

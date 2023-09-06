@@ -1,4 +1,4 @@
-# Spring Cloud Function
+# 🍃 Spring Cloud Function
 
 ## Getting started
 
@@ -75,8 +75,6 @@ task buildZip(type: Zip) {
 2. Code Source -> Upload from -> choose .zip file in distributions folder
 
 In order to set the correct handler for the function we need to go to Runtime Settings -> Edit. There we can replace the example handler "example.Hello::handleRequest" with our own. "com.sixtymeters.springcloudfunction.SpringCloudFunctionApplication::reverseString"
-
-
 
 ## Notes
 

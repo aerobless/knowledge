@@ -1,4 +1,4 @@
-# JPA/Hibernate
+# 🐻 JPA/Hibernate
 
 ## Common Linking Use Cases
 
