@@ -1,4 +1,4 @@
-# 🔦 Self Organization
+# 🔄 Habits
 
 ## Atomic Habits ([YT](https://www.youtube.com/watch?v=PZ7lDrwYdZc))
 
@@ -45,16 +45,3 @@ The premise of the book "Atomic Habits" is that these loops can be changed to be
 * **Measure progress** / habit tracking: It can feel rewarding to see that you've completed your habit several times. This reinforces the habit even further.
 * **Bad days**: Just show up. Breaking the chain can be the start of a bad habit. Just reduce the difficulty of the habit for that day so that it can still count as completed.
 * **Habit contract**: It can be useful to create a contract with yourself to do or not do a certain habit. E.g. if I fail to do x I will donate x $ to charity.&#x20;
-
-## Procrastination
-
-* [Procrastination "cure":](https://www.youtube.com/watch?v=iow5V3Qlvwo) the premise of this video is that we know what we need to do to change things but simply don't want to do them due to too many other stimuli. To fix this we need to remove distractions. In the most absolute way -> do your task in an empty white room with no alternatives.
-  * **What I find helpful:**
-    * Set time limit on distracting apps, e.g. YT 1h per day
-    * Remove triggers for useless/distracting activities, see [Habit Loop](self-organization.md#habit-loop)
-
-## Notes
-
-* **Notion**
-  * [Annual Review](https://www.youtube.com/watch?v=ERGbgvvCJ8o) (Ali Abdaal)
-  * [Notion Update 2021](https://www.youtube.com/watch?v=XsqtQ0XneGI) (Anna Lenks)
