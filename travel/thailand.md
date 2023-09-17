@@ -97,7 +97,7 @@ The ticket to the Grand Palace also includes an entry into the queens textile mu
 
 ### Khaosan Road
 
-Khaosan Road is a bustling backpacker hub in Bangkok, teeming with lively bars, street food vendors, and an eclectic mix of travelers from around the world.
+Khaosan Road is a bustling backpacker hub in Bangkok, teeming with lively bars, street food vendors, and an eclectic mix of travellers from around the world.
 
 <div>
 
@@ -116,6 +116,8 @@ Khaosan Road is a bustling backpacker hub in Bangkok, teeming with lively bars, 
 ## Khao Sok
 
 Khao Sok is a lush national park in southern Thailand, boasting ancient rainforests, limestone cliffs, deep-blue lakes, and diverse wildlife.
+
+
 
 ## Koh Samui
 
