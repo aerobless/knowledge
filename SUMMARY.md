@@ -94,6 +94,7 @@
   * [🗣 Languages](travel/languages.md)
 * [🌵 Botany](botany.md)
 * [💊 Health](nutrion/README.md)
+  * [💆♀ Massaging](nutrion/massaging.md)
   * [☕ Coffee](nutrion/coffee.md)
   * [🛏 Sleep](nutrion/sleep.md)
 * [🍳 Cooking](cooking/README.md)
