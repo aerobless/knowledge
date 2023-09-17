@@ -19,6 +19,7 @@ description: Software as a Service products that I like using.
 * [Netflix](https://www.netflix.com): Primary video streaming provider.
 * [Amazon Prime](https://www.primevideo.com): Secondary video streaming provider.
 * [Spotify](https://spotify.com): Primary music streaming provider.
+  * my public Spotify profile can found [here](https://open.spotify.com/user/31szfhpecrrddes73llrsxomp2pu?si=d391c94e5cee4a3d)
 * [YouTube](https://www.youtube.com): Not sure how to classify this one.. but I do spend a lot of time on YouTube.
 
 ## Content Aggregation
