@@ -115,9 +115,65 @@ Chew Jetty is a historic waterfront settlement in Penang consisting of wooden st
 
 </div>
 
+## Cameron Highlands
+
+Cameron Highlands is a notable destination for its sprawling tea plantations, strawberry farms, and the ethereal Mossy Forest, offering a blend of agricultural richness and natural beauty.
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/IMG_6411.JPG" alt="" width="563"><figcaption><p>BoH tea plantation</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3756.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3696.jpg" alt="" width="563"><figcaption><p>strawberries at the markets</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3712.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6449.JPG" alt="" width="563"><figcaption><p>carnivorous plants in the wild.. H* thinks they look like condoms 🤭😆 </p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6458.JPG" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6516.JPG" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
 ## Kuala Lumpur
 
 Kuala Lumpur, the capital of Malaysia, is a bustling metropolis known for its iconic skyline dominated by the Petronas Twin Towers, a rich mix of cultural influences, and a vibrant food and shopping scene.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_3981.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3910.jpg" alt=""><figcaption><p>Asam Laksa with Bandung Longan drink</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3927.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_3936.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4006.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Malacca
 
