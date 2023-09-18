@@ -7,7 +7,7 @@ description: >-
 
 # 🇲🇾 Malaysia
 
-## Georg Town, Penang
+## George Town, Penang
 
 George Town, the capital city of the Malaysian state of Penang, is a UNESCO World Heritage site celebrated for its historic colonial architecture, intricate temples, and mosques. The city is a melting pot of diverse cultural influences, notably Chinese, Indian, and Malay, which is most evident in its eclectic cuisine, festivals, and vibrant street art.
 
@@ -175,7 +175,83 @@ Kuala Lumpur, the capital of Malaysia, is a bustling metropolis known for its ic
 
 </div>
 
+Just like in George Town there is also tons of street art to marvel at. But another highlight of KL are of course the Petronas Towers at night. There's also a water/light show called "[Lake Symphony](https://www.suriaklcc.com.my/attractions/esplanade-lake-symphony)" happening every night at KLCC park. For the best view of the Petronas Towers it's best to go to one of the sky bars just across the park. (e.g. [SkyBar](https://maps.app.goo.gl/qySmxY35m5Zeviv46))
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/IMG_4081.jpg" alt="" width="375"><figcaption><p>Lake Symphony at KLCC park</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4036.jpg" alt="" width="375"><figcaption><p>a shot from below at KLCC park</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4119.jpg" alt="" width="563"><figcaption><p>for the best view go to one of the sky bars opposite of the Petronas Towers</p></figcaption></figure>
+
+</div>
+
+### Batu Caves
+
+The Batu Caves are a Hindu pilgrimage site near Kuala Lumpur featuring a towering limestone hill and ornate cave temples. A 272-step climb leads to the main Cathedral Cave. But be alert; the local macaque monkeys are known for swiping unguarded snacks!
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/IMG_6614.JPG" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6543.JPG" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4205.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4233.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4249.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6593.JPG" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_6607.JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## Malacca
 
 Malacca, also known as Melaka, is a historic city in Malaysia that is a UNESCO World Heritage Site, distinguished for its colonial-era architecture and complex history involving Portuguese, Dutch, and British rule, which has left an indelible impact on its culture and landmarks.
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_4120.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4447.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4477.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4504.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4520.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_4536.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
