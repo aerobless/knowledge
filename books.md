@@ -24,6 +24,7 @@ Discovering new books to read is always tricky, so here's a few good resources:
     * Under advanced options there are some more options, but be sure to not include images otherwise the book files will be huge.
     * When you are ready click `Pack ePub` and the epub will be created and downloaded to your machine. You can then e.g. use Calibre to import the book in your eReader.
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
+* [O'Reilly ePub Downloader](https://chrome.google.com/webstore/detail/my-oreilly-downloader/deebiaolijlopiocielojiipnpnaldlk) (Chrome Extension): Used to download O'Reilly eBooks as ePub so they can be read on a Kindle or similar eReader. Very useful if you have a O'Reilly subscription through your workplace or school.
 
 ## Blogs
 
