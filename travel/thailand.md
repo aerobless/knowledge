@@ -193,7 +193,7 @@ Koh Samui is a serene island in Thailand's Gulf, characterised by its white-sand
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2838.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_2838 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

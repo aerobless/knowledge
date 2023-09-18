@@ -36,6 +36,11 @@ description: Software as a Service products that I like using.
   * my public Spotify profile can found [here](https://open.spotify.com/user/31szfhpecrrddes73llrsxomp2pu?si=d391c94e5cee4a3d)
 * [YouTube](https://www.youtube.com): Not sure how to classify this one.. but I do spend a lot of time on YouTube.
 
+## Financials
+
+* [Splitwise](https://www.splitwise.com/): Keep track of expenses with friends and partners. Very useful when travelling together. The basic idea is that you open a group and all involved parties keep adding expenses (e.g. dinner, drinks, tickets etc.. In the end you have a balance that shows who still owes what.
+* [Twint](https://www.twint.ch/en/): Swiss payment app. Useful for sending money to other Swiss people or as backup payment method when normal mobile payment solutions like Apple/Google Pay don't work.
+
 ## Note taking
 
 * [Notion](https://www.notion.so): Personal note-taking app that can be morphed into any kind of tool you desire. I use it to keep track of my tasks, ideas, long-term goals and so on. It's basically my private counterpart to this wiki.
