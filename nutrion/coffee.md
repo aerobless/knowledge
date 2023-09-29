@@ -4,7 +4,7 @@
 
 ### Nespresso
 
-* [Kaffekapseln.ch](https://www.kaffekapslen.ch/): Shop to order coffee pods for a good price in bulk
+* [Kaffekapslen.ch](https://www.kaffekapslen.ch/): Shop to order coffee pods for a good price in bulk
 
 #### Machine Maintenance
 
