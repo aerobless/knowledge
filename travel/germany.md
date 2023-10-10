@@ -11,3 +11,8 @@ The resort hotels are quite nice. During my visit in may 2022 I stayed at the [H
 ![The hotel rooms (cabins) are not very big but really nicely themed](../.gitbook/assets/IMG\_0317.jpeg) ![After the park closes you can walk through the park are closest to the hotel. The F.L.Y rollercoaster is visible on this photo.](../.gitbook/assets/IMG\_0306.jpeg) ![The burger dinner option ](../.gitbook/assets/IMG\_20220521\_194030.jpeg)
 
 The park itself is very nicely themed with lots of rides. During a typical non-holiday weekend the wait times are acceptable between 5-30min per ride. Event though the park is fairly compact in land mass there's lots of stuff to do. If you want to ride every ride you'll have trouble to fit it all in a day. 2 day stays are ideal I think.
+
+## Hanover
+
+* New Town Hall ("Neues Ratshaus"): City viewpoint & strange curved elevator. (see: [Tom Scott YT](https://www.youtube.com/watch?app=desktop\&v=ZgDBIzClmPg))
+
