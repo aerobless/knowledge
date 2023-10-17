@@ -19,8 +19,8 @@ description: >-
 * [Google Maps](https://apps.apple.com/us/app/google-maps/id585027354): Maps duh! 😄
 * [Google Chrome](https://apps.apple.com/us/app/google-chrome/id535886823): Although all browsers on iOS use the same engine, I prefer this over Safari due to it syncing my bookmarks and other Google services.
 * [Google Calendar](https://apps.apple.com/uy/app/google-calendar-get-organised/id909319292): The best calendar service.
+* [Google Keep](https://apps.apple.com/us/app/google-keep-notes-and-lists/id1029207872): I use this as my shopping list app since it integrates with Google Home. Google Keep has a nice clean user interface and it can be used for other kinds of notes and lists as well. Although personally I mainly use [Notion](../saas/notion.md) for this kind of data.
 * [Pocket](https://getpocket.com/): Read-later news aggregator service. Useful to mark articles, blog posts and videos to consume later.
-* [Bring](https://www.getbring.com/): Groceries/shopping list app & SaaS. Allows you to create shared shopping lists. App is well designed, it recognises product names and adds little pictograms to make it quick to use while shopping. You can also pre-defined the order of the list, e.g. fruit -> bread -> meats etc. (Sadly doesn't integrate with Google Home anymore - looking to replace this 👀)
 * [Notion](https://apps.apple.com/us/app/notion-notes-docs-tasks/id1232780281): Universal notes app that can be configured extensively to personal taste. I use this as my private second brain. See also [SaaS -> Notion](../saas/notion.md).
 * [X](https://apps.apple.com/us/app/x/id333903271): World news, local news & discussions. Diverse viewpoints.
 * [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580): The best music streaming app. It's literally the only one that does a good job of handing over streams between multiple computers, smart speakers and phones.
