@@ -6,6 +6,13 @@
 * Slicer: Creality Slicer or CURA. Creality Slicer is a stripped down version of CURA with ready to use profiles
 * [Octoprint](https://octoprint.org/)&#x20;
 
+## Ideal settings
+
+* **Copper PLA+**\
+  Printing temperature: 215°C, Build plate: 65°C, Flow: 100%
+* **Black PLA**\
+  Printing temperature: 220°C, Build plate: 65°C, Flow: 100%
+
 ## Problem Solving
 
 ### Warping at the corners ([lnk](https://www.wevolver.com/article/what-causes-3d-print-warping-and-how-to-prevent-it))
