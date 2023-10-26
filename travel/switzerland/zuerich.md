@@ -35,7 +35,7 @@ coverY: 278.2444444444444
 * [Dolder Ice Skating Rink](https://www.doldersports.com/en/winter-front-page-en/ice-skating-rink/): The best place to ice-skate in Zurich is at the Dolder Ice Skating rink. It's easily accessible via the Dolder Bahn from Stadelhofen.
 * [Uetliberg Uto Kulm Winter Magic](https://www.utokulm.ch/winter-magic): A great place for a quick hike or experiencing the snow (if there is any). During winter there is usually a mulled wein stand, food and some Xmas decorations up there.
 
-## Things to do / Team Event ideas
+## Things to do in Zurich / Team Events
 
 * [Foxtrail](https://www.foxtrail.ch/en/alle-trails)
 * Airport / S Air Technics Tour
@@ -49,6 +49,8 @@ coverY: 278.2444444444444
 * [Chocolate Workshop (Minischoggi)](https://www.minischoggi.ch/kurse/schokoladenkurse/)
 * [Zentralbibliothek Escape Game (free)](https://www.zb.uzh.ch/de/services/escape-game)
 * [Zurich Unbezahlbar: Free stuff that you can do in Zurich](https://www.zuerichunbezahlbar.ch/events/)
+* [NZZ Live Talks: Interesting talks from the Neue Zürcher Zeitung](https://live.nzz.ch/de/zukunftige-veranstaltungen)
+* [Shake 'N' Smile: Cocktail courses, also alcohol free option, recommended by H\*](https://shakensmile.ch/cocktailkurse/)
 
 ## Restaurants & Food
 
