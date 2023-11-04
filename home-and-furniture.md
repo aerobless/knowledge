@@ -9,6 +9,7 @@
 ### Pillows
 
 * standard pillow size: 50x60cm
+* when comparing IKEA pillows with synthetic (GRÖNAMARANT) and down/feather core (BERGVEN) the synthetic pillow loses it's plush shape more quickly. After about 6months the synthetic pillow is a lot flatter then the traditional one. -> tldr; down/feather pillow is better
 
 ### Bed linens
 
