@@ -76,6 +76,7 @@
   * [🇩🇰 Denmark](travel/denmark.md)
   * [🇫🇷 France](travel/france.md)
   * [🇩🇪 Germany](travel/germany.md)
+  * [🇭🇺 Hungary](travel/hungary.md)
   * [🇮🇹 Italy](travel/italy.md)
   * [🇲🇾 Malaysia](travel/malaysia.md)
   * [🇵🇪 Peru](travel/peru.md)
