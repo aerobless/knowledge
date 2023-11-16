@@ -81,3 +81,29 @@ public class SecurityConfig {
 .csrfTokenRepository(CookieCsrfTokenRepository.withHttpOnlyFalse());
 ```
 
+## **Debugging**
+
+### Inspect raw JWT & userinfo attributes
+
+The following classes are useful to debug the oauth flow and to inspect the raw JWT:
+
+*   **OAuth2LoginAuthenticationProvider.authenticate(..)**
+
+    ```java
+    OAuth2AccessToken accessToken = authorizationCodeAuthenticationToken
+    .getAccessToken();
+
+    // The raw base64 encoded tokenValue can be translated with https://jwt.io/
+    ```
+*   **DefaultOAuth2UserService.loadUser(..)**
+
+    ```java
+    RequestEntity<?> request = (RequestEntity)this.requestEntityConverter
+    .convert(userRequest);
+    ResponseEntity<Map<String, Object>> response = 
+    this.getResponse(userRequest, request);
+    Map<String, Object> userAttributes = (Map)response.getBody();
+
+    // Here the userinfo endpoint of the oauth provider is called 
+    // to get additional user attributes that are not contained in the JWT
+    ```
