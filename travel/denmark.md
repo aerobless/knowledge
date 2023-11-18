@@ -1,3 +1,10 @@
+---
+description: >-
+  Denmark, in Northern Europe, is known for progressive policies, design
+  innovation, and landscapes blending coastal islands with modern urban
+  architecture.
+---
+
 # 🇩🇰 Denmark
 
 ## Copenhagen

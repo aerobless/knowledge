@@ -1,4 +1,17 @@
+---
+description: >-
+  The United Kingdom, comprising England, Scotland, Wales, and Northern Ireland,
+  is notable for its diverse cultures, historic significance, and varied
+  landscapes.
+---
+
 # 🇬🇧 United Kingdom
+
+## Scotland
+
+### Edinburgh
+
+* [Department of Magic](https://www.departmentofmagic.com/): Harry Potter themed escape rooms and bar where you can mix your own potions ([Insta Story](https://www.instagram.com/reel/CxvmhJKpj5X/?utm\_source=ig\_web\_button\_share\_sheet\&igshid=ZDNlZDc0MzIxNw==)). Reservation recommended.
 
 ## England
 

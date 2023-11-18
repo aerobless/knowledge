@@ -1,3 +1,10 @@
+---
+description: >-
+  Germany, a central European country, is known for its strong economy, rich
+  cultural history, technological innovations, and landmarks like the
+  Brandenburg Gate and Neuschwanstein Castle.
+---
+
 # 🇩🇪 Germany
 
 ## [Phantasialand](https://www.phantasialand.de/en/)

@@ -1,3 +1,10 @@
+---
+description: >-
+  Peru, a country in South America, is renowned for its ancient Incan heritage,
+  diverse landscapes ranging from the Amazon rainforest to the Andes Mountains,
+  and the iconic Machu Picchu.
+---
+
 # 🇵🇪 Peru
 
 ## Notes

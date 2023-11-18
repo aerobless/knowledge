@@ -1,3 +1,10 @@
+---
+description: >-
+  Sweden, a Scandinavian country in Northern Europe, is recognized for its high
+  quality of life, innovative design and technology, and scenic landscapes
+  including deep forests and coastal islands.
+---
+
 # 🇸🇪 Sweden
 
 ## Malmö

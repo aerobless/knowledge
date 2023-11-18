@@ -1,3 +1,10 @@
+---
+description: >-
+  France, a key European nation, is famed for its cultural influence, from
+  fashion to gastronomy. It's home to historic landmarks like the Eiffel Tower,
+  the Louvre, and picturesque countryside regions.
+---
+
 # 🇫🇷 France
 
 ## Paris

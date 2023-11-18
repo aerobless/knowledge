@@ -1,3 +1,10 @@
+---
+description: >-
+  The United States of America (USA) is a vast federal republic in North
+  America, known for its diverse landscapes ranging from Alaskan wilderness to
+  Florida's beaches.
+---
+
 # 🇺🇸 USA
 
 ## Notes
