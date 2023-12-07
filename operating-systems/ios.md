@@ -26,6 +26,8 @@ description: >-
 * [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580): The best music streaming app. It's literally the only one that does a good job of handing over streams between multiple computers, smart speakers and phones.
 * [BeReal](https://apps.apple.com/us/app/bereal-your-friends-for-real/id1459645446): Social media app where you post a picture once a day at a random time defined by the service.
 * [TooGoodToGo](https://apps.apple.com/ch/app/too-good-to-go/id1060683933): Services that matches food that is about to expire with customers. You can buy the food at heavily reduced prices making it both a bargain and also helps to reduce food waste.
+* [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking.
+  * [Delta Emulator](https://github.com/rileytestut/Delta): NES, SNES, N64, GBC, GBA, DS emulator for iOS. Can be installed via AltStore.
 
 ## Swiss apps
 
