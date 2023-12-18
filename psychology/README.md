@@ -4,6 +4,10 @@ description: Psychology is the scientific study of mind and behaviour.
 
 # 🧠 Psychology
 
+## Motivational content
+
+* [The fastest way to ruin your entire life](https://www.youtube.com/watch?v=wUpBrALhlnc)
+
 ## Topics
 
 * [Habits](habits.md)
