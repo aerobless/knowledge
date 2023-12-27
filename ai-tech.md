@@ -31,6 +31,12 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 * [Upscale.media](https://www.upscale.media/): Upscale and other image improvement algorithms. Can be used to upscale AI generation low resolution images.
 
+## Video Generation
+
+### Generation
+
+* [Pika.art](https://pika.art/): Generate video clips based on prompts and/or source material. Source material may consist of existing video clips or images.
+
 ### Image to Video Transformations
 
 * [D-ID](https://www.d-id.com/speaking-portrait/): Animated faces of people with voice lines or slight head movements. Can be used to create short clips where a person is speaking some text. Mouth movements are synchronised to the spoken audio clip.
