@@ -61,7 +61,8 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 #### Graphics & art
 
 * [Gifski](https://github.com/sindresorhus/Gifski): Convert videos to high-quality gifs.
-* [Krita](https://krita.org/en/): Free open source photoshop alternative, great for creating textures, concept art and illustrations - personally I find it more comfortable to use than GIMP.
+* [Pixelmator Pro](https://www.pixelmator.com/pro/): All encompassing photo & image editor. I find it more user-friendly than Krita and with a price point of around 25$ it's easily worth the expense. It also includes some useful ML utilities such as removing unwanted objects, upscaling images, and automatic selection of subjects.
+* [Krita](https://krita.org/en/): Free open source photoshop alternative, great for creating textures, concept art and illustrations - personally I find it more comfortable to use than GIMP. (I've stopped using this in fasvor of Pixelmator)
 
 #### Entertainment
 
@@ -100,4 +101,4 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 
 ## OS files .gitignore
 
-{% embed url="https://github.com/github/gitignore/blob/main/Global/macOS.gitignore" %}
+{% @github-files/github-code-block %}

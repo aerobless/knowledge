@@ -121,5 +121,5 @@
 * [🥳 Social](social.md)
 * [🗃 Various Notes](various-notes.md)
 * [🎆 Year in Review](year-in-review/README.md)
-  * [✈ 2023](year-in-review/2023.md)
   * [🪐 2022](year-in-review/2022.md)
+  * [✈ 2023](year-in-review/2023.md)

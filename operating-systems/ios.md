@@ -28,6 +28,7 @@ description: >-
 * [TooGoodToGo](https://apps.apple.com/ch/app/too-good-to-go/id1060683933): Services that matches food that is about to expire with customers. You can buy the food at heavily reduced prices making it both a bargain and also helps to reduce food waste.
 * [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking.
   * [Delta Emulator](https://github.com/rileytestut/Delta): NES, SNES, N64, GBC, GBA, DS emulator for iOS. Can be installed via AltStore.
+* [CapCut](https://www.pixelmator.com/pro/): Video editing tool with nice transitions and some good ML utilities. Developed by Bytedance (Makers of TikTok).
 
 ## Swiss apps
 
