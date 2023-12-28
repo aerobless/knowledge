@@ -54,6 +54,15 @@ description: >-
   * [$AVUV](https://etfdb.com/etf/AVUV/#etf-ticker-profile): US only, small cap value, TER 0.25%
   * [$AVDV](https://etfdb.com/etf/AVDV):  international, small cap value, TER 0.36%
 
+## Best trading days when investing on a schedule
+
+* **Buying**: middle of the month (10th - 15th) & middle of the week & middle of the trading window
+* **Selling**: around the turn of the month (27th+)
+
+Why? Periodic flows of money tend to be concentrated at the turn of the month (salary, automatic investments into mutual funds etc.) ([source](https://www.investopedia.com/day-trading/best-time-day-week-month-trade-stocks/#toc-best-date-of-the-month))
+
+Prices also tend to be most stable during the middle of the trading window - whereas right after opening or closing prices can fluctuate more.
+
 ## Vocabulary
 
 * ETF: Exchange Traded Fund
