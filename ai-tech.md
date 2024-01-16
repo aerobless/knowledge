@@ -13,8 +13,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 ## Image Generation & Manipulation
 
-### Generation
-
+* [Clipdrop.co](https://clipdrop.co/): Various Generation, Manipulation & Editing Tools by Stability AI (creators of Stable Diffusion). Includes uncrop, face swap, upscale, replace background, and more.
 * [Dall-E](https://openai.com/dall-e-3): Cloud Service with API by OpenAI
 * [Stable-Diffusion](https://stability.ai/blog/stable-diffusion-public-release): Open & free AI models for image generations made by Stability AI, can be used in the cloud e.g. via DreamStudio oder locally on a machine with a big GPU
   * [Simple Installer with Web UI for windows](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer)
@@ -26,9 +25,6 @@ I find AI is genuinely one of the most interesting fields in computing and techn
   * [Lexica.art](https://lexica.art/): Images and corresponding prompts for stable diffusion
   * [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/): Subreddit about stable diffusion and other interesting AI topics
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): AI Image generator using Discord as frontend. It's paid and a bit annoying to access via discord but it does output some really solid, high quality images. Imho better then Dall-E but not as versatile as Stable Diffusion. Although I haven't used Midjourney as much so I may be biased.
-
-### Upscaling
-
 * [Upscale.media](https://www.upscale.media/): Upscale and other image improvement algorithms. Can be used to upscale AI generation low resolution images.
 
 ## Video Generation
