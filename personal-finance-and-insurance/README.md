@@ -1,4 +1,9 @@
-# 💰 Finances & Insurance
+# 💰 Personal Finance & Insurance
+
+## Emergency fund
+
+* [Do you need an emergency fund? (the poor swiss)](https://thepoorswiss.com/emergency-fund/)
+  * tldr; Good to have but less important than one would think if you already have a good financial standing. The opportunity cost of having a large sum of money that is not invested is high/expensive. Even in a savings account it is likely to lose value due to inflation. Whereas in a real emergency you can easily get a "good" [(1.7-2.5%, IBKR 2023) margin/lombard loan](https://thepoorswiss.com/margin-loans/) against your invested securities. In the worst case it's also always possible to sell off securities - although this may force you to sell them at an inopportune time.
 
 ## Pension
 
