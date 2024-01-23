@@ -95,6 +95,7 @@
   * [🇬🇧 United Kingdom](travel/united-kingdom.md)
   * [🇺🇦 Ukraine](travel/ukraine.md)
   * [🗣 Languages](travel/languages.md)
+* [🌐 Global issues & Geopolitics](global-issues-and-geopolitics.md)
 * [🌵 Botany](botany.md)
 * [💊 Health](nutrion/README.md)
   * [💆♀ Massaging](nutrion/massaging.md)
