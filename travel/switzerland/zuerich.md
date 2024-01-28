@@ -60,7 +60,7 @@ coverY: 175.2444444444444
 
 ### Restaurants
 
-* [Hitl Sihlpost](https://hiltl.ch/standorte/uebersicht/sihlpost/): Vegetarian & vegan buffet. Also offers take-away. Good for a quick snack or an easy meal. They also have a robot called Billy that transports dishes. 5 stars for the robot alone, but the food is good too.
+* [Hiltl Sihlpost](https://hiltl.ch/standorte/uebersicht/sihlpost/): Vegetarian & vegan buffet. Also offers take-away. Good for a quick snack or an easy meal. They also have a robot called Billy that transports dishes. 5 stars for the robot alone, but the food is good too.
 
 ### Guides & Blogs
 
