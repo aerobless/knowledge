@@ -56,6 +56,14 @@ coverY: 175.2444444444444
 * [NZZ Live Talks: Interesting talks from the Neue Zürcher Zeitung](https://live.nzz.ch/de/zukunftige-veranstaltungen)
 * [Shake 'N' Smile: Cocktail courses, also alcohol free option, recommended by H\*](https://shakensmile.ch/cocktailkurse/)
 
-## Restaurants & Food
+## Food, Beverages & Snacks
+
+### Restaurants
+
+* [Hitl Sihlpost](https://hiltl.ch/standorte/uebersicht/sihlpost/): Vegetarian & vegan buffet. Also offers take-away. Good for a quick snack or an easy meal. They also have a robot called Billy that transports dishes. 5 stars for the robot alone, but the food is good too.
+
+### Guides & Blogs
 
 * [Gault & Millau - Züri isst](https://www.gaultmillau.ch/zueri-isst) (german): Zurich food blog, with inspiring articles and news about pop-up places or new restaurants.
+
+##
