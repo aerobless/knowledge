@@ -21,7 +21,7 @@ description: >-
 
 * [The best way to sharpen your knives \[YT\]](https://www.youtube.com/watch?v=t-\_qzsMF8RM)
   * **tldr;** water stone ist best, metal stick is for honing not sharpening. Knife sharpener tool with integrated stones and preset angle is a good way to sharpen knifes for beginners.
-* [Freeze vegetables for speed improvments while cooking \[YT\]](https://www.youtube.com/watch?app=desktop\&v=XlndcLo3j7I)
+* [Freeze vegetables for speed improvements while cooking \[YT\]](https://www.youtube.com/watch?app=desktop\&v=XlndcLo3j7I)
 
 
 
