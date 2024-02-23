@@ -12,3 +12,7 @@ description: >-
 ### [Bivacco Gervasutti](https://www.caitorino.it/rifugi/gervasutti/) - "World's loneliest capsule"
 
 {% embed url="https://www.youtube.com/watch?v=kWLESwk9x_g" %}
+
+### [Bivacco della Brenva](https://it.wikipedia.org/wiki/Bivacco\_della\_Brenva) - "Cabin without a trail on Mont Blanc"
+
+{% embed url="https://www.youtube.com/watch?t=935s&v=g27H1sNGIWg" %}
