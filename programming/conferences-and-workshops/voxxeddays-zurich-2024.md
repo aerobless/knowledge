@@ -8,6 +8,24 @@
 * String Templates
 * [Simple FileServer (JDK 20+)](https://download.java.net/java/early\_access/loom/docs/api/jdk.httpserver/com/sun/net/httpserver/SimpleFileServer.html)
 
+### JPA & Hibernate
+
+* [Digma](https://digma.ai/) shows suspected n+1 problems for code & DB performance issues
+* DB Connection Pool sizing: keep pool small, 10 connections is enough
+  * [Flexy Pool](https://www.baeldung.com/spring-flexypool-guide): helps to find the correct pool size
+  * [Spring Boot Datasource Decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator): used to make using FlexyPool easier
+* Disable: jpa.open-in-view
+* Use TransactionTemplate instead of @Transactional&#x20;
+  * can mark only part of a method to run in a transaction
+* use getReferenceById instead of fetching data from DB
+* n+1 problem: for every query we execute one more query to fetch data
+  * solve with @Query to fetch additional fields or @EntityGraph&#x20;
+* @DynamicUpdate. only updates changed fields -> but costs more memory/cpu
+* Hibernate Hypersistence Optimizer runs as a test and shows you bad db configurations -> not free
+  * alternative: quickperf, doesn't support newest spring boot yet but has workaround
+    * can make test with @ExpectedSelect/Delete etc. to verify the number of db calls
+* Fetch projections instead of entities for reading data. Only fetch entites when we want to modify them.
+
 ## Cool sites
 
 * [https://inside.java/](https://inside.java/)
