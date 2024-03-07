@@ -2,11 +2,11 @@
 
 ## Cool Java Stuff
 
-* CodeScene: Code Analysis / Code Health (not free: [https://codescene.com/](https://codescene.com/))
+* [CodeScene](https://codescene.com/): Code Analysis / Code Health report, not free
 * HTTPClient
 * Structured Concurrency
 * String Templates
-* Simple FileServer (JDK 20+)
+* [Simple FileServer (JDK 20+)](https://download.java.net/java/early\_access/loom/docs/api/jdk.httpserver/com/sun/net/httpserver/SimpleFileServer.html)
 
 ## Cool sites
 
@@ -57,7 +57,7 @@
   * Machine learning -> we let the machine figure out the rules to automate the task
 * Java Libs for ML
   * [DL4J](https://deeplearning4j.konduit.ai/), [DJL](https://djl.ai/), [Tribuo (Oracle)](https://tribuo.org/), JSR381 (Image Recognition Spec)
-* recommendation: DJL, it's an interface to the real engines (pytorch etc.)
+* recommendation: [DJL](https://djl.ai/), it's an interface to the real engines (pytorch etc.)
   * has pretrained model for tagging images, etc. z.B: resNet
   * easy to integrate
 

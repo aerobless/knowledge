@@ -59,7 +59,6 @@
     * [New Game Setup](virtual-reality/vr-development/new-game-setup.md)
     * [Inn Game](virtual-reality/vr-development/inn-game.md)
 * [🕹️ Games](games.md)
-* [🌠 Images](images.md)
 * [☁️ SaaS & Web](saas/README.md)
   * [Notion](saas/notion.md)
   * [🧪 My Home Server](saas/my-home-server.md)

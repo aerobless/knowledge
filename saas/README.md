@@ -2,7 +2,7 @@
 description: Software as a Service products that I like using.
 ---
 
-# ☁ SaaS & Web
+# ☁️ SaaS & Web
 
 ## Backup & Immortality
 
@@ -45,6 +45,10 @@ description: Software as a Service products that I like using.
 
 * [Notion](https://www.notion.so): Personal note-taking app that can be morphed into any kind of tool you desire. I use it to keep track of my tasks, ideas, long-term goals and so on. It's basically my private counterpart to this wiki.
 * [Gitbook](https://gitbook.com): Used to build & render this site.
+
+## Stock images & multimedia
+
+* [Pixabay](https://pixabay.com/): free stock images, videos & music
 
 ## [Self-hosted](self-hosting.md)
 
