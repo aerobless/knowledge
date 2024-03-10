@@ -9,7 +9,7 @@ description: >-
 
 ## Custom instructions
 
-Custom instructions can be defined by the user and are available to ChatGPT for every session.
+Custom instructions can be defined by the user and are available to ChatGPT for every session. Contrary to the normal context that builds up during a conversation the custom instructions are never dropped and stay in the context window even for very long sessions.
 
 ### User profile
 
