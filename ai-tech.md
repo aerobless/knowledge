@@ -78,3 +78,6 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 * [ElevenLabs](https://beta.elevenlabs.io/voice-lab): Allows to easily create new voices or clone existing ones by submitting a few minutes of audio of a person speaking. Allows to easily clone voices of movie characters such as Severus Snape. I have tested this and even with poor quality audio and relatively low effort it works really well. Need some voice lines for a YouTube video, TikTok etc. but don't want to speak yourself? This is the tool to use.
 
+## Music Generation
+
+* [Suno.ai](https://app.suno.ai/create/): LLM based music generation. Can be prompted similar to image generators with lyrics and a music style. Generates high quality output in multiple languages. \[[Impressive example](https://app.suno.ai/song/a4c6bb70-3616-4658-89b8-8bcc1a58b199/)]

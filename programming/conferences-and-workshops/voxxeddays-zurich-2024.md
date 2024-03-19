@@ -26,6 +26,14 @@
     * can make test with @ExpectedSelect/Delete etc. to verify the number of db calls
 * Fetch projections instead of entities for reading data. Only fetch entites when we want to modify them.
 
+### Spring Boot
+
+* Enable virtual threads: spring.threads.virutal.enabled = true (default false)
+* Use TestContainers @Testcontainers annotation. Can connect to a docker container directly from the test.
+* docker compose support in spring boot  -> spring-boot-docker-compose
+* store the spring boot fat jar in an exploded fashion in a docker container is better for performance (both boot and resource access)
+*
+
 ## Cool sites
 
 * [https://inside.java/](https://inside.java/)
