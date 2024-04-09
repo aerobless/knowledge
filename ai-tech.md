@@ -26,6 +26,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
   * [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/): Subreddit about stable diffusion and other interesting AI topics
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): AI Image generator using Discord as frontend. It's paid and a bit annoying to access via discord but it does output some really solid, high quality images. Imho better then Dall-E but not as versatile as Stable Diffusion. Although I haven't used Midjourney as much so I may be biased.
 * [Upscale.media](https://www.upscale.media/): Upscale and other image improvement algorithms. Can be used to upscale AI generation low resolution images.
+* [Leiapix.com](https://www.leiapix.com/): Turn 2D images to 3D animations via AI generated depth maps.
 
 ## Video Generation
 
