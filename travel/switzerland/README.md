@@ -15,6 +15,7 @@ coverY: 78.4955028618152
 * [Hike ideas reddit](https://www.reddit.com/r/askswitzerland/comments/we9rhd/what\_place\_is\_best\_for\_casual\_hiker\_and\_is/)
 * [Tuusigerstägli: round-trip hike near Olten](https://www.freizeitfreunde.ch/blogs/493)
 * [Aareschlucht Ost](https://aareschlucht.ch/): ([Insta Story](https://www.instagram.com/reel/CyQvfTkN0Ui/))
+* [Wasserfall Arena Batöni](https://www.2coinstravel.ch/unesco-wasserfall-arena-batoeni/)
 
 ## [Via Ferrata](../../sport/via-ferrata.md) (Klettersteig)
 
@@ -23,4 +24,6 @@ coverY: 78.4955028618152
   To get to the Rigidalstock you have to do a short hike first. It's recommened to ascend via Rigidalstockface (Wall) and descend via the Rigidalstockgrat. Once on top the Rigidalstock you get a bit of a summit feeling which is quite nice.\
   Beware of the cable car schedule, if you miss the last one the hike down is a bit longer.
 * [Hexensteig, Silenen](https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/): This via ferrata is a bit special as it is enclosed in a gorge. One side of the gorge is open towards the valley. So occasionally you get really gorgeous views of the valley below and the surrounding mountains. In order to get to the via ferrata you can either take the cable car from the valley or hike up all the way. Even if you do take the cable car there is still a fair bit of hiking required to get to the entry point.
+* [La Resiga, Pontresina](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/la-resgia-7790/klettersteig/klettersteig-la-resgia-709/): Cool via ferrata close to Pontresina.
+* [INDI, Netstal](https://www.myferrata.ch/indianer/): This via ferrata is easily accessible by public transport as it's located fairly close to the train station Netstal. It's also open early in the year. It's not a hard route but it does have some mentally difficult segments (exposed climbing down, exposed slight overhang climbing up).
 

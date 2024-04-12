@@ -1,4 +1,4 @@
-# 🏔 Via Ferrata
+# 🏔️ Via Ferrata
 
 Via ferrata, from the italian "iron path", (german: Klettersteig) are protected climbing routes found in alpine locations. They allow access to difficult terrain and provide steel fixtures, cables and railings to arrest the effect of a fall. In order to climb a via ferrata it is necessary to wear a climbing harness with a via ferrata kit (shock absorbing lanyards) as well as a helmet. Gloves are useful too.
 
@@ -21,5 +21,4 @@ Climbing a via ferrata can be compared to climbing in a climbing park in terms o
 
 ## Routes
 
-* [Kandersteg-Allmenalp (Switzerland)](../travel/switzerland/)
-* [Brunni: Zittergrat, Rigidalstock (Switzerland)](../travel/switzerland/)
+* [Switzerland](../travel/switzerland/#via-ferrata-klettersteig)
