@@ -60,4 +60,8 @@ Luosto, nestled in the heart of Finnish Lapland, offers a charming blend of wint
 
 <figure><img src="../.gitbook/assets/IMG_20240316_181833.jpg" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/IMG_20240316_145108.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
