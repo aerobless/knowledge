@@ -21,3 +21,11 @@
   * satin: light shine & crease resistant, non ironing, more expensive
     * lower quality satin can still wrinkle according to chatGPT, prefer buying high quality brands
   * ChatGPT also recommends: Micromodal or Tencel (Lyocell) materials due to moisture-wicking, and minimal wrinkling.
+
+## Clothes
+
+### Folding Shirts
+
+How to fold Shirts & T-Shirts in 2 seconds.
+
+{% embed url="https://twitter.com/Rainmaker1973/status/1778416010921492830" %}
