@@ -1,4 +1,4 @@
-# ⁉️ Debugging Emotional Distres
+# ⁉️ Debugging Emotional Distress
 
 _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It" at Zühlke Day 25.04.24_
 
