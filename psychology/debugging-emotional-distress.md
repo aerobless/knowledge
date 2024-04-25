@@ -37,8 +37,8 @@ _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It"
     * Not necessarily represents a past reality
     * Important that they feel connected to your emotion
   * Change the content of the image to something positive / e.g. open the IDE to your software
-    * Make it so that other involved persons in the image in their best form as well
-    * Don't remove them. it is generally better to change their circumstances, so that they act according to your needs
+    * Make it so that other involved persons in the image are in their best form as well
+    * Don't remove them. It is generally better to change their circumstances, so that they act according to your needs
     * "Love trumps hate/anger"
   * This rewrites your software
     * No need to change your actual past (or conflict partners)
