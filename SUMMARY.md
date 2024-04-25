@@ -116,6 +116,7 @@
   * [🍰 Chocolate Fondant Cake](cooking/chocolate-fondant-cake.md)
 * [💡 Knowledge Management](knowledge-management.md)
 * [🧠 Psychology](psychology/README.md)
+  * [⁉️ Debugging Emotional Distres](psychology/debugging-emotional-distres.md)
   * [🔄 Habits](psychology/habits.md)
   * [🍀 Luck](psychology/luck.md)
 * [⛓️ Processes](processes.md)
