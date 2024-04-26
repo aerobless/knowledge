@@ -53,6 +53,7 @@
   * [👨‍💻 Scrum](project-management/scrum.md)
 * [🏠 Home Automation](home-automation.md)
 * [🏡 Home & Furniture](home-and-furniture.md)
+* [🦾 e/acc](e-acc.md)
 * [🤖 AI Tech](ai-tech.md)
   * [💬 ChatGPT](ai-tech/chatgpt.md)
 * [🎮 Virtual Reality](virtual-reality/README.md)
