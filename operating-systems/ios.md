@@ -30,6 +30,7 @@ description: >-
   * [Delta Emulator](https://github.com/rileytestut/Delta): NES, SNES, N64, GBC, GBA, DS emulator for iOS. Can be installed via AltStore.
 * [CapCut](https://www.pixelmator.com/pro/): Video editing tool with nice transitions and some good ML utilities. Developed by Bytedance (Makers of TikTok).
 * [Streaks](https://streaksapp.com/): Describes itself as a habit-forming todolist. I've evaluated a few such habit-forming apps and ended up with Streaks. The app is really nicely made, they've even received an apple design award. But even more importantly it's a one-time buy for 5$ without any other strings/subscriptions attached. It also integrates nicely with Apple Health & Shortcuts, e.g. automatically complete a fitness habit when a certain health condition is reached.
+* [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/).
 
 ## Swiss apps
 
