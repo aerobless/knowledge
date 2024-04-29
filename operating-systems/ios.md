@@ -26,11 +26,11 @@ description: >-
 * [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580): The best music streaming app. It's literally the only one that does a good job of handing over streams between multiple computers, smart speakers and phones.
 * [BeReal](https://apps.apple.com/us/app/bereal-your-friends-for-real/id1459645446): Social media app where you post a picture once a day at a random time defined by the service.
 * [TooGoodToGo](https://apps.apple.com/ch/app/too-good-to-go/id1060683933): Services that matches food that is about to expire with customers. You can buy the food at heavily reduced prices making it both a bargain and also helps to reduce food waste.
-* [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking.
-  * [Delta Emulator](https://github.com/rileytestut/Delta): NES, SNES, N64, GBC, GBA, DS emulator for iOS. Can be installed via AltStore.
+* [Delta Emulator](https://apps.apple.com/us/app/delta-game-emulator/id1048524688): NES, SNES, N64, GBC, GBA, DS emulator for iOS. Can be installed via AltStore.
 * [CapCut](https://www.pixelmator.com/pro/): Video editing tool with nice transitions and some good ML utilities. Developed by Bytedance (Makers of TikTok).
 * [Streaks](https://streaksapp.com/): Describes itself as a habit-forming todolist. I've evaluated a few such habit-forming apps and ended up with Streaks. The app is really nicely made, they've even received an apple design award. But even more importantly it's a one-time buy for 5$ without any other strings/subscriptions attached. It also integrates nicely with Apple Health & Shortcuts, e.g. automatically complete a fitness habit when a certain health condition is reached.
-* [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/).
+* [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking. Self-signed certificates only last for a week and need to be refreshed often. Alternatively a service like Signulous can be used that signs app with a developer certificate so that they are valid for up to a year.
+* [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/). Apps installed via Signulous are valid for up to a year.
 
 ## Swiss apps
 
