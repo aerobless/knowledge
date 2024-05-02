@@ -3,11 +3,11 @@
 ## Finance
 
 * [Firefly III](https://firefly-iii.org/): A free and open source personal finance manager. Can be installed via Yunohost, Unraid or via docker compose. Is inteded to track expenses & budgets, doesn't track investments, stocks etc.
-* [Ghostfol.io](https://ghostfol.io/en/home/overview): Open source wealth management software by a swiss developer. Focused on investments, stocks etc. Complementary to Firefly. Can be installed via unraid or docker compose. Is also available as SaaS version free & paid. Still relatively new and therefor unproven how long it will stay around. I don't use this yet because it's not supported by Yunohost and setting it up would be a bit manual work. But it looks good.
+* [Ghostfol.io](https://ghostfol.io/en/home/overview): Open source wealth management software by a swiss developer. Focused on investments, stocks etc. Complementary to Firefly. Can be installed via unraid or docker compose. Is also available as SaaS version free & paid. Still relatively new and therefor unproven how long it will stay around. I don't use this since I'm already using the application [Portfolio Performance](https://www.portfolio-performance.info/en/) to track my investments.
 
 ## Time Tracking
 
-* [TIMETagger](https://timetagger.app/): Can be used as SaaS or self hosted via docker. Very nice UI to manually track what you did when in a timeline fashion. Probably less useful for billing etc. there are other apps that do this. But for me this is great to focus more on doing one thing instead of multitasking.
+* [TIMETagger](https://timetagger.app/): Can be used as SaaS or self hosted via docker. Very nice UI to manually track what you did when in a timeline fashion. Probably less useful for billing etc. there are other apps that do this.
 
 ## (Browser) Start Page
 
@@ -16,6 +16,10 @@ A page containing bookmarks and useful information when you're opening a new tab
 * [Homepage](https://github.com/benphelps/homepage): dockerised home page with support for a bunch of services such as plex, adguard, sonar etc. - looks nice, but since I don't currently have the infrastructure to easily run docker containers I'm not using it (yet)
 * [Static Marks](https://github.com/darekkay/static-marks): Static site generator for a bookmarks start page. There's a github pipeline available that lets you easily edit your bookmarks.yaml & re-generate the home page. I'm currently using this for my start page on all browsers.
   * I've also made a [raycast extension](https://www.raycast.com/aerobless/static-marks#readme) for it. So the same yaml file can be used to easily access your bookmarks via [raycast](../operating-systems/macos.md#useful-apps).
+
+## Photo & media
+
+* [Immich](https://immich.app/): High performance self-hosted photo and video management solution. It's open source and appears fairly mature. The design & usability is similar to Google Photos and it also has mobile photo backup clients. The web app itself also has some fairly advanced features like ML subject detection, geolocation of photos etc. If I ever were to migrate away from Google Photos this would likely be my number one self-hosted choice.
 
 ## Server software
 
