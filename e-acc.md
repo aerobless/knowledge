@@ -37,3 +37,8 @@ A continuously growing list of innovative companies that build the future.
 ### Space
 
 * [Space X](https://www.spacex.com/): Bringing down the cost of access to space with reusable rockets.
+
+### Terrestrial Transportation
+
+* [Waymo](https://waymo.com/): Alphabets autonomous taxi devision. Already usable for everyone in Phoenix and waitlisted/invite-gated in LA, SF and Austin. Fully autonomous - without safety driver in car.
+* [Tesla](https://www.tesla.com/): Electric vehicles with self-driving capability. Fully self-driving only usable in the US via Beta program.
