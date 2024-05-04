@@ -32,11 +32,19 @@ A continuously growing list of innovative companies that build the future.
 
 ### Robotics
 
+#### General Purpose
+
 * [Boston Dynamics](https://bostondynamics.com/): Advanced robotics for a variety of use cases. Leading at developing universally usable robots.
+* [Agility Robotics](https://agilityrobotics.com/): General purpose warehouse worker robots.
+
+#### Household
+
+* [Xiaomi](https://www.mi.com/global/): State of the art household robotic devices such as vacuum cleaners, etc. Also helps bringing the price down with well designed but still affordable devices.
 
 ### Space
 
 * [Space X](https://www.spacex.com/): Bringing down the cost of access to space with reusable rockets.
+* [Rocket Lab](https://www.rocketlabusa.com/): Alternative to Space X, currently has one small rocket in operation and is working on a larger one to compete with Space X's falcon rockets.
 
 ### Terrestrial Transportation
 
