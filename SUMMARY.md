@@ -104,6 +104,7 @@
 * [🌐 Global issues & Geopolitics](global-issues-and-geopolitics.md)
 * [🌵 Botany](botany.md)
 * [💊 Health](nutrion/README.md)
+  * [🧠 Healthspan optimization](nutrion/healthspan-optimization.md)
   * [🧴 Skincare](nutrion/skincare.md)
   * [💆‍♀️ Massaging](nutrion/massaging.md)
   * [☕ Coffee](nutrion/coffee.md)
