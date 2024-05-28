@@ -10,8 +10,10 @@ coverY: 78.4955028618152
 
 # 🇨🇭 Switzerland
 
-## Notes / Ideas
+## Notes
 
+* [SchweizMobil: Cycling routes](https://schweizmobil.ch/en/cycling-in-switzerland?f\_land=cycle)
+* [SchweizMobil: Hiking routes](https://schweizmobil.ch/en/hiking-in-switzerland)
 * [Hike ideas reddit](https://www.reddit.com/r/askswitzerland/comments/we9rhd/what\_place\_is\_best\_for\_casual\_hiker\_and\_is/)
 * [Tuusigerstägli: round-trip hike near Olten](https://www.freizeitfreunde.ch/blogs/493)
 * [Aareschlucht Ost](https://aareschlucht.ch/): ([Insta Story](https://www.instagram.com/reel/CyQvfTkN0Ui/))
