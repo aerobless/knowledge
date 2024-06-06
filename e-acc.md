@@ -18,6 +18,12 @@ Effective accelerationism, often abbreviated as "e/acc", is a 21st-century philo
 
 A continuously growing list of innovative companies that build the future.
 
+### Artificial intelligence
+
+* [Open AI](https://openai.com/): Currently the leader in advanced LLM technology. Offers the products ChatGPT (B2C) and Open AI API (B2B).
+* [Meta](https://about.meta.com/) (Facebook): The leader in open source LLM technology. Offers the free LAMA3 models that can be run on device and fights against the "AI is dangerous" narrative.&#x20;
+* [Stability AI](https://stability.ai/):  The leader in open source generative image models.
+
 ### Biotech & health
 
 * [Cutiss](https://cutiss.swiss/): Personalized artificial skin tissue for burn victims etc.
