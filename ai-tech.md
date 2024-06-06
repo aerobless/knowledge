@@ -83,3 +83,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 ## Music Generation
 
 * [Suno.ai](https://app.suno.ai/create/): LLM based music generation. Can be prompted similar to image generators with lyrics and a music style. Generates high quality output in multiple languages. \[[Impressive example](https://app.suno.ai/song/a4c6bb70-3616-4658-89b8-8bcc1a58b199/)]
+
+## News & Search
+
+* [Preplexity.AI](https://www.perplexity.ai/discover): Perplexity AI is a AI search engine offering usage of a variety of commercial models (Open AI, Opus, etc.) to search for things and the summarise the results. They also have a free but very good news aggregation sections ([https://www.perplexity.ai/discover](https://www.perplexity.ai/discover)).
