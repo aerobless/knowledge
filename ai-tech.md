@@ -87,3 +87,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 ## News & Search
 
 * [Preplexity.AI](https://www.perplexity.ai/discover): Perplexity AI is a AI search engine offering usage of a variety of commercial models (Open AI, Opus, etc.) to search for things and the summarise the results. They also have a free but very good news aggregation sections ([https://www.perplexity.ai/discover](https://www.perplexity.ai/discover)).
+
+### My custom GPTs
+
+* [Travel Packing List Generator](https://chatgpt.com/g/g-hv2M25yla-travel-packing-list-generator): I used to have notion pack list generator - but I've since converted it to a custom GPT. The GPT expects location & trip duration as input and will then google the weather and provide a customised pack list based on a list of items that I usually take with on trips.
