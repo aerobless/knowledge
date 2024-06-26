@@ -9,6 +9,7 @@
     * [🍇 Raspian](operating-systems/linux/raspian.md)
   * [🪟 Windows](operating-systems/windows.md)
 * [💻 Software Development](programming/README.md)
+  * [🤖 AI assisted software development](programming/ai-assisted-software-development.md)
   * [💬 Conferences & Workshops](programming/conferences-and-workshops/README.md)
     * [☕ VoxxedDays Zurich 2024](programming/conferences-and-workshops/voxxeddays-zurich-2024.md)
     * [🔩 Camp 23 - Workshop](programming/software-architecture/camp-23-workshop.md)
