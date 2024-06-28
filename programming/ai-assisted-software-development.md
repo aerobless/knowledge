@@ -7,6 +7,7 @@
 * Zuluplane Chat
 * GitHub Copilot
 * Custom Code Expert
+* Raycast Snippets
 
 ## AI Assisted Use Cases
 
