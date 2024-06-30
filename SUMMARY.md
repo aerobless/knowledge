@@ -114,6 +114,7 @@
   * [👶 Procreation](nutrion/procreation.md)
   * [♀️ Female](nutrion/female.md)
 * [🍳 Cooking](cooking/README.md)
+  * [🍹 Smoothie](cooking/smoothie.md)
   * [🍝 Pasta Bolognese](cooking/pasta-bolognese.md)
   * [🌯 Summer Rolls](cooking/summer-rolls.md)
   * [🥔 Quick fried Potatoes](cooking/quick-fried-potatoes.md)
