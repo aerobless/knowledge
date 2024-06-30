@@ -1,15 +1,33 @@
+---
+description: >-
+  Health is a state of complete physical, mental, and social well-being, not
+  merely the absence of disease or infirmity.
+---
+
 # 💊 Health
 
 ## Nutrition
 
-### High Protein Diet
+### Prefered foods
 
-* [How much protein is too much?](https://www.health.harvard.edu/nutrition/when-it-comes-to-protein-how-much-is-too-much)
+* **Blueberries**
+  * **Benefits**: High in antioxidants, anti-inflammatory, supports brain health.
+  * **Nutrients**: Vitamins C, K, and fiber.
+* **Salmon**
+  * **Benefits**: Rich in omega-3 fatty acids, supports heart and brain health.
+  * **Nutrients**: Protein, B vitamins, potassium.
+* ..
+
+### Sport
+
+*   [**Isotonic drinks**](../cooking/isotonic-drinks.md)
+
+    Isotonic drinks are beverages formulated to replace fluids, electrolytes, and carbohydrates lost during [intense physical activity](./#sport). They hydrate faster than water because they contain a balance of electrolytes and carbohydrates that closely match the body's natural fluid composition. This similarity allows for quicker absorption in the intestines, effectively replenishing lost fluids and electrolytes more efficiently than plain water.
+
+    * They are only needed for activities where you sweat a lot, e.g. during a hard workout, in very hot weather or when having diarrhea.
+* [**How much protein is too much?**](https://www.health.harvard.edu/nutrition/when-it-comes-to-protein-how-much-is-too-much)
   * tldr; Typically it's recommended to consume 0.8g protein per kg of bodyweight. However a healthy person can probably consume up to 2g protein per kg without negative effects. So the range would be between **60g - 150g** of protein per day for a person weighing 75kg. What also matters is the kind of protein consumed. Healthier options are: low-fat dairy products (typical supplements), fish, nuts, beans and lean chicken. Red meat should be consumed in moderation.
-
-### Creatine
-
-* [What is Creatine?](https://www.healthline.com/nutrition/what-is-creatine#brain-health)
+* [**What is Creatine?**](https://www.healthline.com/nutrition/what-is-creatine#brain-health)
   * Creatine is naturally produced by the body, however only in limited quantities
   * When muscles need immediate strength they consume ATP, in order to re-fill ATP fast creatine stored in the muscles is used.
   * Having enough creatine available enables you to lift higher loads or do more reps. It is however not directly useful for endurance workouts.
