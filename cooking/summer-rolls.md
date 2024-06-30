@@ -2,16 +2,28 @@
 
 ## Ingredients
 
+#### Rolls
+
 * Rice paper + bowl with water to soften them
 * cooked chicken or planted substitute
 * noodles
 * pepperoni
 * carrots
 * cucumber
-* peanut butter
-* soy sauce
+* avocado
+* eggplant
+* sweet potato
+* broccoli
 * garlic
-* and potentially other stuff for sauce
+
+#### Sauce
+
+* 3 heaped tbsps of creamy peanut butter
+* 1 tbsp of fatty coconut milk
+* 1-2 tsps of soy sauce
+* 1 tbsp agave dicksaft or other liquid sweetener
+* splash of lime juice
+* sriracha sauce
 
 ## Preparation
 
@@ -20,6 +32,13 @@
 * Prepare sauce (google exact recipe)
 * Put cooked and cut ingredients into bowls
 * Prepare bowl with water to wet rice paper
+
+## Sauce
+
+* Combine the fatty part of the coconut milk with the creamy peanut butter
+* Add soy sauce and sweetener
+* Mix with spoon until even
+* Add lime juice & sriracha to taste
 
 ## How to eat
 
@@ -32,6 +51,3 @@
 ## References
 
 * [Summer Rolls with Peanut Dipping Sauce](https://www.delish.com/cooking/recipe-ideas/a30779925/summer-rolls-recipes/)
-
-
-
