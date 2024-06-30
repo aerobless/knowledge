@@ -1,3 +1,9 @@
+---
+description: >-
+  Summer rolls are Vietnamese rice paper wraps filled with shrimp, herbs,
+  vegetables, and vermicelli noodles.
+---
+
 # 🌯 Summer Rolls
 
 ## Ingredients
@@ -51,3 +57,4 @@
 ## References
 
 * [Summer Rolls with Peanut Dipping Sauce](https://www.delish.com/cooking/recipe-ideas/a30779925/summer-rolls-recipes/)
+* recipe by bébé
