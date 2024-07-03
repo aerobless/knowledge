@@ -25,6 +25,9 @@ Discovering new books to read is always tricky, so here's a few good resources:
     * When you are ready click `Pack ePub` and the epub will be created and downloaded to your machine. You can then e.g. use Calibre to import the book in your eReader.
 * [Calibre](https://calibre-ebook.com): eBook management software that can be extended with plugins. Useful to convert ebooks from various formats into the format needed for a specific ebook reader.
 * [O'Reilly ePub Downloader](https://chrome.google.com/webstore/detail/my-oreilly-downloader/deebiaolijlopiocielojiipnpnaldlk) (Chrome Extension): Used to download O'Reilly eBooks as ePub so they can be read on a Kindle or similar eReader. Very useful if you have a O'Reilly subscription through your workplace or school.
+* [ePub to Audiobook Conversion](https://github.com/p0n1/epub\_to\_audiobook?tab=readme-ov-file): It's now possible to use [AI TTS](ai-tech.md#voice-generation-and-cloning) tools like OpenAI whisper or Azure Cognition TTS to convert entire text books to audiobooks easily. Sadly it's not super cheap yet. Converting an entire wandering inn book at around 7-8M characters in HD would cost 210$. With the non-hd model this cost can be cut in half.
+
+
 
 ## Blogs
 
