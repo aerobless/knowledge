@@ -7,6 +7,7 @@ description: Psychology is the scientific study of mind and behaviour.
 ## Motivational content
 
 * [The fastest way to ruin your entire life](https://www.youtube.com/watch?v=wUpBrALhlnc)
+* [15 powerful visuals about psychology & life](https://x.com/wisdom\_hq/status/1794504554136117680?s=46)
 
 ## Topics
 
