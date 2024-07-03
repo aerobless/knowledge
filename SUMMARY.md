@@ -77,6 +77,7 @@
   * [🖨️ 3D Printing](crafting-and-diy/3d-printing.md)
   * [🪚 Woodworking](crafting-and-diy/woodworking.md)
 * [💪 Sport](sport/README.md)
+  * [🥾 Hiking](sport/hiking.md)
   * [🏔️ Via Ferrata](sport/via-ferrata.md)
 * [🌏 Locations & Travel](travel/README.md)
   * [🇩🇰 Denmark](travel/denmark.md)
