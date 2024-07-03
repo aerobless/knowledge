@@ -29,3 +29,8 @@ coverY: 78.4955028618152
 * [La Resiga, Pontresina](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/la-resgia-7790/klettersteig/klettersteig-la-resgia-709/): Cool via ferrata close to Pontresina.
 * [INDI, Netstal](https://www.myferrata.ch/indianer/): This via ferrata is easily accessible by public transport as it's located fairly close to the train station Netstal. It's also open early in the year. It's not a hard route but it does have some mentally difficult segments (exposed climbing down, exposed slight overhang climbing up).
 
+## Citizenship
+
+### Swiss Armed Forces
+
+* [Military Logistics Webshop](https://lba-webshop.ch/): Get 2 free clothing items per year (t-shirt, function roll-shirt, long underpants etc.) as well as various cleaning items for free. The shirts/underpants are perfect as skiing underwear.
