@@ -29,3 +29,7 @@ Discovering new books to read is always tricky, so here's a few good resources:
 ## Blogs
 
 * [WaitButWhy?](https://waitbutwhy.com/): Interesting blogs posts about society, psychology, space, the future and various other topics. Written by [Tim Urban](https://twitter.com/waitbutwhy)
+
+## Free audiobooks
+
+* [There is no Antimemetics Devision (Creative Commons Share Alike)](https://www.youtube.com/playlist?list=PLlSmdtw6KrEbByc8\_QKpWC\_2p629QAM8u)
