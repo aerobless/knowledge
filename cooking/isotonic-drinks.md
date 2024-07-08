@@ -6,6 +6,17 @@ description: >-
 
 # 🔋 Isotonic drinks
 
+## Isotonic Vitamins
+
+Ideal for a [workout](../sport/) of 1-2h.&#x20;
+
+* 1 vitamin tablet (e.g. [Prix Garantie Viatmins](https://www.coop.ch/en/cosmetics-health/health-medicine-cabinet/vitamins-minerals-food-supplements/vitamins/prix-garantie-vitamins-effervescent-tablets-20-pieces/p/3558430))
+* 0.5l water
+* 15-20g sugar
+* a pinch of salt
+
+If you use cold water, no additional cooling is needed.
+
 ## Isotonic Tea
 
 Ideal for a [workout](../sport/) of max 2h.
