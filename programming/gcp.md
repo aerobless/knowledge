@@ -2,11 +2,11 @@
 description: Google Cloud Platform
 ---
 
-# 🌤 GCP
+# 🌤️ GCP
 
 ## Camp22 Stable-Diffusion Project
 
-<figure><img src=".gitbook/assets/DeploymentDiagram (2).png" alt=""><figcaption><p>GCP deployment diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DeploymentDiagram (2).png" alt=""><figcaption><p>GCP deployment diagram</p></figcaption></figure>
 
 ### Cloud Compute
 
@@ -15,7 +15,7 @@ description: Google Cloud Platform
 **Details**: [Stable Diffusion Dream Fork](https://github.com/lstein/stable-diffusion/) on Linux
 
 **Cost**: The cost of running a VM with a GPU is fairly substantial.\
-![](<.gitbook/assets/Screenshot 2022-09-14 at 16.37.15.png>)
+![](<../.gitbook/assets/Screenshot 2022-09-14 at 16.37.15.png>)
 
 ### Cloud Run
 
@@ -98,4 +98,5 @@ jobs:
         run: docker push $IMAGE_NAME
 
       - name: Deploy Docker image
-        run: gcloud run deploy ${{ secrets.GCP_PROJECT_ID }} --image $IMAGE_NAME --region us-central1 --platform managed</code></pre>
+        run: gcloud run deploy ${{ secrets.GCP_PROJECT_ID }} --image $IMAGE_NAME --region us-central1 --platform managed
+</code></pre>
