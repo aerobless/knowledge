@@ -10,11 +10,11 @@ description: my opinion and resources about games I've played.
 
 This used to be my favourite MMO back in the day. The world is massive, highly detailed and contains lovely stories & quests. Although it does feel a bit dated in 2023 it's still the only game that does middle earth any justice.
 
-* [Shadows of Angmar Private Server](https://www.echoesofangmar.com/#home)
+* [[https://www.echoesofangmar.com/#home]]
 
 ### Cyberpunk 2077
 
-* [Edgerunners (Netflix, Anime)](https://www.cyberpunk.net/en/edgerunners): Anime series playing in the game world of Cyberpunk 2077, worth watching. It made me want to play the game a second time :relaxed:.
+* [[Netflix, Anime)](https://www.cyberpunk.net/en/edgerunners|Edgerunners (Netflix, Anime)]]: Anime series playing in the game world of Cyberpunk 2077, worth watching. It made me want to play the game a second time :relaxed:.
 
 ### [Stray](https://store.steampowered.com/app/1332010/Stray/?utm\_source=gamewebsite\&utm\_campaign=sitevisit\&utm\_medium=web) (2022)
 
