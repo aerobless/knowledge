@@ -31,6 +31,7 @@ description: >-
 * [Streaks](https://streaksapp.com/): Describes itself as a habit-forming todolist. I've evaluated a few such habit-forming apps and ended up with Streaks. The app is really nicely made, they've even received an apple design award. But even more importantly it's a one-time buy for 5$ without any other strings/subscriptions attached. It also integrates nicely with Apple Health & Shortcuts, e.g. automatically complete a fitness habit when a certain health condition is reached.
 * [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking. Self-signed certificates only last for a week and need to be refreshed often. Alternatively a service like Signulous can be used that signs app with a developer certificate so that they are valid for up to a year.
 * [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/). Apps installed via Signulous are valid for up to a year.
+* [Eleven Labs Reader](https://elevenlabs.io/text-reader): Reads from text, url, pdf or ePub documents with various narration voices. Works amazingly well with a very high quality narration that feels like it’s from a professional audiobook narrator. 
 
 ## Swiss apps
 

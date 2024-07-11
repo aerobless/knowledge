@@ -79,6 +79,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 ## Voice Generation & Cloning
 
 * [ElevenLabs](https://beta.elevenlabs.io/voice-lab): Allows to easily create new voices or clone existing ones by submitting a few minutes of audio of a person speaking. Allows to easily clone voices of movie characters such as Severus Snape. I have tested this and even with poor quality audio and relatively low effort it works really well. Need some voice lines for a YouTube video, TikTok etc. but don't want to speak yourself? This is the tool to use.
+	* [Eleven Labs Reader](ios.md): iOS app for [book](books.md) to audiobook conversions
 * [Open AI TTS](https://platform.openai.com/docs/guides/text-to-speech): High end text to speech api. Can be used to [convert text books to audiobooks](books.md#utilities).
 
 ## Music Generation
