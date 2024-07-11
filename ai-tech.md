@@ -21,7 +21,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
   * [InvokeAI](https://github.com/invoke-ai/InvokeAI): Stable diffusion UI with lots of utility functions, alternative to automatic1111
   * [DiffusionBee](https://diffusionbee.com/): Very easy to use standalone app/UI for mac m1 stable diffusion.
   * [Civitai](https://civitai.com/): Share custom stable diffusion models
-    * [Protogen x3.4](https://www.reddit.com/r/StableDiffusion/comments/100fmx6/comment/j2hglyx/?utm\_source=share\&utm\_medium=web2x\&context=3): Model for photorealistic images&#x20;
+    * [Protogen x3.4](https://www.reddit.com/r/StableDiffusion/comments/100fmx6/comment/j2hglyx/?utm\_source=share\&utm\_medium=web2x\&context=3): Model for photorealistic images
   * [Lexica.art](https://lexica.art/): Images and corresponding prompts for stable diffusion
   * [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/): Subreddit about stable diffusion and other interesting AI topics
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): AI Image generator using Discord as frontend. It's paid and a bit annoying to access via discord but it does output some really solid, high quality images. Imho better then Dall-E but not as versatile as Stable Diffusion. Although I haven't used Midjourney as much so I may be biased.
@@ -50,7 +50,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 ### Programming Assistant / AI Pair Programming
 
-* [GitHub Copilot](https://github.com/features/copilot): Can be used as plugin in common IDEs, such as IntelliJ, Visual Studio Code etc. The broadly available version (June 2023) provides mainly helpful suggestions and advanced autocomplete funcationality while coding. Copilot X (currently in BETA) will also be able to do refactoring and have a chat prompt to answer questions.&#x20;
+* [GitHub Copilot](https://github.com/features/copilot): Can be used as plugin in common IDEs, such as IntelliJ, Visual Studio Code etc. The broadly available version (June 2023) provides mainly helpful suggestions and advanced autocomplete funcationality while coding. Copilot X (currently in BETA) will also be able to do refactoring and have a chat prompt to answer questions.
   * Current features & how to use them:
     * Start typing code & autocomplete. Can be only a single line or a whole method block or even class.
     * Ask questions via comments. Type //q: Your question? and you will get a autocomplete with //a: answer on the next line.
@@ -79,7 +79,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 ## Voice Generation & Cloning
 
 * [ElevenLabs](https://beta.elevenlabs.io/voice-lab): Allows to easily create new voices or clone existing ones by submitting a few minutes of audio of a person speaking. Allows to easily clone voices of movie characters such as Severus Snape. I have tested this and even with poor quality audio and relatively low effort it works really well. Need some voice lines for a YouTube video, TikTok etc. but don't want to speak yourself? This is the tool to use.
-	* [Eleven Labs Reader](ios.md): iOS app for [book](books.md) to audiobook conversions
+  * [Eleven Labs Reader](operating-systems/ios.md): iOS app for [book](books.md) to audiobook conversions
 * [Open AI TTS](https://platform.openai.com/docs/guides/text-to-speech): High end text to speech api. Can be used to [convert text books to audiobooks](books.md#utilities).
 
 ## Music Generation
