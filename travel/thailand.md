@@ -17,15 +17,15 @@ Wat Arun, often referred to as the "Temple of Dawn," is an architectural marvel 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_1360.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1360.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1379.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1379.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1392.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1392.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,15 +37,15 @@ Wat Paknam is a notable temple in Thailand, home to a towering white pagoda and 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_1340.jpg" alt=""><figcaption><p>inside the temple</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1340.jpg" alt=""><figcaption><p>inside the temple</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1328.jpg" alt=""><figcaption><p>a nice crop of the giant Buddha</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1328.jpg" alt=""><figcaption><p>a nice crop of the giant Buddha</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2241.jpg" alt=""><figcaption><p>selfie for scale 😄</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2241.jpg" alt=""><figcaption><p>selfie for scale 😄</p></figcaption></figure>
 
 </div>
 
@@ -55,15 +55,15 @@ The Khlong Bang Luang Floating Markets are a charming network of canals near Ban
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_1291.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1291.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2211.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2211.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2215.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2215.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,23 +73,23 @@ The Grand Palace in Bangkok, established in 1782 and once the residence of Thai 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_1470.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1470.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1494.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1494.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1566.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1566.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1577.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1577.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2375.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2375.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -101,15 +101,15 @@ Khaosan Road is a bustling backpacker hub in Bangkok, teeming with lively bars, 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_2314 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2314 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2078 (1).jpg" alt=""><figcaption><p>there are tons of little restaurants with good local food</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2078 (1).jpg" alt=""><figcaption><p>there are tons of little restaurants with good local food</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1669 (1).jpg" alt=""><figcaption><p>at night the street turns into a giant party</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1669 (1).jpg" alt=""><figcaption><p>at night the street turns into a giant party</p></figcaption></figure>
 
 </div>
 
@@ -119,15 +119,15 @@ Of course Bangkok is also a modern city with skyscrapers, shopping malls and a m
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_1715.jpg" alt="" width="188"><figcaption><p>King Power Mahanakhon</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1715.jpg" alt="" width="188"><figcaption><p>King Power Mahanakhon</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1820.jpg" alt="" width="563"><figcaption><p>The view from the observation deck of the "Tetris Tower"</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1820.jpg" alt="" width="563"><figcaption><p>The view from the observation deck of the "Tetris Tower"</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1654.jpg" alt="" width="188"><figcaption><p>get boba for extra energy</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_1654.jpg" alt="" width="188"><figcaption><p>get boba for extra energy</p></figcaption></figure>
 
 </div>
 
@@ -143,27 +143,27 @@ Khao Sok is a lush national park in southern Thailand, boasting ancient rainfore
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_2076.jpg" alt=""><figcaption><p>The verdant green rainforest</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2076.jpg" alt=""><figcaption><p>The verdant green rainforest</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2027.jpg" alt=""><figcaption><p>capturing rubber</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2027.jpg" alt=""><figcaption><p>capturing rubber</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2727.jpg" alt=""><figcaption><p>a Durian fruit - quite tasty even though it's a bit smelly</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2727.jpg" alt=""><figcaption><p>a Durian fruit - quite tasty even though it's a bit smelly</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2086.jpg" alt=""><figcaption><p>Longtail speed boats</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2086.jpg" alt=""><figcaption><p>Longtail speed boats</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6235.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6235.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2276.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2276.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -171,11 +171,11 @@ Khao Sok is a lush national park in southern Thailand, boasting ancient rainfore
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_2181.jpg" alt="" width="188"><figcaption><p>Mangosteen fruit</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2181.jpg" alt="" width="188"><figcaption><p>Mangosteen fruit</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2184.jpg" alt="" width="188"><figcaption><p>Rambutan fruit</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2184.jpg" alt="" width="188"><figcaption><p>Rambutan fruit</p></figcaption></figure>
 
 </div>
 
@@ -185,15 +185,15 @@ Koh Samui is a serene island in Thailand's Gulf, characterised by its white-sand
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_2381.jpg" alt=""><figcaption><p>Seatran ferries carry you safely to Koh Samui</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2381.jpg" alt=""><figcaption><p>Seatran ferries carry you safely to Koh Samui</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2669.jpg" alt=""><figcaption><p>Koh Samui has beautiful beaches</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2669.jpg" alt=""><figcaption><p>Koh Samui has beautiful beaches</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2838 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2838 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -201,19 +201,19 @@ On the island you can also go for a snorkeling trip to one of the beautiful reef
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_2636.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2636.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2717.jpg" alt=""><figcaption><p>one of the many pigs on pig island</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2717.jpg" alt=""><figcaption><p>one of the many pigs on pig island</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2566.jpg" alt=""><figcaption><p>a sting ray chilling in the depths</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2566.jpg" alt=""><figcaption><p>a sting ray chilling in the depths</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2587.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2587.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

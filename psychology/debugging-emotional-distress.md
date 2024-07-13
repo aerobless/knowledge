@@ -4,7 +4,7 @@ _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It"
 
 **Tldr;** The base idea is to treat emotional distress like bugs in software. By debugging it you can find out what's the actual root cause and often times it's not what we may think first. It also somewhat relieves the emotional distress to know the root cause. It also helps to rewrite the past event in the mind into something more positive - mainly by viewing the person causing it in a positive light.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-25 at 15.56.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Screenshot 2024-04-25 at 15.56.24.png" alt=""><figcaption></figcaption></figure>
 
 * **Step 0: Trigger**
   * Something triggers emotional distress in you (sadness, anger, hate, ..)

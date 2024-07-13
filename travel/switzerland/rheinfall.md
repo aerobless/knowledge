@@ -10,15 +10,15 @@ Rheinfall is one of the tourist places easily accessible from Zurich. It's a big
 
 <div>
 
-<figure><img src="../../.gitbook/assets/IMG_8609.jpg" alt=""><figcaption><p>Schloss Laufen</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_8609.jpg" alt=""><figcaption><p>Schloss Laufen</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_8676.jpg" alt=""><figcaption><p>Schloss Laufen from a boat</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_8676.jpg" alt=""><figcaption><p>Schloss Laufen from a boat</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_4927.jpg" alt=""><figcaption><p>View from the middle island</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_4927.jpg" alt=""><figcaption><p>View from the middle island</p></figcaption></figure>
 
 </div>
 
@@ -28,15 +28,15 @@ When you arrive at the river below you can take a boat across or to the little i
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/IMG_5070.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_5070.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_5075.jpg" alt=""><figcaption><p>Smilestones miniature Switzerland</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_5075.jpg" alt=""><figcaption><p>Smilestones miniature Switzerland</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_5125.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_5125.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

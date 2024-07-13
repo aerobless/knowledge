@@ -2,7 +2,7 @@
 description: >-
   Effective Accelerationism (e/acc) strategically employs innovations to rapidly
   achieve impactful societal change through accelerationist philosophy.
-cover: .gitbook/assets/klu-eacc-logo.webp
+cover: gitbook/assets/klu-eacc-logo.webp
 coverY: 0
 ---
 

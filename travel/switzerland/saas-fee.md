@@ -12,18 +12,18 @@ description: >-
 
 <div>
 
-<figure><img src="../../.gitbook/assets/IMG_5947.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_5947.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_7191.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_7191.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_6002.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_6002.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_6876.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/IMG_6876.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>

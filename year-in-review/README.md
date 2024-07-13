@@ -12,7 +12,7 @@ Personally I upload all images to Google Photos all the time automatically. I al
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-17 at 18.12.17 (1).png" alt=""><figcaption><p>my current photo stream</p></figcaption></figure>
+<figure><img src="../gitbook/assets/Screenshot 2023-09-17 at 18.12.17 (1).png" alt=""><figcaption><p>my current photo stream</p></figcaption></figure>
 
 </div>
 

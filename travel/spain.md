@@ -13,19 +13,19 @@ Madrid is Spain's vibrant capital, famous for its art galleries like the Prado M
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_6684.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6684.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230922_125934.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230922_125934.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6705.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6705.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6895.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6895.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,23 +37,23 @@ If you want to see the inside it's best to go early in the morning as the queue 
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_7111.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_7111.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230924_113904.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230924_113904.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230924_113941.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230924_113941.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_7122.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_7122.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_7143.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_7143.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -63,19 +63,19 @@ Parque de El Retiro is a large and historic park in central Madrid, known for it
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_20230923_142543.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230923_142543.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6959.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6959.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230923_145835.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230923_145835.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230923_152119.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230923_152119.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -85,15 +85,15 @@ The Palacio de Cibeles, an iconic landmark in Madrid, offers a stunning viewpoin
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_20230923_164031.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230923_164031.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230923_160944.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230923_160944.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_7066.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_7066.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -15,19 +15,19 @@ When it's sunny it can be a nice excursion to cycle out to the various viewpoint
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_0072.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0072.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0076.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0076.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230728_125157.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230728_125157.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0168.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0168.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,15 +35,15 @@ The city of Malmö itself is also very cycle friendly with dedicated bike lanes 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_0188.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0188.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0203.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0203.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0216.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0216.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,15 +51,15 @@ Also if you've got some time to kill be sure to look around the many little shop
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_0066.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0066.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0271.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0271.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0248.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0248.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

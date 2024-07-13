@@ -17,19 +17,19 @@ In George Town, the lively food courts and bar streets offer a gastronomic parad
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_2916.jpg" alt="" width="375"><figcaption><p>Vibrant food court with a huge variety of tasty dishes</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2916.jpg" alt="" width="375"><figcaption><p>Vibrant food court with a huge variety of tasty dishes</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2929.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2929.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3252.jpg" alt="" width="188"><figcaption><p>lively bars can be found easily</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3252.jpg" alt="" width="188"><figcaption><p>lively bars can be found easily</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_2972.jpg" alt="" width="188"><figcaption><p>interactive street art invites you to take tons of photos</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_2972.jpg" alt="" width="188"><figcaption><p>interactive street art invites you to take tons of photos</p></figcaption></figure>
 
 </div>
 
@@ -39,19 +39,19 @@ The Botanical Gardens offer a lush and serene escape from the city, featuring a 
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_6287.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6287.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6327.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6327.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6342 (1).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6342 (1).JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6338 (1).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6338 (1).JPG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -61,31 +61,31 @@ The Kek Lok Si Temple is a sprawling complex with intricate Chinese-inspired arc
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_3094.jpg" alt="" width="375"><figcaption><p>Kek Lok Si Temple</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3094.jpg" alt="" width="375"><figcaption><p>Kek Lok Si Temple</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6390.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6390.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3140.jpg" alt="" width="375"><figcaption><p>scenic view of Georg Town</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3140.jpg" alt="" width="375"><figcaption><p>scenic view of Georg Town</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3103.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3103.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3116.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3116.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6373.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6373.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3167.jpg" alt="" width="563"><figcaption><p>Giant Guan Yin Statue</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3167.jpg" alt="" width="563"><figcaption><p>Giant Guan Yin Statue</p></figcaption></figure>
 
 </div>
 
@@ -95,23 +95,23 @@ Chew Jetty is a historic waterfront settlement in Penang consisting of wooden st
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_3189.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3189.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3180.jpg" alt=""><figcaption><p>Hokkien Char was delicious </p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3180.jpg" alt=""><figcaption><p>Hokkien Char was delicious </p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3194.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3194.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3196 (1).jpg" alt=""><figcaption><p>I also statisfied my new found love of Durian with some home-made Durian ice cream 😋</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3196 (1).jpg" alt=""><figcaption><p>I also statisfied my new found love of Durian with some home-made Durian ice cream 😋</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3203.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3203.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -121,31 +121,31 @@ Cameron Highlands is a notable destination for its sprawling tea plantations, st
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_6411.JPG" alt="" width="563"><figcaption><p>BoH tea plantation</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6411.JPG" alt="" width="563"><figcaption><p>BoH tea plantation</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3756.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3756.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3696.jpg" alt="" width="563"><figcaption><p>strawberries at the markets</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3696.jpg" alt="" width="563"><figcaption><p>strawberries at the markets</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3712.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3712.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6449.JPG" alt="" width="563"><figcaption><p>carnivorous plants in the wild.. H* thinks they look like condoms 🤭😆 </p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6449.JPG" alt="" width="563"><figcaption><p>carnivorous plants in the wild.. H* thinks they look like condoms 🤭😆 </p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6458.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6458.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6516.JPG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6516.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -155,23 +155,23 @@ Kuala Lumpur, the capital of Malaysia, is a bustling metropolis known for its ic
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_3981.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3981.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3910.jpg" alt=""><figcaption><p>Asam Laksa with Bandung Longan drink</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3910.jpg" alt=""><figcaption><p>Asam Laksa with Bandung Longan drink</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3927.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3927.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_3936.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_3936.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4006.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4006.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -179,15 +179,15 @@ Just like in George Town there is also tons of street art to marvel at. But anot
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_4081.jpg" alt="" width="375"><figcaption><p>Lake Symphony at KLCC park</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4081.jpg" alt="" width="375"><figcaption><p>Lake Symphony at KLCC park</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4036.jpg" alt="" width="375"><figcaption><p>a shot from below at KLCC park</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4036.jpg" alt="" width="375"><figcaption><p>a shot from below at KLCC park</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4119.jpg" alt="" width="563"><figcaption><p>for the best view go to one of the sky bars opposite of the Petronas Towers</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4119.jpg" alt="" width="563"><figcaption><p>for the best view go to one of the sky bars opposite of the Petronas Towers</p></figcaption></figure>
 
 </div>
 
@@ -197,31 +197,31 @@ The Batu Caves are a Hindu pilgrimage site near Kuala Lumpur featuring a towerin
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_6614.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6614.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6543.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6543.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4205.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4205.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4233.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4233.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4249.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4249.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6593.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6593.JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6607.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6607.JPG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -231,27 +231,27 @@ Malacca, also known as Melaka, is a historic city in Malaysia that is a UNESCO W
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_4120.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4120.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4447.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4447.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4477.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4477.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4504.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4504.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4520.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4520.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4536.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4536.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

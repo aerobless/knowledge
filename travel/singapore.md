@@ -13,19 +13,19 @@ The Buddha Tooth Relic Temple in Singapore's Chinatown is a remarkable blend of 
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_4609.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4609.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4613.jpg" alt=""><figcaption><p>Temple Selfie 😄</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4613.jpg" alt=""><figcaption><p>Temple Selfie 😄</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4620.jpg" alt=""><figcaption><p>the rooftop garden on top of the temple</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4620.jpg" alt=""><figcaption><p>the rooftop garden on top of the temple</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4639.jpg" alt=""><figcaption><p>awesome street art</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4639.jpg" alt=""><figcaption><p>awesome street art</p></figcaption></figure>
 
 </div>
 
@@ -37,19 +37,19 @@ Probably Singapore's most well-known feature are the beautiful Gardens by the Ba
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_4659.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4659.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_6616.JPG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_6616.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_5028.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5028.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_5295.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5295.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -57,15 +57,15 @@ At night, the Supertree Grove transforms into a mesmerizing spectacle, as the to
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_4740 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4740 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_5437 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5437 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_5449 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5449 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,23 +73,23 @@ Marina Bay Sands is a triple treat: luxury lodging, high-end shopping at The Sho
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_5315.jpg" alt=""><figcaption><p>pretty apple store</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5315.jpg" alt=""><figcaption><p>pretty apple store</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_5321.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_5321.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4357.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4357.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4854.jpg" alt=""><figcaption><p>enjoying a drink in the skybar</p></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4854.jpg" alt=""><figcaption><p>enjoying a drink in the skybar</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_4838.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_4838.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

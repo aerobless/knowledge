@@ -19,15 +19,15 @@ Beautiful harbour canal area with lots of little bars and restaurants. Ideal for
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_20230730_152328.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230730_152328.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0614.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0614.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0604.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0604.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,15 +37,15 @@ The church has a golden spire on top that you can climb. From there you get an a
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_0577 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0577 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0579 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0579 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230730_142517 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230730_142517 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -53,15 +53,15 @@ While waiting for our time slot to climb the spire we had a quick look at the co
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_0513.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0513.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0504.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0504.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0505.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0505.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -71,15 +71,15 @@ Opend in 1843, Tivoli Gardens is the worlds second-oldest amusement park. It's l
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_0766 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0766 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230731_144132.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230731_144132.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0787 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0787 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -89,19 +89,19 @@ The park is open quite late, and it is totally worth to come back in the evening
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/IMG_20230731_215130.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230731_215130.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0881.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0881.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_20230731_223307.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_20230731_223307.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0894.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0894.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -113,19 +113,19 @@ When visiting the cisterns it's a good idea to bringt a sweater or jacket, as it
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_0961.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0961.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0920 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0920 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0929.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0929.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_0993 (1).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/IMG_0993 (1).JPG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
