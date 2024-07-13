@@ -1,0 +1,1 @@
+An index for obsidian quartz :)
