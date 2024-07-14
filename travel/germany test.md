@@ -12,8 +12,8 @@ cssclasses:
 
 ## [Phantasialand](https://www.phantasialand.de/en/)
 
-![Entrance to Hotel Charles Lindbergh|300](<../gitbook/assets/IMG\_0097 (1).jpeg>) 
-![Taron Rollercoaster|300](../gitbook/assets/IMG\_0194.jpeg) 
+![[public/travel/_assets/IMG_0504.jpg | 200]] dd ![[public/travel/_assets/IMG_0504.jpg | 200]]
+
 ![Chipas water ride](../gitbook/assets/IMG\_0140.jpeg) 
 ![Mystery Castle (free-fall tower)](../gitbook/assets/IMG\_0333.jpeg)
 
