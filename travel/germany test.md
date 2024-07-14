@@ -3,19 +3,19 @@ description: >-
   Germany, a central European country, is known for its strong economy, rich
   cultural history, technological innovations, and landmarks like the
   Brandenburg Gate and Neuschwanstein Castle.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 
 # 🇩🇪 Germany
 
 ## [Phantasialand](https://www.phantasialand.de/en/)
 
-
-```img-gallery
-path: public/travel/_assets
-type: horizontal
-```
-
-![Entrance to Hotel Charles Lindbergh](<../gitbook/assets/IMG\_0097 (1).jpeg>) ![Taron Rollercoaster](../gitbook/assets/IMG\_0194.jpeg) ![Chipas water ride](../gitbook/assets/IMG\_0140.jpeg) ![Mystery Castle (free-fall tower)](../gitbook/assets/IMG\_0333.jpeg)
+![Entrance to Hotel Charles Lindbergh|300](<../gitbook/assets/IMG\_0097 (1).jpeg>) 
+![Taron Rollercoaster|300](../gitbook/assets/IMG\_0194.jpeg) 
+![Chipas water ride](../gitbook/assets/IMG\_0140.jpeg) 
+![Mystery Castle (free-fall tower)](../gitbook/assets/IMG\_0333.jpeg)
 
 Theme park near Cologne (Köln). Is smaller than Europa Park in comparison of park land mass but has a bunch more "fast" rollercoasters. Very nicely themed, definitely worth a visit.
 
