@@ -36,54 +36,54 @@ There is also a discovery component involved. The game should not prompt you to 
 
 ## Tasks
 
-* [ ] Inn Customer Loop
-  * [ ] Player can control customers by switching sign from closed to open
-  * [ ] Customer walks from city to inn
-  * [ ] Customer AI avoids player with pathfinding obstacle
+*   Inn Customer Loop
+  *   Player can control customers by switching sign from closed to open
+  *   Customer walks from city to inn
+  *   Customer AI avoids player with pathfinding obstacle
   * [x] Customer enters inn
   * [x] Customer sits down
   * [x] Customer takes beer
-    * [ ] customer checks if beer mug is full before taking it
+    *   customer checks if beer mug is full before taking it
   * [x] Customer drinks beer
-    * [ ] beer is emptied for each drink
-  * [ ] Customer drops empty mug on table
-  * [ ] Customer drops money on table
-    * [ ] Model for coins
-    * [ ] Depending on happiness customer gives more or less coins
-  * [ ] Customer gets up and leaves inn
-  * [ ] Player gathers coins and puts them in safe / cashiers register
-  * [ ] Used dishes are considered dirty
-    * [ ] Player can wash used dishes
-* [ ] Cleaning Inn Loop
-  * [ ] Dropping food creates dirt
+    *   beer is emptied for each drink
+  *   Customer drops empty mug on table
+  *   Customer drops money on table
+    *   Model for coins
+    *   Depending on happiness customer gives more or less coins
+  *   Customer gets up and leaves inn
+  *   Player gathers coins and puts them in safe / cashiers register
+  *   Used dishes are considered dirty
+    *   Player can wash used dishes
+*   Cleaning Inn Loop
+  *   Dropping food creates dirt
   * [x] Dirt can be cleaned up
   * [x] Cleaning dirt spawn dirt slime
   * [x] Dirt slime runs away
   * [x] Dirt slime can be killed
-* [ ] Items & Fun
+*   Items & Fun
   * [x] Bottle that breaks
   * [x] Mug
-  * [ ] Ladder for climbing
-* [ ] Goblin Attack
-  * [ ] Goblin NPC rigged and animated
-  * [ ] Goblin AI that walk to inn
-    * [ ] Goblins stay in group / group logic
-  * [ ] Goblins can attack player
-  * [ ] Goblins can attack customers / other NPCs
-  * [ ] Goblins die
-    * [ ] Pathfinding agent is exchanged for ragdoll
-  * [ ] Dead goblin can be burned / buried
-  * [ ] Pan attack / other kitchen weapons
-    * [ ] Unerring throw
-  * [ ] "No killing goblins" sign
-* [ ] Overall gameplay state tracking
-  * [ ] Track how much dirt there is in the inn
-    * [ ] much dirt affects customer happiness
-  * [ ] Track how much gold the player has earned
-  * [ ] Track customer happiness
-  * [ ] Display stats in ledger for innkeeper
-* [ ] Market
-  * [ ] player can use coins to buy additional items and or ingredients for inn
-* [ ] Saving
-  * [ ] player can save game
-  * [ ] player can start game from save
+  *   Ladder for climbing
+*   Goblin Attack
+  *   Goblin NPC rigged and animated
+  *   Goblin AI that walk to inn
+    *   Goblins stay in group / group logic
+  *   Goblins can attack player
+  *   Goblins can attack customers / other NPCs
+  *   Goblins die
+    *   Pathfinding agent is exchanged for ragdoll
+  *   Dead goblin can be burned / buried
+  *   Pan attack / other kitchen weapons
+    *   Unerring throw
+  *   "No killing goblins" sign
+*   Overall gameplay state tracking
+  *   Track how much dirt there is in the inn
+    *   much dirt affects customer happiness
+  *   Track how much gold the player has earned
+  *   Track customer happiness
+  *   Display stats in ledger for innkeeper
+*   Market
+  *   player can use coins to buy additional items and or ingredients for inn
+*   Saving
+  *   player can save game
+  *   player can start game from save
