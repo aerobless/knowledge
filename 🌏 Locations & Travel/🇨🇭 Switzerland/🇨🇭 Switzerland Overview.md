@@ -7,8 +7,7 @@ cover: >-
   https://images.unsplash.com/photo-1504218727796-db522606b16f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxTd2l0emVybGFuZHxlbnwwfHx8fDE2NjAzNzUxMTE&ixlib=rb-1.2.1&q=80
 coverY: 78.4955028618152
 ---
-
-## Notes
+# Notes
 
 * [SchweizMobil: Cycling routes](https://schweizmobil.ch/en/cycling-in-switzerland?f\_land=cycle)
 * [SchweizMobil: Hiking routes](https://schweizmobil.ch/en/hiking-in-switzerland)
@@ -17,7 +16,7 @@ coverY: 78.4955028618152
 * [Aareschlucht Ost](https://aareschlucht.ch/): ([Insta Story](https://www.instagram.com/reel/CyQvfTkN0Ui/))
 * [Wasserfall Arena Batöni](https://www.2coinstravel.ch/unesco-wasserfall-arena-batoeni/)
 
-## [Via Ferrata](🏔️%20Via%20Ferrata.md) (Klettersteig)
+# [[🏔️ Via Ferrata]] (Klettersteig)
 
 * [Kandersteg-Allmenalp](http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1): Beautiful [via ferrata](🏔️%20Via%20Ferrata.md) with two route options, multiple rope-bridges and a zip-line. Access via public transport is easily possible. Can be crowded on nice weekends. It is possible to do this as a beginner, but you should not be afraid of heights since the route is fairly exposed. Many youtube videos of the route exist which can be used to judge whether one is up to the task. It is important to know that it's not possible to exit the climb once started.
 * [Brunni Zittergrat, Rigidalstock](https://brunni.ch/en/Detail/via-ferratas): There are multiple via ferrata in Brunni that are good for beginners. Right aftter the cable car there is an option to do either Zittergrat or Brunnistöckli. They both end in the same place but Zittergrat has a somewhat higher difficulty. Both are suitable for beginners, although if you're unsure or afraid of exposed sections it's better to start with Brunnistöckli.\
@@ -27,8 +26,8 @@ coverY: 78.4955028618152
 * [La Resiga, Pontresina](https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/la-resgia-7790/klettersteig/klettersteig-la-resgia-709/): Cool via ferrata close to Pontresina.
 * [INDI, Netstal](https://www.myferrata.ch/indianer/): This via ferrata is easily accessible by public transport as it's located fairly close to the train station Netstal. It's also open early in the year. It's not a hard route but it does have some mentally difficult segments (exposed climbing down, exposed slight overhang climbing up).
 
-## Citizenship
+# Citizenship
 
-### Swiss Armed Forces
+## Swiss Armed Forces
 
 * [Military Logistics Webshop](https://lba-webshop.ch/): Get 2 free clothing items per year (t-shirt, function roll-shirt, long underpants etc.) as well as various cleaning items for free. The shirts/underpants are perfect as skiing underwear.

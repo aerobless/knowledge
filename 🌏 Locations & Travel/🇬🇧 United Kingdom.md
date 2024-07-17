@@ -1,8 +1,8 @@
 ---
-description: >-
-  The United Kingdom, comprising England, Scotland, Wales, and Northern Ireland,
-  is notable for its diverse cultures, historic significance, and varied
-  landscapes.
+description: The United Kingdom, comprising England, Scotland, Wales, and Northern Ireland, is notable for its diverse cultures, historic significance, and varied landscapes.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 # Scotland
 

@@ -6,7 +6,6 @@ cssclasses:
   - img-grid
   - img-zoom
 ---
-
 # Rovaniemi
 
 Rovaniemi, is the official hometown of Santa Claus and the capital of Lapland. Known for its unique Arctic Circle location, it combines urban life with close proximity to nature. This city offers a magical winter experience with opportunities for Northern Lights viewing, husky safaris, and reindeer rides. In summer, the Midnight Sun provides 24 hours of daylight for exploring the stunning landscapes. Cultural highlights include the Arktikum museum and the Santa Claus Village. Rovaniemi serves as a gateway to outdoor adventures in the surrounding Lappish wilderness.

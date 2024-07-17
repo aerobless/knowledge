@@ -1,7 +1,8 @@
 ---
-description: >-
-  Indonesia is a diverse archipelago in Southeast Asia, famed for its volcanic
-  landscapes, rich cultures, and vibrant ecosystems.
+description: Indonesia is a diverse archipelago in Southeast Asia, famed for its volcanic landscapes, rich cultures, and vibrant ecosystems.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 # Bali
 

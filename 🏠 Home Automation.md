@@ -15,7 +15,7 @@ Home Automation is a bit of a hobby of mine. Which is why I've [documented my se
 
 # Addons
 
-* [Tailscale Zeroconf VPN](https://github.com/hassio-addons/addon-tailscale): A zeroconf VPN solution based on WireGuard. The HA addon can be used a gateway into the local network. Works very well. See also [SaaS -> VPN -> Tailscale](saas/#vpn).
+* [Tailscale Zeroconf VPN](https://github.com/hassio-addons/addon-tailscale): A zeroconf VPN solution based on WireGuard. The HA addon can be used a gateway into the local network. Works very well. See also [[☁️ SaaS & Web#VPN | Tailscale]].
 
 # Connectivity
 

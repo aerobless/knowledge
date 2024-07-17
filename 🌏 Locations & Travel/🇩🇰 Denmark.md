@@ -7,7 +7,6 @@ cssclasses:
   - img-grid
   - img-zoom
 ---
-
 # Copenhagen
 
 Copenhagen is a beautiful city with tons of things to see and do. Due to being close to the coast the weather can be a bit unpredictable. In July/early August it's best to always carry a light jacket and umbrella. It also helps to be a bit flexible with planning and just hop into a café or book store when it rains for a bit.

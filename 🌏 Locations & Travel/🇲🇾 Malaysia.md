@@ -1,8 +1,8 @@
 ---
-description: >-
-  Malaysia is a Muslim-majority Southeast Asian country known for its cultural
-  diversity, modern cities like Kuala Lumpur, and natural wonders, ranging from
-  pristine beaches to tropical rainforests.
+description: Malaysia is a Muslim-majority Southeast Asian country known for its cultural diversity, modern cities like Kuala Lumpur, and natural wonders, ranging from pristine beaches to tropical rainforests.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 # George Town, Penang
 
