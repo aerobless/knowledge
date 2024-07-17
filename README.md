@@ -1,0 +1,1 @@
+This repo is a representation of my public [Obsidian.md Vault](https://obsidian.md/). The published version can be accessed [here](https://wiki.w1nter.com/) for now. I may switch around the url later - but for the moment I still want the old version to stay accessible.
