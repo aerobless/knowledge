@@ -29,6 +29,7 @@ description: >-
 * [AltStore](https://altstore.io/): Alternative app-store for iOS via self-signed developer certificates. Does not require jailbreaking. Self-signed certificates only last for a week and need to be refreshed often. Alternatively a service like Signulous can be used that signs app with a developer certificate so that they are valid for up to a year.
 * [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/). Apps installed via Signulous are valid for up to a year.
 * [Eleven Labs Reader](https://elevenlabs.io/text-reader): Reads from text, url, pdf or ePub documents with various narration voices. Works amazingly well with a very high quality narration that feels like it’s from a professional audiobook narrator. 
+* [Working Copy](https://workingcopy.app/): A fully featured git client for iOS. Useful e.g. in combination with [[💎 Obsidian|Obsidian]].
 
 # Swiss apps
 
