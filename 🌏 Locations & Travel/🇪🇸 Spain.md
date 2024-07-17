@@ -18,7 +18,7 @@ Madrid is Spain's vibrant capital, famous for its art galleries like the Prado M
 
 The Temple of Debod is an ancient Egyptian temple that was dismantled and rebuilt in Madrid, Spain. Originally constructed in the 2nd century BC near Aswan in Egypt, the temple was gifted to Spain by the Egyptian government in 1968 as a sign of gratitude for helping save temples during the construction of the Great Dam of Aswan.
 
-If you want to see the inside it's best to go early in the morning as the queue can get quite long, especially on weekends or during holidays. Only about 10 people can go inside at one time so it can take a bit of a wait until you get inside. The inside is definitly worth seeing as this is the only&#x20;
+If you want to see the inside it's best to go early in the morning as the queue can get quite long, especially on weekends or during holidays. Only about 10 people can go inside at one time so it can take a bit of a wait until you get inside. The inside is definitly worth seeing as this is the only
 
 ![[🇪🇸 Spain-20240716225448077.jpg]]
 

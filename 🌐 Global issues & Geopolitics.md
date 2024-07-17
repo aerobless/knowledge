@@ -11,7 +11,7 @@ Our World in Data is a web publication that presents empirical research and data
 
 * [Annual number of objects launched into space](https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space)
   * The US is building significantly more space infrastructure than all other countries combined. This may be an indicator that the US still outperforms global peers in research and development of advanced technologies. And even more importantly the US was able to successfully transition from a mainly government sponsored space sector to a commercial one. This is one area where the US has a significant first movers advantage until some of its global peers are able to follow suit.
-* &#x20;[Cost of space launches to low Earth orbit](https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit)
+* [Cost of space launches to low Earth orbit](https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit)
 * [Death rate in state-based conflicts, world](https://ourworldindata.org/grapher/death-rate-in-state-based-conflicts)
 
 # Important Topics

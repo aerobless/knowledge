@@ -1,8 +1,8 @@
 ---
-description: >-
-  Italy is a European country known for its history, diverse geography from Alps
-  to beaches, iconic landmarks like the Colosseum, and global cuisine including
-  pasta and pizza.
+description: Italy is a European country known for its history, diverse geography from Alps to beaches, iconic landmarks like the Colosseum, and global cuisine including pasta and pizza.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 # Hikes
 

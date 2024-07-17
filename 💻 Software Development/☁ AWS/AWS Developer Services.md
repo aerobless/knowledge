@@ -22,4 +22,4 @@ It also provides custom dashboards and configurations in the AWS Console.
 
 You are only charged for the leveraged services. CodeStar itself is free.
 
-# &#x20;
+# 

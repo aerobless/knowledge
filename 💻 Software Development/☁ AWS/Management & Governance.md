@@ -14,7 +14,7 @@ It can also provide visualisation of metrics and custom dashboards. (like Kibana
 
 # AWS Config
 
-Continually evaluates infrastructure against a set of rules. Provides configuration history for infrastructure.&#x20;
+Continually evaluates infrastructure against a set of rules. Provides configuration history for infrastructure.
 
 Works against a set of rules, some are provided but you can also setup your own.
 
@@ -34,7 +34,7 @@ Store commonly used parameters securely for operational use. E.g. provide app pa
 
 # AWS OpsWorks
 
-OpsWorks is a configuration management service. It provides managed instances of Chef and Puppet.&#x20;
+OpsWorks is a configuration management service. It provides managed instances of Chef and Puppet.
 
 Configuration is defined as code for servers. Chef and Puppet manages the lifecycle of those configuration changes with servers.
 

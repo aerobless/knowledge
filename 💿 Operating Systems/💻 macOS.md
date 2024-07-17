@@ -7,7 +7,7 @@
 
 ## System information
 
-* Fan speed, CPU temperature etc.: `sudo powermetrics`&#x20;
+* Fan speed, CPU temperature etc.: `sudo powermetrics`
 
 ## SCP
 

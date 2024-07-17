@@ -36,7 +36,7 @@ description: >-
       * While loading it may also make sense to increase protein intake to improve absorption
     * it its important to stay hydrated for the best effect & absorption
   * It is helpful to take creatine every day even on rest day since the body can only store so much per day in the muscles and it is useful to fill up stores for when you need them.
-  * Creatine goes along with gaining weight because muscles store more water in their cells when supplementing creatine. This water increases weight but since it is neither fat nor muscle tissue it doesn't really matter.&#x20;
+  * Creatine goes along with gaining weight because muscles store more water in their cells when supplementing creatine. This water increases weight but since it is neither fat nor muscle tissue it doesn't really matter.
   * Supposedly creatine also helps the brain as the brain is also a big consumer of ATP. There may be several health benefits regarding Alzheimers and similar diseases.
   * There is no known benefit to cycle creatine supplementation
 

@@ -42,4 +42,4 @@ The premise of the book "Atomic Habits" is that these loops can be changed to be
 * The **mismatch between immediate vs. long term results**: Immediate results feel good but often patience is needed for the results of a habit to pay off. Therefor an artificial reward can be introduced that makes good habits immediately satisfying.
 * **Measure progress** / habit tracking: It can feel rewarding to see that you've completed your habit several times. This reinforces the habit even further.
 * **Bad days**: Just show up. Breaking the chain can be the start of a bad habit. Just reduce the difficulty of the habit for that day so that it can still count as completed.
-* **Habit contract**: It can be useful to create a contract with yourself to do or not do a certain habit. E.g. if I fail to do x I will donate x $ to charity.&#x20;
+* **Habit contract**: It can be useful to create a contract with yourself to do or not do a certain habit. E.g. if I fail to do x I will donate x $ to charity.

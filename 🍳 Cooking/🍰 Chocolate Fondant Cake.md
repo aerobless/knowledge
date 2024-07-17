@@ -9,7 +9,7 @@ description: Chocolate fondant cake without flour
 * 100g almonds
 * 200g butter
 * 3 table spoon cornstarch (maisstärke)
-* 1 packet vanilla sugar&#x20;
+* 1 packet vanilla sugar
 * 1 teaspoon baking soda
 
 ## Instructions

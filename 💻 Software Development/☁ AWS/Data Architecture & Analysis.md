@@ -36,7 +36,7 @@ EMR supports: Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi
 
 # AWS Data Pipeline
 
-Data Pipeline is a data workflow orchestration service that can be used across AWS services. Data Pipeline is also a managed ETL service (like AWS Glue). It manages the data workflow through AWS services.&#x20;
+Data Pipeline is a data workflow orchestration service that can be used across AWS services. Data Pipeline is also a managed ETL service (like AWS Glue). It manages the data workflow through AWS services.
 
 It supports S3, EMR, Redshift, DynamoDB and RDS.
 

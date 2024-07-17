@@ -2,7 +2,7 @@
 
 * Creality Ender 3 V2
 * Slicer: Creality Slicer or CURA. Creality Slicer is a stripped down version of CURA with ready to use profiles
-* [Octoprint](https://octoprint.org/)&#x20;
+* [Octoprint](https://octoprint.org/)
 
 # Ideal settings
 

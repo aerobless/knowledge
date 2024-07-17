@@ -101,7 +101,7 @@ The secrets manager in respect to auto scaling is needed so tokens, credentials 
 
 ## Security Groups
 
-SGs serve as a firewall for EC2 instances. They control inbound and outbound traffic at the instance level. EC2 instances can belong to multiple security groups.&#x20;
+SGs serve as a firewall for EC2 instances. They control inbound and outbound traffic at the instance level. EC2 instances can belong to multiple security groups.
 
 VPCs have a default security group, but other than that you always have to explicitly associate an EC2 instance with a security group.
 
@@ -115,13 +115,13 @@ New custom ACL's deny all traffic until rules are added.
 
 ## AWS VPN
 
-With AWS VPN you can create an encrypted tunnel into you VPC. This can be used to connect a data center or individual client machines to the VPC.&#x20;
+With AWS VPN you can create an encrypted tunnel into you VPC. This can be used to connect a data center or individual client machines to the VPC.
 
 There are two versions of AWS VPN:
 
 *   **Site-to-site VPN**
 
-    A fixed VPN connection between a data center and the VPC. Differs from Direct Connect because this traffic goes over the internet (encrypted) whereas Direct Connect traffic goes over the AWS global infrastructure and not the public internet.&#x20;
+    A fixed VPN connection between a data center and the VPC. Differs from Direct Connect because this traffic goes over the internet (encrypted) whereas Direct Connect traffic goes over the AWS global infrastructure and not the public internet.
 *   **Client VPN**
 
     Connecting with a client computer to the VPC.
@@ -136,7 +136,7 @@ It has 2 service levels (standard and advanced).
 
 ## AWS Macie
 
-Utilises machine learning to analyse the data in S3. It can detect personal information and intellectual property data stored in S3.&#x20;
+Utilises machine learning to analyse the data in S3. It can detect personal information and intellectual property data stored in S3.
 
 It continually watches and categorises data. And provides dashboards that show how the data is being stored and accessed.
 
@@ -144,7 +144,7 @@ It can also provide alerts if the detects anything unusual about data access.
 
 ## Amazon Inspector
 
-Inspector enables scanning of EC2 instances for security vulnerabilities.&#x20;
+Inspector enables scanning of EC2 instances for security vulnerabilities.
 
 Inspector charges per instance, per assessment run.
 

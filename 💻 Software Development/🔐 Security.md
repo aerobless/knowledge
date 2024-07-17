@@ -18,7 +18,7 @@ Passwords shouldn't be stored in plain text. Instead the password + some random 
 
 ## PKI (Public Key Infrastructure)
 
-A typical example of public key infrastructure is the SSL certificate system used for the internet. SSL certificates are set up using a [chain of trust](🔐%20Security.md#undefined) from the root CA (Certificate Authority) to the end user. In order for PKI to work the user needs to trust a few root CA certificates that then sign the certificates of other CAs and their customers. Typically these root CAs certificates are included in the operating system or browser. But it's also possible for a user to install additional certificates, e.g. for a companies internal network.&#x20;
+A typical example of public key infrastructure is the SSL certificate system used for the internet. SSL certificates are set up using a [chain of trust](🔐%20Security.md#undefined) from the root CA (Certificate Authority) to the end user. In order for PKI to work the user needs to trust a few root CA certificates that then sign the certificates of other CAs and their customers. Typically these root CAs certificates are included in the operating system or browser. But it's also possible for a user to install additional certificates, e.g. for a companies internal network.
 
 ### Chain of trust
 

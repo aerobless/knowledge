@@ -71,7 +71,7 @@ from(bucket: "homeassistant/autogen")
   |> set(key: "_field", value: "now")
 ```
 
-First I filter both metrics (line 3) then I create a pivot table by the column key "entity id" (line 4). This gives me a table with the columns: timestamp, basal energy, active energy, value.&#x20;
+First I filter both metrics (line 3) then I create a pivot table by the column key "entity id" (line 4). This gives me a table with the columns: timestamp, basal energy, active energy, value.
 
 In order to calculate the value we can use a mapping function (line 6). This leaves us with the two additional columns that we no longer need so we can drop them (line 7). If we don't drop them they'll show up on the graph as well.
 

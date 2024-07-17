@@ -5,7 +5,7 @@ description: >-
 ---
 ## Isotonic Vitamins
 
-Ideal for a workout of 1-2h.&#x20;
+Ideal for a workout of 1-2h.
 
 * 1 vitamin tablet (e.g. [Prix Garantie Viatmins](https://www.coop.ch/en/cosmetics-health/health-medicine-cabinet/vitamins-minerals-food-supplements/vitamins/prix-garantie-vitamins-effervescent-tablets-20-pieces/p/3558430))
 * 0.5l water

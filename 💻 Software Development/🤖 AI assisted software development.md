@@ -110,7 +110,7 @@ Für sonstige Formatierungen verwende den Markdown Syntax.
 
 **Tools:** Atlassian Intelligence
 
-### Answering questions & summarising with data from confluence&#x20;
+### Answering questions & summarising with data from confluence
 
 E.g. Can I store customer data on my company notebook?
 

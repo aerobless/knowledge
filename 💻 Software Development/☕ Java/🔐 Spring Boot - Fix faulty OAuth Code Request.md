@@ -1,4 +1,4 @@
-**Problem**: For a work project I'm setting up an OAuth2 client in Spring Boot. We're using a NetIQ Access Manager for authorization. During the OAuth2 flow it redirect the user to our backend with a code param. However the request is formatted like so "`http://localhost:8045/backend/api/v1/login/oauth2/code/your-login??code=/CODE"` with 2 question marks. Spring Boots OAuth client implementation does not like this.&#x20;
+**Problem**: For a work project I'm setting up an OAuth2 client in Spring Boot. We're using a NetIQ Access Manager for authorization. During the OAuth2 flow it redirect the user to our backend with a code param. However the request is formatted like so "`http://localhost:8045/backend/api/v1/login/oauth2/code/your-login??code=/CODE"` with 2 question marks. Spring Boots OAuth client implementation does not like this.
 
 **Solution**: The long term solution should obviously be to fix the Access Manager. As a quick workaround I rewrite the request like so:
 

@@ -1,8 +1,5 @@
 ---
-description: >-
-  Denmark, in Northern Europe, is known for progressive policies, design
-  innovation, and landscapes blending coastal islands with modern urban
-  architecture.
+description: Denmark, in Northern Europe, is known for progressive policies, design innovation, and landscapes blending coastal islands with modern urban architecture.
 cssclasses:
   - img-grid
   - img-zoom

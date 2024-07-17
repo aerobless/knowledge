@@ -36,7 +36,7 @@ This is useful to make sure that a user connecting to one load balancer stays lo
    4. Select VPC
    5. Select ec2 security group
    6. Advanced details
-      1. Use user data section to start application on startup automatically&#x20;
+      1. Use user data section to start application on startup automatically
 
 ```
 #!/bin/bash

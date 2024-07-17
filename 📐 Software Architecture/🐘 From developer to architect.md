@@ -5,7 +5,7 @@ description: Things learned on the journey from developer to architect.
 
 As an architect, you handle many small tasks with varying deadlines. Managing them can be challenging, so you need an effective process to stay organized.
 
-I currently use [Reclaim AI](https://reclaim.ai/) as a way to keep track of my tasks, their importance & deadlines.&#x20;
+I currently use [Reclaim AI](https://reclaim.ai/) as a way to keep track of my tasks, their importance & deadlines.
 
 ```mermaid
 graph TD
@@ -26,7 +26,7 @@ Whenever I fulfill a scheduled task I only need to delete it from the calendar a
   * First Corollary: «If you think you’ve found something that isn’t a tradeoff, it just means you haven’t identified the tradeoff yet»
   * There are no right or wrong answers in architecture; rather, it’s always about tradeoffs
 * **Structural design of software architecture**
-  * Determine what architecture characteristics are present within the problem space.&#x20;
+  * Determine what architecture characteristics are present within the problem space.
   * Do logical component analysis to understand the problem domain.
 * **As an architect, you should think about the artifacts within the architecture in terms of components**
   * Entity Trap: Do not consider every entity as a component, e.g. auction manager, item manager, bid manager. Instead consider workflows and identify actors.

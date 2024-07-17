@@ -32,7 +32,7 @@ description: >-
 * [$VOOG](https://investor.vanguard.com/investment-products/etfs/profile/voog): S\&P 500 growth focused, US only, TER 0.10%
   * heavier focus on growth companies in the S\&P 500, therefore higher possible return if this growth is realised. However the TER is worse than plain $VOO.
 * [$VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus): tracks FTSE global all caps, only non-US (developed & emerging) TER 0.07%
-  * [Basically a newer version](https://www.optimizedportfolio.com/vxus-vs-veu/) (2011) of $VEU with more stocks. $VXUS and $VEU have pretty much the same curve, however $VXUS contains also small cap stocks. ($VXUS ca. 7000 vs $VEU 3000). This makes it more diversified for the same price.&#x20;
+  * [Basically a newer version](https://www.optimizedportfolio.com/vxus-vs-veu/) (2011) of $VEU with more stocks. $VXUS and $VEU have pretty much the same curve, however $VXUS contains also small cap stocks. ($VXUS ca. 7000 vs $VEU 3000). This makes it more diversified for the same price.
   * [$VEU](https://investor.vanguard.com/investment-products/etfs/profile/veu): FTSE, only non-US (developed & emerging), TER 0.07%
     * Good way to get exposure into non-us stocks.
 * [$CHSPI](https://www.ishares.com/ch/individual/en/products/264107/ishares-spi-ch-fund): Tracks companies on the SIX Swiss Exchange, TER 0.10%
@@ -66,7 +66,7 @@ Prices also tend to be most stable during the middle of the trading window - whe
 
 ## Hedging
 
-* [Should you use currency hedging in your portfolio](https://thepoorswiss.com/currency-hedging-portfolio/):&#x20;
+* [Should you use currency hedging in your portfolio](https://thepoorswiss.com/currency-hedging-portfolio/):
   * it's unclear if hedging can improve long-term results
   * you should not hedge more than half of your portfolio
   * hedging currency is akin to an insurance, insurance services cost money, therefor hedged investments have higher fees then normal ones
@@ -100,7 +100,7 @@ A collection of ideas on how the world might turn out 🔮. Predicting the futur
 * **Climate change**: the climate is getting hotter and I'm pessimistic that we will make significant impact in stopping this any time soon. This benefits developed economies more then the ones that are still developing because developed economies have the resources to adapt more easily to a changed climate. The focus on low-co2 products will likely also unfairly impact developing countries that do not yet have the resources to reduce their co2 output. \
   <mark style="background-color:green;">\[</mark><mark style="background-color:green;">**Economy**</mark><mark style="background-color:green;">: Developed]</mark> <mark style="background-color:orange;">\[</mark><mark style="background-color:orange;">**Economy**</mark><mark style="background-color:orange;">: Emerging]</mark>
 * **AI**: the rapid progress of AI models benefits companies of all sectors that can reduce their workforce due to an increase in productivity. Direct revenue from AI models mostly benefits the established big software companies (MAMAA) due to the costs involved in training a suitably large model. Also regulatory capture is in full swing where some of these companies are attempting to sway governments to regulate AI in there favour. This will make it increasingly expensive for new players to enter the market. AI startups will likely get a lot of short-term investments but fail to capture a significant market shares from the large players. Large players will likely copy or buy their innovations. To profit off AI its probably best to invest into broad market indexes as it has an impact on nearly all sectors. <mark style="background-color:green;">\[Total market]</mark> <mark style="background-color:green;">\[Big Tech]</mark> <mark style="background-color:orange;">\[AI Startups]</mark>
-* **Space**: the increasingly cheaper access to space allows for new business models involving constellations of satellites ranging from communication (internet access, private networks), monitoring of geo conditions, surveillance and research. In the long term manufacturing of speciality goods that take advantage of microgravity (medicine, artifical organs, ..) might also see rapid growth. But it is too early to invest in those. For now it's best to focus on companies that reduce the cost of access to space. Old space companies that are heavily intertwined with nation governments will likely continue to see a decline.&#x20;
+* **Space**: the increasingly cheaper access to space allows for new business models involving constellations of satellites ranging from communication (internet access, private networks), monitoring of geo conditions, surveillance and research. In the long term manufacturing of speciality goods that take advantage of microgravity (medicine, artifical organs, ..) might also see rapid growth. But it is too early to invest in those. For now it's best to focus on companies that reduce the cost of access to space. Old space companies that are heavily intertwined with nation governments will likely continue to see a decline.
 
 # Algorithmic Trading
 
@@ -108,7 +108,7 @@ A collection of ideas on how the world might turn out 🔮. Predicting the futur
 
 # 🚀 Space Sector
 
-In my opinion it's a great time to invest into space companies, the field is still very young and there are few investable companies. Building rockets and space infrastructure is also a hard problem where it's easy to observe (from the outside) the success condition. Either you get into orbit or you don't.&#x20;
+In my opinion it's a great time to invest into space companies, the field is still very young and there are few investable companies. Building rockets and space infrastructure is also a hard problem where it's easy to observe (from the outside) the success condition. Either you get into orbit or you don't.
 
 ## Public space companies
 

@@ -1,8 +1,8 @@
 ---
-description: >-
-  Portugal, a coastal nation in Southern Europe, is known for its rich maritime
-  history, distinctive architecture like the Belem Tower, and the production of
-  Port wine.
+description: Portugal, a coastal nation in Southern Europe, is known for its rich maritime history, distinctive architecture like the Belem Tower, and the production of Port wine.
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 # Madeira
 

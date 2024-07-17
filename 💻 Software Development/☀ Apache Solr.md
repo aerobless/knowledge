@@ -13,7 +13,7 @@ Solr supports multiple query parsers. Which one to chose depends on the use case
   * default parser with good results out of the box, more strict and harder to configure
 * **eDisMax Query Parser (Extended DisMax Query Parser)**
   * more lenient syntax, better configurability then Lucene, less ideal results out of the box
-  * supports boosting with multiplication instead of addition&#x20;
+  * supports boosting with multiplication instead of addition
 
 see also: [https://medium.com/empathyco/edismax-query-parser-a-parser-to-be-going-mad-for-3cb353292a30](https://medium.com/empathyco/edismax-query-parser-a-parser-to-be-going-mad-for-3cb353292a30)
 

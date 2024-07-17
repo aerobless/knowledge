@@ -8,4 +8,4 @@ Some domain registars already offer email forwarding by default. Mine doesn't, s
 4. Verify that the name servers were changed correctly and your domain points to Cloudflare.
 5. Verify that you can receive forwarded emails.
 6. Go into [Gmail settings -> accounts](https://mail.google.com/mail/u/0/#settings/accounts) add your custom address under the tab "Send mail as:". Follow the wizards to verify the address.
-7. Verify that you can send emails from your custom domain via Gmail.&#x20;
+7. Verify that you can send emails from your custom domain via Gmail.

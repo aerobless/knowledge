@@ -10,7 +10,7 @@ When working out a architecture for a new project the following artefacts/steps 
 1. **Understanding the domain & core use cases.**
    1. Requirements should be sorted by priority.
    2. Make a short list of critical path features that are a MUST for an MVP
-   3. Make sure the client understands MVP (minimum viable product), MMP (minimum marketable product), MLP (minimum lovable product), ... and you and they are on board with an approach to the development.&#x20;
+   3. Make sure the client understands MVP (minimum viable product), MMP (minimum marketable product), MLP (minimum lovable product), ... and you and they are on board with an approach to the development.
 2. Draw a data flow diagram that shows the interactions between the user and all required systems for the core use cases.
 3. Draw a domain model to establish a vocabulary that can be used with the client. This also ensures that you've understood the problem domain correctly and that you can communicate with stakeholders effectively. Base the domain model upon the data flow diagram and verify that they are in sync. When deviations appear make sure to rectify them in all existing artefacts.
 4. Draw a high level system diagram that shows all the required systems. Try to find matching technologies for the needed systems. E.g. database -> RDBMS vs. NoSQL. Cloud vs OnPrem etc.

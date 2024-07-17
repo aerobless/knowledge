@@ -28,7 +28,7 @@ coverY: 175.2444444444444
 
 * [Lange Nacht der Museen (Long Night of Museums)](https://langenacht-zuerich.ch/): Museums in Zurich are open longer into the evening/night (depends on the museum). With one ticket you can enter all participating museums and there is usually also food stands and parties tied to the event. Typically happens once a year in the beginning of September.
 * [Knabenschiessen](https://www.knabenschiessen.ch/): Folk festival in Zurich based around a shooting competition. Boys and girls from the canton of Zurich can participate in the competition. The winner gets dubbed Schützenkönig (shooting king). The competition is accompanied with Chilbi rides (small rollercoasters etc.) and market/food stands. The festival usually happens on the second weekend of September and lasts until Monday afternoon.
-* [Zurich Film Festival](https://zff.com/en/home/): The film festival happens yearly at the end of September. There's usually a pavilion on the Sechseläutenplatz and films are screening in the surrounding cinemas.&#x20;
+* [Zurich Film Festival](https://zff.com/en/home/): The film festival happens yearly at the end of September. There's usually a pavilion on the Sechseläutenplatz and films are screening in the surrounding cinemas.
 
 ## Winter
 

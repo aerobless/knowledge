@@ -13,11 +13,11 @@
   * [Flexy Pool](https://www.baeldung.com/spring-flexypool-guide): helps to find the correct pool size
   * [Spring Boot Datasource Decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator): used to make using FlexyPool easier
 * Disable: jpa.open-in-view
-* Use TransactionTemplate instead of @Transactional&#x20;
+* Use TransactionTemplate instead of @Transactional
   * can mark only part of a method to run in a transaction
 * use getReferenceById instead of fetching data from DB
 * n+1 problem: for every query we execute one more query to fetch data
-  * solve with @Query to fetch additional fields or @EntityGraph&#x20;
+  * solve with @Query to fetch additional fields or @EntityGraph
 * @DynamicUpdate. only updates changed fields -> but costs more memory/cpu
 * Hibernate Hypersistence Optimizer runs as a test and shows you bad db configurations -> not free
   * alternative: quickperf, doesn't support newest spring boot yet but has workaround

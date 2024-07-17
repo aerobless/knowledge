@@ -84,7 +84,7 @@ Is it worth it? It's a good experience. They say you should plan 1h, but really 
 ![[🇫🇷 France-20240716231006021.jpg]]
 ![[🇫🇷 France-20240716231006405.jpg]]
 
-The Eiffel tower is probably the most famous landmark in Paris and maybe all of France. It's surely worth going to see it but for this trip I opted to not go up. The reason is mainly that there were no tickets available online to go up to the top on the official website and I felt like going only to the second floor kinda sucks.&#x20;
+The Eiffel tower is probably the most famous landmark in Paris and maybe all of France. It's surely worth going to see it but for this trip I opted to not go up. The reason is mainly that there were no tickets available online to go up to the top on the official website and I felt like going only to the second floor kinda sucks.
 
 Since the tickets to go up to the top are limited it happens that scalpers buy all of them and then re-sell them online through various other websites.. although they're not prohibitively expensive I still feel like this is kinda scummy and I didn't want to support the practice.. also I've been on skyscraper before.. so I kinda felt like I've seen the whole get up high and see the city thing already.
 
@@ -115,14 +115,14 @@ It's also possible to walk to and from Pontorson. The way to Mont Saint Michel i
 
 ## Points of interest
 
-On the island itself there's a few things to do. Apart from taking in the absolutely stunning architecture of the town you can go and visit the abby on the top of the Mont. It's usually not that busy so buying tickets right there is just fine. It's interesting to see the inside of the abby and listening to the audio guide is well worth it.&#x20;
+On the island itself there's a few things to do. Apart from taking in the absolutely stunning architecture of the town you can go and visit the abby on the top of the Mont. It's usually not that busy so buying tickets right there is just fine. It's interesting to see the inside of the abby and listening to the audio guide is well worth it.
 
 ![[🇫🇷 France-20240716231257545.jpg]]
 ![[🇫🇷 France-20240716231257883.jpg]]
 ![[🇫🇷 France-20240716231258242.jpg]]
 ![[🇫🇷 France-20240716231258581.jpg]]
 
-Apart from visiting the abby you can also walk around the little town on the sand, although it's important to be careful and not to go out far due to quicksand. If you do want to go further or even cross the bay it's important to go with a guided tour.&#x20;
+Apart from visiting the abby you can also walk around the little town on the sand, although it's important to be careful and not to go out far due to quicksand. If you do want to go further or even cross the bay it's important to go with a guided tour.
 
 Inside the town you can visit various shops or restaurants and have a walk across the ramparts and so on.
 

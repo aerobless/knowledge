@@ -155,7 +155,7 @@ Services in the catalog have a lifecycle, so there can be multiple versions of s
 
 # AWS Marketplace
 
-Curated catalog of software to run on AWS from third party vendors. Provides everything from AMI's, Cloud Formation stacks and SaaS based solutions.&#x20;
+Curated catalog of software to run on AWS from third party vendors. Provides everything from AMI's, Cloud Formation stacks and SaaS based solutions.
 
 There are different pricing options available. Charges appear on the AWS bill.
 

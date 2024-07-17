@@ -7,7 +7,7 @@ _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It"
 * **Step 0: Trigger**
   * Something triggers emotional distress in you (sadness, anger, hate, ..)
 * **Step 1: Looking in the right place - debugging it**
-  * Base response: Who is responsible / who is at fault -> leads to: notion that emotional distress is caused by someone else. Loss of power.&#x20;
+  * Base response: Who is responsible / who is at fault -> leads to: notion that emotional distress is caused by someone else. Loss of power.
   * Alternate Strategy: How to break out of the cycle?
     * Separate things (also in time)
     * Address source later (if still needed)
@@ -20,7 +20,7 @@ _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It"
     * Base response: Reactions are real and therefore feel justified, but actually it may still be a bug
   * Communication: How do we connect our emotions to words?
   * If in doubt: Assume there is a bug that causing the emotional distress.
-* **Step 3: Identifying the bug:**&#x20;
+* **Step 3: Identifying the bug:**
   * Understand the situation
   * Reflect it back to yourself
     * Things (good or bad) we recognise in other people / situations, are often aspects of ourselves that need attention
