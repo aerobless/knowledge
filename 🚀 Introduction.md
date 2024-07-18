@@ -4,7 +4,7 @@ Welcome to my digital garden. 🪴 If you haven't heard of the concept before yo
 
 # Contact
 
-Feel free to say hi :smile:
+Feel free to say hi ☺️
 
 > Twitter: [https://twitter.com/eletiy](https://twitter.com/eletiy)
 > GitHub: [https://github.com/aerobless](https://github.com/aerobless)

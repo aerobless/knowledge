@@ -16,9 +16,9 @@ description: >-
 * [Google Maps](https://apps.apple.com/us/app/google-maps/id585027354): Maps duh! 😄
 * [Google Chrome](https://apps.apple.com/us/app/google-chrome/id535886823): Although all browsers on iOS use the same engine, I prefer this over Safari due to it syncing my bookmarks and other Google services.
 * [Google Calendar](https://apps.apple.com/uy/app/google-calendar-get-organised/id909319292): The best calendar service.
-* [Google Keep](https://apps.apple.com/us/app/google-keep-notes-and-lists/id1029207872): I use this as my shopping list app since it integrates with Google Home. Google Keep has a nice clean user interface and it can be used for other kinds of notes and lists as well. Although personally I mainly use [Notion](Notion.md) for this kind of data.
+* [Google Keep](https://apps.apple.com/us/app/google-keep-notes-and-lists/id1029207872): I use this as my shopping list app since it integrates with Google Home. Google Keep has a nice clean user interface and it can be used for other kinds of notes and lists as well.
 * [Pocket](https://getpocket.com/): Read-later news aggregator service. Useful to mark articles, blog posts and videos to consume later.
-* [Notion](https://apps.apple.com/us/app/notion-notes-docs-tasks/id1232780281): Universal notes app that can be configured extensively to personal taste. I use this as my private second brain. See also [SaaS -> Notion](Notion.md).
+* [Notion](https://apps.apple.com/us/app/notion-notes-docs-tasks/id1232780281): Universal notes app that can be configured extensively to personal taste. I used this as my private [[💡 Knowledge Management#Second Brain|second brain]] before switching to [[💎 Obsidian|obsidian]].
 * [X](https://apps.apple.com/us/app/x/id333903271): World news, local news & discussions. Diverse viewpoints.
 * [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580): The best music streaming app. It's literally the only one that does a good job of handing over streams between multiple computers, smart speakers and phones.
 * [BeReal](https://apps.apple.com/us/app/bereal-your-friends-for-real/id1459645446): Social media app where you post a picture once a day at a random time defined by the service.
@@ -33,12 +33,12 @@ description: >-
 
 # Swiss apps
 
-These apps are probably only relevant for people living in Switzerland.
+These apps are probably only relevant for people living in [[🇨🇭 Switzerland Overview|Switzerland]].
 
 * [SBB Preview](https://apps.apple.com/ch/app/sbb-mobile-preview/id1074833098): Ticket & timetable app for swiss public transport. The preview version has the latest feature before the regular version.
 * [VoteInfo](https://apps.apple.com/ch/app/voteinfo/id1434819062#?platform=iphone): Infos and results from votes in Switzerland
 * [AlertSwiss](https://apps.apple.com/ch/app/alertswiss/id957339177): Warnings and information about bad things happening (covid, landslides, fire warnings, flood warnings etc.)
 * [MeteoSwiss](https://apps.apple.com/ch/app/meteoswiss/id589772015?l=en#?platform=iphone): Accurate local weather information
-* [Neon](https://itunes.apple.com/ch/app/neon-your-mobile-account/id1387883068?l=en\&mt=8): Swiss neo bank. Referral code: Q1LCYX
+* [Neon](https://itunes.apple.com/ch/app/neon-your-mobile-account/id1387883068?l=en\&mt=8): Swiss neo bank. Referral code: `Q1LCYX`
 * [Stocard](https://apps.apple.com/us/app/stocard-rewards-cards-wallet/id444578884): Universal app to keep reward cards of swiss stores, e.g. Coop, Migros etc.
 * [MyPuls Board](https://apps.apple.com/ch/app/mypuls-board/id1464159139?l=en): Swiss survey service. Participate in surveys about health insurance, banking etc. and earn reward points that can be exchanged for Zalando, Spotify, Apple, Google, Netflix and other giftcards. The surveys pay fairly well (e.g. 800pt for quick survey about health care -> 8 CHF). I can finance my Spotify subscription mostly through just answering a survey every now and then. -> Sign up via this [referral link](https://mypuls.ampuls.ch/de/getmembers/08d1cf1c-1a3e-469d-a41b-d3fcee0d84f1) for some free bonus points.

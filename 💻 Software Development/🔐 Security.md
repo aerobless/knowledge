@@ -10,7 +10,7 @@ Encryption is used for data confidentiality. It is the process of transforming d
 
 ## Hashing
 
-Hashing is a non-reversible transformation of data. Multiple unique data strings can result in the same hash, this is a called a hash collision. Hashing is used e.g. to store passwords, typically in combination with a [salt](🔐%20Security.md#undefined). Hashing is also used in data structures, e.g. HashTable to quickly access data. Hashing is also used in [PKI (Public Key Infrastructure)](🔐%20Security.md#undefined) e.g. for SSL certificates. Here a CA (Certificate Authority) signs the hash of a certificate.
+Hashing is a non-reversible transformation of data. Multiple unique data strings can result in the same hash, this is a called a hash collision. Hashing is used e.g. to store passwords, typically in combination with a [[🔐 Security#Salt|salt]]. Hashing is also used in data structures, e.g. HashTable to quickly access data. Hashing is also used in [[🔐 Security#PKI (Public Key Infrastructure)|PKI (Public Key Infrastructure)]] e.g. for SSL certificates. Here a CA (Certificate Authority) signs the hash of a certificate.
 
 ### Salt
 
@@ -18,7 +18,7 @@ Passwords shouldn't be stored in plain text. Instead the password + some random 
 
 ## PKI (Public Key Infrastructure)
 
-A typical example of public key infrastructure is the SSL certificate system used for the internet. SSL certificates are set up using a [chain of trust](🔐%20Security.md#undefined) from the root CA (Certificate Authority) to the end user. In order for PKI to work the user needs to trust a few root CA certificates that then sign the certificates of other CAs and their customers. Typically these root CAs certificates are included in the operating system or browser. But it's also possible for a user to install additional certificates, e.g. for a companies internal network.
+A typical example of public key infrastructure is the SSL certificate system used for the internet. SSL certificates are set up using a [[🔐 Security#Chain of trust|chain of trust]] from the root CA (Certificate Authority) to the end user. In order for PKI to work the user needs to trust a few root CA certificates that then sign the certificates of other CAs and their customers. Typically these root CAs certificates are included in the operating system or browser. But it's also possible for a user to install additional certificates, e.g. for a companies internal network.
 
 ### Chain of trust
 

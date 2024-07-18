@@ -19,4 +19,4 @@ Climbing a via ferrata can be compared to climbing in a climbing park in terms o
 
 # Routes
 
-- [[🇨🇭 Switzerland Overview#[Via Ferrata](🏔️%20Via%20Ferrata.md) (Klettersteig)| Switzerland ]]
+- [[🇨🇭 Switzerland Overview#🏔️ Via Ferrata (Klettersteig)|Switzerland]]

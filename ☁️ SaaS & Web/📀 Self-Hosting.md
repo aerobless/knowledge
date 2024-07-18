@@ -13,7 +13,7 @@ A page containing bookmarks and useful information when you're opening a new tab
 
 * [Homepage](https://github.com/benphelps/homepage): dockerised home page with support for a bunch of services such as plex, adguard, sonar etc. - looks nice, but since I don't currently have the infrastructure to easily run docker containers I'm not using it (yet)
 * [Static Marks](https://github.com/darekkay/static-marks): Static site generator for a bookmarks start page. There's a github pipeline available that lets you easily edit your bookmarks.yaml & re-generate the home page. I'm currently using this for my start page on all browsers.
-  * I've also made a [raycast extension](https://www.raycast.com/aerobless/static-marks#readme) for it. So the same yaml file can be used to easily access your bookmarks via [raycast](💻%20macOS.md#useful-apps).
+  * I've also made a [raycast extension](https://www.raycast.com/aerobless/static-marks#readme) for it. So the same yaml file can be used to easily access your bookmarks via [[💻 macOS#System utilities |Raycast]].
 
 # Photo & media
 

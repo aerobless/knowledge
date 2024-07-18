@@ -77,7 +77,7 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 * [Displaperture](https://apps.apple.com/us/app/displaperture/id1543920362?mt=12): Fake rounded corners on older macbooks.
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/): Lets you change the scroll behaviour of mice to be in line with e.g. Windows. Useful if you often have to switch between multiple OS and it throws you off.
 * [Raycast](https://www.raycast.com/): Spotlight replacement with tons of extensions. Useful to integrate e.g. with Notion or similar applications that can't be searched via spotlight. It also has tons of quality of life utilities, e.g. killing apps, opening quick links, notes etc.
-  * [Static Marks - Bookmark Search for Raycast](https://www.raycast.com/aerobless/static-marks#readme)
+	* [Static Marks - Bookmark Search for Raycast](https://www.raycast.com/aerobless/static-marks#readme)
 * [Tailscale](https://tailscale.com/): Wireguard-based VPN service, available on the mac appstore
 
 ## Development
