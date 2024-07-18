@@ -8,11 +8,7 @@ One easy way to compare years is by looking at the amount of photos you took dur
 
 Personally I upload all images to Google Photos all the time automatically. I also rarely delete photos. So all I need to do is look at the scroll bar in the "all photos" view and I already get a fairly good comparison of years.
 
-<div data-full-width="true">
-
-<figure><img src="../gitbook/assets/Screenshot 2023-09-17 at 18.12.17 (1).png" alt=""><figcaption><p>my current photo stream</p></figcaption></figure>
-
-</div>
+![[🎆 Year in Review-20240718125442718.jpg]]
 
 Locally a command like the one below can be used to list the amount of photos per year
 
