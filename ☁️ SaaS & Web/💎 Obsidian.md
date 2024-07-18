@@ -1,3 +1,7 @@
+---
+aliases:
+  - obsidian
+---
 # My Obsidian Setup
 
 I’ve originally used Notion for my [[💡 Knowledge Management#Second Brain|Second Brain]] and GitBook for my [[💡 Knowledge Management#Digital Garden |Digital Garden]]. So I’ve always had my private and public notes completely separate in two different apps.
@@ -23,3 +27,9 @@ For my public notes I’ve already had a [knowledge](https://github.com/aerobles
 # Mobile Access
 
 Currently I’m using [[📱 iOS#Useful apps|Working Copy]] to pull my private repo and public submodule from GitHub on [[📱 iOS]]. This is a bit bothersome but I’ve set up a Shortcuts Automation to pull & open Obsidian in one go.
+
+# Important Shortcuts
+
+- `CMD + O` Quick switcher to open any note
+- `CMD + P` Execute a command
+- `CMD + SHIFT + F` Global search
