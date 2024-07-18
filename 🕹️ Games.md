@@ -26,10 +26,12 @@ Nevertheless the game is well worth playing. Hopefully there will be an expansio
 
 * Factorio
 
-# Playing
+# Currently Playing
 
-* Baldurs Gate 3: D\&D, RPG, turn-based
+- ## Baldurs Gate 3
+  D&D, RPG, turn-based
 
 # Want to play
 
-* Manor Lords: Medieval, RTS, citybuilder
+* **Manor Lords**: Medieval, RTS, citybuilder
+* **Fabledom**: Fantasy City Builder ![](https://www.youtube.com/watch?v=IJ0rl8OXPKo&t=98s)
