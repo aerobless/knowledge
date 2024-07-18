@@ -1,7 +1,7 @@
 ---
 description: Amazon Web Services
 ---
-# Elastic Compute Cloud (EC2)
+# [[EC2|Elastic Compute Cloud (EC2)]]
 
 Used to run applications, virtual desktops, 3rd party software etc.
 
@@ -71,7 +71,7 @@ You pay for how much you store and how much it's queried.
 
 Pricing is based on provisioned throughput capacity and the amount of data stored.
 
-# Virtual Private Cloud (VPC)
+# [[VPC|Virtual Private Cloud (VPC)]]
 
 # Cloud Watch
 
@@ -110,7 +110,7 @@ Topics are region specific and can only be notified by alarms in the same region
    6. Send a notification to ... -> chose SNS topic -> next
    7. Set alarm name -> Next -> Create alarm
 
-# Cloud Front
+# [[Cloud Front]]
 
 Helps reduce latency by serving content from locations closest to the incoming request. It's a CDN (content delivery network). It works with S3, EC2, Load Balancer and Route 53.
 
