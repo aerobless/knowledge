@@ -24,3 +24,7 @@ The park itself is very nicely themed with lots of rides. During a typical non-h
 # Hanover
 
 * New Town Hall ("Neues Ratshaus"): City viewpoint & strange curved elevator. (see: [Tom Scott YT](https://www.youtube.com/watch?app=desktop\&v=ZgDBIzClmPg))
+
+# Notes
+
+- [Miniatur Wunderland Hamburg](https://www.miniatur-wunderland.de/)
