@@ -13,6 +13,8 @@ aliases:
 * [Tuusigerstägli: round-trip hike near Olten](https://www.freizeitfreunde.ch/blogs/493)
 * [Aareschlucht Ost](https://aareschlucht.ch/): ([Insta Story](https://www.instagram.com/reel/CyQvfTkN0Ui/))
 * [Wasserfall Arena Batöni](https://www.2coinstravel.ch/unesco-wasserfall-arena-batoeni/)
+* [Via Spluga: Thusis - Chiavenna](https://wegwandern.ch/wanderung/via-spluga-thusis-chiavenna-wanderung-wandern/)
+* 
 
 # [[🏔️ Via Ferrata]] (Klettersteig)
 
