@@ -3,18 +3,18 @@ description: >-
   Cooking is both a daily necessity and a form of creative expression,
   transforming raw ingredients into flavourful dishes.
 ---
+# 🍝 Recipes
 
-# 🍝 Meal Recipes
+%% Begin Waypoint %%
+- [[🌯 Summer Rolls]]
+- [[🍝 Pasta Bolognese]]
+- [[🍪 American Cookies]]
+- [[🍰 Chocolate Fondant Cake]]
+- [[🍹 Smoothie]]
+- [[🔋 Isotonic drinks]]
+- [[🥔 Quick fried Potatoes]]
 
-* [Pasta](🍝%20Pasta%20Bolognese.md)
-* [Quick fried Potatoes](🥔%20Quick%20fried%20Potatoes.md)
-* [Summer Rolls](🌯%20Summer%20Rolls.md)
-
-# 🍰 Dessert Recipes
-
-* [American Cookies](🍪%20American%20Cookies.md)
-* [Chocolate Fondant Cake](🍰%20Chocolate%20Fondant%20Cake.md)
-
+%% End Waypoint %%
 # 🔪 Kitchen utensils & best practices
 
 * [The best way to sharpen your knives \[YT\]](https://www.youtube.com/watch?v=t-\_qzsMF8RM)
