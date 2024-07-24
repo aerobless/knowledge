@@ -1,3 +1,4 @@
+The brain is the central organ of the human nervous system, responsible for processing sensory information, controlling movements, and regulating cognitive functions like memory, emotion, and decision-making. It is composed of billions of neurons that communicate through synapses, enabling complex thought processes and coordination throughout the body.
 
 # Notes
 

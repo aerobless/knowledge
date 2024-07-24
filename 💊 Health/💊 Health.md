@@ -1,5 +1,6 @@
 Health is a state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.
 
+[[🛏 Sleep]] is required for optimal health.
 # Body
 
 - [[🧠 Brain]]
@@ -47,6 +48,12 @@ tldr; Typically it's recommended to consume 0.8g protein per kg of bodyweight. H
 
 # Exercise
 
-![](https://www.youtube.com/watch?v=lPrjP4A_X4s)
+## The Workout Paradox
+![Kurzgesagt: The Workout Paradox](https://www.youtube.com/watch?v=lPrjP4A_X4s)
+
+- In order to reduce body weight you need to adapt your nutrition rather than increase the amount of exercise you do. The body burns more or less the same amount of calories even if you exercise intensely.
+	- Doing short, intense exercise → you likely compensate by moving less afterwards or the body decreases other “kcal expensive” functions.
+	- The body can be forced to burn fat (kcal deficit) but it is less straight forward than one would assume.
+- Exercise is still vitally important in order for the body to use its calorie budget in a useful way. If the calorie budget isn’t used up by exercise other organs get an excess amount of kcal and they go into overdrive → more stress, more inflammation etc.
 
 During a hard workout it is helpful to consume [[🔋 Isotonic drinks]].
