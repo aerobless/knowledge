@@ -1,5 +1,8 @@
 ---
 description: Text, image generation and big GPUs
+aliases:
+  - artificial intelligence
+  - AI
 ---
 I find AI is genuinely one of the most interesting fields in computing and technology in general right now. It feels like back in the early days of smartphones when every years there was a big jump with new capabilities added. So this page will hopefully keep being revised often. (May 2023)
 
