@@ -1,6 +1,10 @@
 ---
 description: Software as a Service products that I like using.
+aliases:
+  - SaaS
 ---
+SaaS delivers applications over the internet - so you don’t need your own hardware and can access the software from everywhere. In contrast, [[📀 Self-Hosting|self-hosted]] software requires local servers and more setup, but offering greater control and customisation.
+
 # Backup & Immortality
 
 * [Wayback Machine - The internet archive](https://archive.org/web/): The largest public archive of web content. It contains more then 843 billion web pages. I use it to backup this wiki and other projects of mine for eternity.
@@ -46,8 +50,6 @@ description: Software as a Service products that I like using.
 # Stock images & multimedia
 
 * [Pixabay](https://pixabay.com/): free stock images, videos & music
-
-# [Self-hosted](📀%20Self-Hosting.md)
 
 # VPN
 
