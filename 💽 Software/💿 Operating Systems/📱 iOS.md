@@ -30,6 +30,7 @@ description: >-
 * [Signulous](https://www.signulous.com/): App signing and side-loading app store for iOS. Also works with UDIDs from [UDID-Registration.com](https://www.udidregistrations.com/). Apps installed via Signulous are valid for up to a year.
 * [Eleven Labs Reader](https://elevenlabs.io/text-reader): Reads from text, url, pdf or ePub documents with various narration voices. Works amazingly well with a very high quality narration that feels like it’s from a professional audiobook narrator. 
 * [Working Copy](https://workingcopy.app/): A fully featured git client for iOS. Useful e.g. in combination with [[💎 Obsidian|Obsidian]].
+* [Overland](https://overland.p3k.app/): Overland tracks your location and sends your data to a server of your choosing. Can be used for example with [[📍 Thereabout]].
 
 # Swiss apps
 
