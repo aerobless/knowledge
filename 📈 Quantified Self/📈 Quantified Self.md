@@ -13,7 +13,7 @@ I use [InfluxDB](https://www.influxdata.com), a time series database in combinat
 
 ## Data that I'm tracking elsewhere:
 
-* Location history via [Thereabout]
+* Location history via [[📍 Thereabout|Thereabout]]
 * Music I listen to via [Last.fm](https://www.last.fm)
 * Books on Goodreads
 
