@@ -31,3 +31,8 @@ aliases:
 ## Swiss Armed Forces
 
 * [Military Logistics Webshop](https://lba-webshop.ch/): Get 2 free clothing items per year (t-shirt, function roll-shirt, long underpants etc.) as well as various cleaning items for free. The shirts/underpants are perfect as skiing underwear.
+
+# Politics
+
+- [Vimentis](https://vimentis.ch/aktuelle-abstimmungen/) (German): Independent source for upcoming votes & elections.
+- [SmartVote](https://www.smartvote.ch/en/home?locale=en_CH): Independent source for information about the position of candidates in Swiss elections. Also allows comparisons to your own political views via a questionnaire.
