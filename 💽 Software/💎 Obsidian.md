@@ -38,4 +38,4 @@ Currently I’m using [[📱 iOS#Useful apps|Working Copy]] to pull my private r
 
 - [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking): Reference to people via @ symbol, e.g. @theo. Can be restricted to a specific folder that contains all the people.
 - [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000): Tags, renames, and moves files to the most appropriate folders in your vault.
-- [Broken Links](https://github.com/ipshing/obsidian-broken-links): Find broken links. Especially useful when migrating from another note-taking app that may not be fully compat 
+- [Broken Links](https://github.com/ipshing/obsidian-broken-links): Find broken links. Especially useful when migrating from another note-taking app that may not be fully compatible with Obsidian.
