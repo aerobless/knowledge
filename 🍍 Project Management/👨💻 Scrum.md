@@ -25,7 +25,8 @@ Developers work on the product during the sprint. Developers don't necessarily n
 
 During a sprint the following events occur:
 
-<figure><img src="../gitbook/assets/Screenshot 2023-03-31 at 13.59.39.png" alt=""><figcaption><p>Source: <a href="https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum">https://www.scrum.org/learning-series/what-is-scrum</a></p></figcaption></figure>
+![[👨💻 Scrum-20240729215417083.jpg]]
+Source: https://www.scrum.org/learning-series/what-is-scrum
 
 ## Planning
 

@@ -18,4 +18,4 @@ Other people that have personal wikis / Inspiration for this site:
 * [Samsquire: One hundred Ideas for Computing](https://samsquire.github.io/ideas/)
 * [Brian Lovin:](https://brianlovin.com/) More of a personal website than a wiki, but really well made and definitely inspirational.
 
-For software see [Note Taking](https://aerobless.gitbook.io/wiki/saas#note-taking)
+For software see [[☁️ Software as a Service#Note taking|SaaS → Note Taking]].

@@ -14,7 +14,7 @@ I'm using InfluxDB to store timeseries data from my Home Assistant instance. I u
 
 Generally when querying data from InfluxDB in Grafana it is easiest to use Influx as a datasource and query with InfluxQL. However InfluxQL has various drawbacks versus Flux. For example in this case we need to use the timeshift command which is not available in InfluxQL.
 
-![A graph comparing the total amount of steps from now vs. a year ago](<../gitbook/assets/Screenshot 2021-12-31 at 14.39.16.png>)
+![[🪅 Flux-20240729215726669.jpg]]
 
 To create a graph that has two lines (data now vs. data a year ago) for the same metric we need two queries:
 

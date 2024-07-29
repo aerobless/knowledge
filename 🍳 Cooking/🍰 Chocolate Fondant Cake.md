@@ -1,5 +1,8 @@
 ---
 description: Chocolate fondant cake without flour
+cssclasses:
+  - img-grid
+  - img-zoom
 ---
 ## Ingredients
 
@@ -27,20 +30,8 @@ description: Chocolate fondant cake without flour
 
 Cake is nice and moist. Can be dressed up with powdered sugar, raspberries and cream.
 
-<div>
-
-<figure><img src="../gitbook/assets/IMG_8297.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../gitbook/assets/IMG_8298.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../gitbook/assets/IMG_8302.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-
+![[IMG_8297.jpg]]
+![[IMG_8298.jpg]]
+![[IMG_8302.jpg]]
 
 > _Recipe by H\*_

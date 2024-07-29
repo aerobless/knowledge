@@ -16,7 +16,8 @@ description: Basic stuff to remember at a generic tech interview
 
 #### Class Diagram Arrows
 
-![Source: Wikipedia ](<../gitbook/assets/image (1) (1).png>)
+![[📜 Tech Interview Cheatsheet-20240729215525570.jpg]]
+
 # System Design
 
 * [System Design Exercise](https://www.hiredintech.com/classrooms/system-design/lesson/52)
