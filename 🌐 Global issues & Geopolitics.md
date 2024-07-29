@@ -18,7 +18,7 @@ Our World in Data is a web publication that presents empirical research and data
 
 ### [What are the safest and cleanest sources of energy](https://ourworldindata.org/safest-sources-of-energy)
 
-<figure><img src="gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![[🌐 Global issues & Geopolitics-20240729112736417.jpg]]
 
 Nuclear energy is both a safe and clean form of energy production. The fear of nuclear energy is  irrational and highly damaging to the fight against climate change. I strongly believe that we must build more nuclear power plants if we want to have any chance at stopping climate change. This of course should not stop us to also build more hyro, wind and solar at the same time. All clean energy sources must be harnessed so that we can keeping growing our economies and advance humanity.
 

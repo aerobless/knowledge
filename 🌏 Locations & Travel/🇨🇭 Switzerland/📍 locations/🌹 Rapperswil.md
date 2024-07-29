@@ -1,12 +1,9 @@
 ---
-description: >-
-  Rapperswil, situated on the shores of Lake Zurich in Switzerland, is known for
-  its medieval architecture, beautiful rose gardens, and the historic wooden
-  bridge connecting it to Hurden.
-cover: >-
-  https://images.unsplash.com/photo-1616247630026-eb3b45a54e7a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyYXBwZXJzd2lsJTIwY2FzdGxlfGVufDB8fHx8MTY2MDM3NDgzNw&ixlib=rb-1.2.1&q=80
+cover: https://images.unsplash.com/photo-1616247630026-eb3b45a54e7a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyYXBwZXJzd2lsJTIwY2FzdGxlfGVufDB8fHx8MTY2MDM3NDgzNw&ixlib=rb-1.2.1&q=80
 coverY: 250.34341782502042
 ---
+Rapperswil, situated on the shores of Lake Zurich in Switzerland, is known for its medieval architecture, beautiful rose gardens, and the historic wooden bridge connecting it to Hurden.
+
 # POIs / Things to do in Rapperswil
 
 * [Rapperswil Castle](https://www.zuerich.com/en/visit/attractions/rapperswil-castle): The main thing to do is see the outside of the castle. There is a nice view over the city and also a small deer park enclosed in the fortification walls of the castle grounds. To main knowledge the castle itself is mainly used for events, marriage ceremonies etc.

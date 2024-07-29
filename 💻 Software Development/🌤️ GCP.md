@@ -3,8 +3,7 @@ description: Google Cloud Platform
 ---
 # Camp22 Stable-Diffusion Project
 
-<figure><img src="../gitbook/assets/DeploymentDiagram (2).png" alt=""><figcaption><p>GCP deployment diagram</p></figcaption></figure>
-
+![[DeploymentDiagram (2).png]]
 ## Cloud Compute
 
 **Machine Type**: n1-standard-4, 4 vCPU, 15GB memory, Nvidia Tesla T4 GPU

@@ -34,7 +34,7 @@ description: >-
 
 # Swiss apps
 
-These apps are probably only relevant for people living in [[🇨🇭 Switzerland Overview|Switzerland]].
+These apps are probably only relevant for people living in [[🇨🇭 Switzerland|Switzerland]].
 
 * [SBB Preview](https://apps.apple.com/ch/app/sbb-mobile-preview/id1074833098): Ticket & timetable app for swiss public transport. The preview version has the latest feature before the regular version.
 * [VoteInfo](https://apps.apple.com/ch/app/voteinfo/id1434819062#?platform=iphone): Infos and results from votes in Switzerland
