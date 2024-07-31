@@ -28,3 +28,9 @@ A layered software architecture divides an application into separate tiers, each
 Hexagonal architecture isolates an application's core logic from external concerns like databases and UIs. It uses ports and adapters for all external interactions, making components easily interchangeable. This design enhances testability and maintainability.
 
 Ports define the primary operations the application provides. Adapters implement these ports and serve as the bridge between the core logic and external systems like databases or UIs.
+
+# Glossary
+
+## Strategical vs. tactical
+
+From a software architect's perspective, **strategic solutions** focus on long-term goals and alignment with business objectives, encompassing the overall system architecture and integration considerations. In contrast, **tactical solutions** are short-term implementations that address immediate technical needs or challenges.
