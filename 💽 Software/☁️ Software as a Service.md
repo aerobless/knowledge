@@ -15,6 +15,10 @@ SaaS delivers applications over the internet - so you don’t need your own hard
 * [Google Drive](https://www.google.com/drive/): I use Google Drive as my primary cloud storage location for all files that I want to keep permanently available. This includes scanned documents (bills etc.), photographs (in Google Photos), backups and various other files. The only exception are files that are tightly bound to the Apple ecosystem (such as Pages/Numbers documents or various files of specific iOS applications).
 * [iCloud Drive](https://www.apple.com/icloud): iCloud Drive is my secondary cloud storage location. On it I keep a backup copy of photos and the files created and stored by apps in the Apple ecosystem.
 
+# Creative
+
+- [Rotato Tools](https://tools.rotato.app/): Free on-device video tools based on FFMPEG but with an easy to use / nice UI. Prefect for occasionally compressing a video or similar things. Works fine even on mobile.
+
 # Content Aggregation
 
 * [Pocket](https://getpocket.com/): Save articles, websites, videos for later. I'm trying to establish a habit that I collect things I want to read later with this. So far I haven't succeed in using it regularly, but it seems like a good service.
