@@ -3,6 +3,7 @@ Video games are interactive digital experiences that combine storytelling, graph
 # Played
 %% Begin Waypoint %%
 - [[2007 - 💍 Lord of the Rings Online (LotRO)]]
+- [[2011 - ⛏️ Minecraft]]
 - [[2016 - 🏭 Factorio]]
 - [[2020 - 🚟 Cyberpunkt 2077]]
 - [[2022 - 🐈‍⬛ Stray]]

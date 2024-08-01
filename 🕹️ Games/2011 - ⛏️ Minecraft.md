@@ -1,0 +1,1 @@
+Minecraft is a sandbox video game that allows players to explore, build, and create their own virtual worlds using blocks of various materials. With both single-player and multiplayer modes, it encourages creativity, resource management, and adventure as players gather resources, craft items, and face challenges in an open-ended environment.
