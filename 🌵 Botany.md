@@ -1,6 +1,5 @@
----
-description: The science of plant life, or how to care for plants
----
+The science of plant life, or how to care for plants.
+
 # Succulents
 
 ### [Curio Ficoides](https://www.ourhouseplants.com/plants/curio-ficoides-mount-everest) (Mount Everest plant)

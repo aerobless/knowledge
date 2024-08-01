@@ -1,3 +1,5 @@
+Project management is the application of principles, tools, and techniques to initiate, plan, execute, monitor, and close projects efficiently and effectively to achieve specific goals and meet stakeholder expectations.
+
 [[👨💻 Scrum]]
 
 # Other project management methods
