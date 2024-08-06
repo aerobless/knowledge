@@ -19,3 +19,11 @@ find . -type f \( -iname "*.jpeg" -o -iname "*.jpg" -o -iname "*.heif" -o -iname
 ### How to evaluate the results?
 
 The idea is that more photos is better because more important stuff happened to you. Most people also take more photos of things that they enjoy, e.g. holidays, day trips, parties etc. But obviously this can also be skewed by unpleasant events where taking photos is required.
+
+# Reviewed years
+%% Begin Waypoint %%
+- [[✈ 2023]]
+- [[💛 2024]]
+- [[🪐 2022]]
+
+%% End Waypoint %%

@@ -1,3 +1,12 @@
+
+# Topics
+%% Begin Waypoint %%
+- [[🏁 Planning & Goal Setting]]
+- [[💸 Swiss taxes]]
+- [[📈 Investing]]
+- [[🪙 Cryptocurrencies]]
+
+%% End Waypoint %%
 # 💰 Personal Finance & Insurance
 
 # Emergency fund

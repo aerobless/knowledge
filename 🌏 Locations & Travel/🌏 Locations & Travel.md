@@ -15,12 +15,11 @@
 # Countries
 %% Begin Waypoint %%
 - **[[🇨🇭 Switzerland]]**
-	- **📍 locations**
-		- [[☃ Saas Fee]]
-		- [[⛷ Lenzerheide]]
-		- [[🌊 Rheinfall]]
-		- [[🌹 Rapperswil]]
-		- [[💙 Zürich]]
+	- [[☃ Saas Fee]]
+	- [[⛷ Lenzerheide]]
+	- [[🌊 Rheinfall]]
+	- [[🌹 Rapperswil]]
+	- [[💙 Zürich]]
 - [[🇨🇳 China]]
 - [[🇩🇪 Germany]]
 - [[🇩🇰 Denmark]]

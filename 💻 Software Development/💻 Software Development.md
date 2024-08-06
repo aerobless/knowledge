@@ -23,3 +23,48 @@ description: >-
 * Crtl+Enter: Open Copilot suggestions
 
 ### [Unity](https://unity.com) (Game Engine)
+
+# Topics
+%% Begin Waypoint %%
+- [[☀ Apache Solr]]
+- **[[☁ AWS]]**
+	- [[Architecture]]
+	- [[AWS Developer Services]]
+	- [[Cloud Formation]]
+	- [[Cloud Front]]
+	- [[Data Architecture & Analysis]]
+	- [[Disaster Recovery]]
+	- [[DynamoDB]]
+	- **[[EC2]]**
+		- [[AMI]]
+		- [[Elastic Beanstalk]]
+		- [[Launch templates]]
+		- [[Load Balancer]]
+		- [[RDS]]
+	- [[ElastiCache]]
+	- [[Fundamentals]]
+	- [[IAM]]
+	- [[Management & Governance]]
+	- [[S3]]
+	- [[VPC]]
+- **[[☕ Java]]**
+	- [[🍃 Spring Boot OAuth2 Client]]
+	- [[🍃 Spring Boot]]
+	- [[🍃 Spring Cloud Function]]
+	- [[🐻 JPA & Hibernate]]
+	- [[🔐 Spring Boot - Fix faulty OAuth Code Request]]
+- [[🌤️ GCP]]
+- [[🎨 CSS]]
+- **💬 Conferences & Workshops**
+	- [[☕ VoxxedDays Zurich 2024]]
+	- [[🔩 Camp 23 - Workshop]]
+- [[📐 Angular]]
+- [[📒 Mkdocs]]
+- [[📜 Tech Interview Cheatsheet]]
+- [[🔐 Security]]
+- [[🕸 HTML]]
+- [[🤖 AI assisted software development]]
+- [[🪅 Flux]]
+- [[🪟 Unity C-Sharp]]
+
+%% End Waypoint %%
