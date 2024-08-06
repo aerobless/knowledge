@@ -14,7 +14,7 @@ Switzerland, located in Central Europe, is known for its stunning alpine scenery
 * [Aareschlucht Ost](https://aareschlucht.ch/): ([Insta Story](https://www.instagram.com/reel/CyQvfTkN0Ui/))
 * [Wasserfall Arena Batöni](https://www.2coinstravel.ch/unesco-wasserfall-arena-batoeni/)
 * [Via Spluga: Thusis - Chiavenna](https://wegwandern.ch/wanderung/via-spluga-thusis-chiavenna-wanderung-wandern/)
-* 
+* [How different are Swiss German and Standard German (YouTube)](https://www.youtube.com/watch?v=zfX1OFMXUh4)
 
 # [[🏔️ Via Ferrata]] (Klettersteig)
 

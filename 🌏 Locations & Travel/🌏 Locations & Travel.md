@@ -11,3 +11,33 @@
 * 🛩️ [How to sleep on a plane ergonomically in economy class](https://www.youtube.com/watch?v=wpsXNdu1oYk)
 * 🇨🇭 [Swiss passport visa requirements](https://en.wikipedia.org/wiki/Visa\_requirements\_for\_Swiss\_citizens)
 * 🛜 [eSimDB: Compare eSim prices around the world](https://esimdb.com/)
+
+# Countries
+%% Begin Waypoint %%
+- **[[🇨🇭 Switzerland]]**
+	- **📍 locations**
+		- [[☃ Saas Fee]]
+		- [[⛷ Lenzerheide]]
+		- [[🌊 Rheinfall]]
+		- [[🌹 Rapperswil]]
+		- [[💙 Zürich]]
+- [[🇨🇳 China]]
+- [[🇩🇪 Germany]]
+- [[🇩🇰 Denmark]]
+- [[🇪🇸 Spain]]
+- [[🇫🇮 Finland]]
+- [[🇫🇷 France]]
+- [[🇬🇧 United Kingdom]]
+- [[🇭🇺 Hungary]]
+- [[🇮🇩 Indonesia]]
+- [[🇮🇹 Italy]]
+- [[🇲🇾 Malaysia]]
+- [[🇵🇪 Peru]]
+- [[🇵🇹 Portugal]]
+- [[🇸🇪 Sweden]]
+- [[🇸🇬 Singapore]]
+- [[🇹🇭 Thailand]]
+- [[🇺🇦 Ukraine]]
+- [[🇺🇸 USA]]
+
+%% End Waypoint %%
