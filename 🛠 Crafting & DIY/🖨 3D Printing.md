@@ -31,14 +31,14 @@ When there is a draft the model cools off faster at the edges where the draft of
 # Cool models to print
 
 * **Calibration**
-  * [Benchy (Test Model to calibrate printer)](https://www.thingiverse.com/thing:763622), printed to verify that printer works well after long time without use
+	* [Benchy (Test Model to calibrate printer)](https://www.thingiverse.com/thing:763622), printed to verify that printer works well after long time without use
 * **Wallets**
-  * [Slim Card Wallet for 8 cards with money strap](https://www.thingiverse.com/thing:4797082)
-  * [Minimalist wallet with money strap, solid screwed](https://www.thingiverse.com/thing:3572911)
-  * [Minimalist expandable wallet with strap](https://www.thingiverse.com/thing:4831962)
-* **Gaming**
+	* [Slim Card Wallet for 8 cards with money strap](https://www.thingiverse.com/thing:4797082)
+	* [Minimalist wallet with money strap, solid screwed](https://www.thingiverse.com/thing:3572911)
+	* [Minimalist expandable wallet with strap](https://www.thingiverse.com/thing:4831962)
+* **[[🕹️ Games|Gaming]]**
   * [Stadia Controller Wall Mount](https://www.thingiverse.com/thing:4893266), printed on 03.04.2023. Printed without supports at 35% infill with layer height of 1.7mm. Works well, used zip ties instead of screws to attach it to furniture.
 * **Toys**
-  * **"Lego" Bricks**
-    * [Printable bricks](https://printablebricks.com/): Lego compatible brick models, printed some 4x blocks - they work well but aren't support strong, it's important to be carefull when unsticking them from the print bed otherwise the internal structures may break off.
-      * See also [wayback machine printablebricks.org](https://web.archive.org/web/20190718130413/https://printabrick.org/), contains also whole lego models + instructions
+	* **"Lego" Bricks**
+	    * [Printable bricks](https://printablebricks.com/): Lego compatible brick models, printed some 4x blocks - they work well but aren't support strong, it's important to be carefull when unsticking them from the print bed otherwise the internal structures may break off.
+	    * See also [wayback machine printablebricks.org](https://web.archive.org/web/20190718130413/https://printabrick.org/), contains also whole lego models + instructions

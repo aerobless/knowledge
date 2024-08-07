@@ -5,6 +5,8 @@ Health is a state of complete physical, mental, and social well-being, not merel
 
 - [[🧠 Brain]]
 - [[🧴 Skincare|🧴Skin]]
+- **Muscles**
+	- [[💆 Massaging]]
 
 # Nutrition
 

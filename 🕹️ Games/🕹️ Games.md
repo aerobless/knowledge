@@ -15,7 +15,7 @@ Video games are interactive digital experiences that combine storytelling, graph
 - [[2023 - 🧙‍♂️ Hogwarts Legacy]]
 
 %% End Waypoint %%
-
+I also enjoy playing [[🎮 Virtual Reality|VR Games]].
 # Want to play
 
 * **Manor Lords**: Medieval, RTS, citybuilder

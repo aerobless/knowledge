@@ -1,6 +1,4 @@
----
-description: Various notes & links that don't have a dedicated page yet
----
+Various notes & links that don't have a dedicated page yet
 # Drone Flying
 
 * [Hacked firmware for DJI drones to enable FCC transmission range instead of CE range in Europe etc. (untested)](https://drone-hacks.com/)
