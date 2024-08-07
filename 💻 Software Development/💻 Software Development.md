@@ -1,8 +1,4 @@
----
-description: >-
-  Programming is the process of creating a set of instructions that tell a
-  computer how to perform a task
----
+Programming is the process of creating a set of instructions that tell a computer how to perform a task. Software Development is often done using a [[🍍 Project Management|project management]] methodology called [[👨💻 Scrum|scrum]].
 # Development Tools
 
 ### [IntelliJ](https://www.jetbrains.com/idea/) (Java IDE)

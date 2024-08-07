@@ -19,6 +19,9 @@ SaaS delivers applications over the internet - so you don’t need your own hard
 
 - [Rotato Tools](https://tools.rotato.app/): Free on-device video tools based on FFMPEG but with an easy to use / nice UI. Prefect for occasionally compressing a video or similar things. Works fine even on mobile.
 
+# Communication
+
+- [[📧 E-Mail Forwarding]]: How to forward E-Mails from a custom domain to Gmail using SaaS.
 # Content Aggregation
 
 * [Pocket](https://getpocket.com/): Save articles, websites, videos for later. I'm trying to establish a habit that I collect things I want to read later with this. So far I haven't succeed in using it regularly, but it seems like a good service.

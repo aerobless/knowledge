@@ -1,0 +1,1 @@
+The gym is a dedicated space equipped with various fitness machines, weights, and facilities designed for physical exercise and [[Health|health]] improvement.

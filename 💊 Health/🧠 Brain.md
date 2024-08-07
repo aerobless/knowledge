@@ -22,3 +22,4 @@ It then asks me e.g. “What did you discover in March 2023?” linking to my pr
 	* [[🌏 Locations & Travel|Travel]]: inspiration, communication, creativity
 	* [[🏋️ Gym|Workout]]: General health and better sleep, brain connectivity
 	* Art: creativity and cognitive abilities, better cognitive function overall, unfocousing -> interrupt unwanted habits
+* [[🧠 Psychology]]

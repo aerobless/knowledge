@@ -20,3 +20,7 @@ I also enjoy playing [[🎮 Virtual Reality|VR Games]].
 
 * **Manor Lords**: Medieval, RTS, citybuilder
 * **Fabledom**: Fantasy City Builder ![](https://www.youtube.com/watch?v=IJ0rl8OXPKo&t=98s)
+
+# Online Party Games
+
+* [Garticphone](https://garticphone.com/): Write sentence, draw picture
