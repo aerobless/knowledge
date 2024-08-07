@@ -1,3 +1,7 @@
+---
+aliases:
+  - video games
+---
 Video games are interactive digital experiences that combine storytelling, graphics, and gameplay mechanics to engage players in immersive virtual worlds.
 
 # Played
