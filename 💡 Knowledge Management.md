@@ -6,7 +6,7 @@ I use [[💎 Obsidian|Obsidian]] as my second brain. If you'd like to learn more
 
 # Digital Garden
 
-A digital garden in similar to a second brain but public. This page is my digital garden. It is also written in [[💎 Obsidian|Obsidian]] and published with Obsidian Publish.
+A digital garden, similar to a real garden with [[🌵 Botany|plants]], is sort of public but also sort of private. From the street everyone can see into the garden, and some gardens can actually be visited by the public. The digital garden applies this concept to the second brain. It's still a collection of personal notes, but ones that can be public and where I believe that someone else might find them interesting or useful. This page is my digital garden. It is also written in [[💎 Obsidian|Obsidian]] and published with Obsidian Publish.
 
 > A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently exploratory – posts are linked through contextual associations. ([source](https://github.com/MaggieAppleton/digital-gardeners))
 

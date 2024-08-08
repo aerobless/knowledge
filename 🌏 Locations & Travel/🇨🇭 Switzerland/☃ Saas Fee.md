@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - img-grid
+  - img-zoom
+---
 Saas-Fee, a resort village in the Swiss Alps near the Italian border, is known for its proximity to mountains more than 4,000m above sea level
 
 * The village itself is free of cars and there is a big parking structure at the entrance to Saas Fee where you're required to leave your car.

@@ -20,3 +20,6 @@ description: Psychology is the scientific study of mind and behaviour.
   * **What I find helpful:**
     * Set time limit on distracting apps, e.g. YT 1h per day
     * Remove triggers for useless/distracting activities, see [[🔄 Habits#Habit Loop|Habit Loop]].
+
+# Notes
+- [Hardwon life-lessons](https://danielmiessler.com/p/list-hardwon-life-lessons)
