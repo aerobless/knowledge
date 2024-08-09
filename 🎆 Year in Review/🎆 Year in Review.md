@@ -22,9 +22,9 @@ The idea is that more photos is better because more important stuff happened to 
 
 # Reviewed years
 %% Begin Waypoint %%
-- [[✈ 2023]]
-- [[🏝️ 2019]]
-- [[💛 2024]]
-- [[🪐 2022]]
+- [[2019 🏝️]]
+- [[2022 🪐]]
+- [[2023 ✈]]
+- [[2024 💛]]
 
 %% End Waypoint %%

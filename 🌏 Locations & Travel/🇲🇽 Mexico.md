@@ -7,7 +7,7 @@ Mexico is a vibrant country rich in culture, history, and natural beauty, known 
 
 # Playa del Carmen
 
-Playa del Carmen is a vibrant coastal town in Mexico's Riviera Maya known for its stunning beaches, lively nightlife, and rich cultural experiences. I’ve visited Playa del Carmen in [[🏝️ 2019|2019]] since it was the starting point of a gAdventures tour that I was taking across Central America. 
+Playa del Carmen is a vibrant coastal town in Mexico's Riviera Maya known for its stunning beaches, lively nightlife, and rich cultural experiences. I’ve visited Playa del Carmen in [[2019 🏝️|2019]] since it was the starting point of a gAdventures tour that I was taking across Central America. 
 
 ![[🇲🇽 Mexico-20240809175654407.jpg]]
 ![[🇲🇽 Mexico-20240809175715667.jpg]]
