@@ -30,6 +30,7 @@
 - [[🇭🇺 Hungary]]
 - [[🇮🇩 Indonesia]]
 - [[🇮🇹 Italy]]
+- [[🇲🇽 Mexico]]
 - [[🇲🇾 Malaysia]]
 - [[🇵🇪 Peru]]
 - [[🇵🇹 Portugal]]
