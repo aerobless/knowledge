@@ -2,6 +2,8 @@
 aliases:
   - obsidian
 ---
+[Obsidian](https://obsidian.md/) is a powerful note-taking and knowledge management application that allows users to create interconnected notes using markdown, fostering a personal knowledge base through a unique graph view.
+
 # My Obsidian Setup
 
 I’ve originally used Notion for my [[💡 Knowledge Management#Second Brain|Second Brain]] and GitBook for my [[💡 Knowledge Management#Digital Garden |Digital Garden]]. So I’ve always had my private and public notes completely separate in two different apps.
@@ -33,9 +35,11 @@ Currently I’m using [[📱 iOS#Useful apps|Working Copy]] to pull my private r
 - `CMD + O` Quick switcher to open any note
 - `CMD + P` Execute a command
 - `CMD + SHIFT + F` Global search
+- `CMD + R` Reveal file in navigator
 
 # Useful plugins
 
 - [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking): Reference to people via @ symbol, e.g. @theo. Can be restricted to a specific folder that contains all the people.
 - [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000): Tags, renames, and moves files to the most appropriate folders in your vault.
 - [Broken Links](https://github.com/ipshing/obsidian-broken-links): Find broken links. Especially useful when migrating from another note-taking app that may not be fully compatible with Obsidian.
+- [Calendar](https://github.com/liamcain/obsidian-calendar-plugin): Adds a calendar view to the navigation panel on the right. Can be used to navigate between daily notes and create new ones for days where none exist yet.
