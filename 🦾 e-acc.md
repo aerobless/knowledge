@@ -1,3 +1,7 @@
+---
+aliases:
+  - eacc
+---
 ![[🦾 e-acc-20240729215608433.jpg]]
 
 # What is it?
@@ -17,6 +21,7 @@ A continuously growing list of innovative companies that build the future.
 ## Biotech & [[💊 Health|Health]]
 
 * [Cutiss](https://cutiss.swiss/): Personalized artificial skin tissue for burn victims etc.
+* [Intuitive Surgical](https://www.intuitive.com/en-us): Intuitive Surgical is a pioneering company in robotic-assisted surgical technology, best known for its da Vinci Surgical System that enhances precision and minimally invasive surgical procedures. 
 
 ## Communication
 
