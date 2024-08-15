@@ -8,6 +8,7 @@ Health is a state of complete physical, mental, and social well-being, not merel
 - **Muscles**
 	- [[💆 Massaging]]
 - [[👶  Reproduction]]
+- [[🧬 Genetics]]
 
 # Nutrition
 
