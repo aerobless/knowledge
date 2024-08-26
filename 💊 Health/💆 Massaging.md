@@ -29,3 +29,4 @@ description: Massaging is the art of kneading muscles to melt stress and boost w
 * [Tense shoulders & neck pain - upper back](https://www.youtube.com/watch?v=1sr8jubMsi0\&t=554s)
 * [Deep tissue massage (detailed)](https://www.youtube.com/watch?v=DtDxA3c9\_\_w)
 * [Lower back techniques (short)](https://www.youtube.com/shorts/8EIt3Bgu\_cU)
+* [4 Simple techniques for calfs/legs](https://www.instagram.com/reel/C8ihJjBu5QM/)
