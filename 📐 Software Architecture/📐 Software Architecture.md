@@ -3,6 +3,12 @@ description: >-
   Software architecture outlines how a software system is organized and
   operates.
 ---
+# Tools
+
+## Enterprise Architecture
+
+- [Archimate](https://www.archimatetool.com/): Modelling toolkit for enterprise architecture.
+
 # 🔍 Choosing a software architecture
 
 When working out a architecture for a new project the following artefacts/steps are helpful:
