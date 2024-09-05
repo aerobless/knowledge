@@ -1,8 +1,5 @@
----
-description: >-
-  Solr is a blazing-fast, open source enterprise search platform built on Apache
-  Lucene.
----
+Apache Solr is an open-source search platform built on Apache Lucene designed for scalability, full-text search, and data indexing capabilities to power search applications.
+
 # Common Issues
 
 ## Query Parser Choice
