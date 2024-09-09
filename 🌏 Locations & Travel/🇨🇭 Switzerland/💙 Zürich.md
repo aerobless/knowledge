@@ -2,6 +2,7 @@
 aliases:
   - zürich
   - züri
+  - zurich
 ---
 ![](https://images.unsplash.com/photo-1620563316910-f242d1bad656?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx6dXJpY2h8ZW58MHx8fHwxNjQyMjcyMzg0&ixlib=rb-1.2.1&q=85)
 
@@ -52,6 +53,7 @@ Zurich, Switzerland's largest city, is known for its well-preserved medieval Old
 * [Zurich Unbezahlbar: Free stuff that you can do in Zurich](https://www.zuerichunbezahlbar.ch/events/)
 * [NZZ Live Talks: Interesting talks from the Neue Zürcher Zeitung](https://live.nzz.ch/de/zukunftige-veranstaltungen)
 * [Shake 'N' Smile: Cocktail courses, also alcohol free option, recommended by H\*](https://shakensmile.ch/cocktailkurse/)
+* [Sozialen Stadtrundgänge: Surprise](https://surprise.ngo/stadtrundgaenge-zuerich/)
 
 # Food, Beverages & Snacks
 
