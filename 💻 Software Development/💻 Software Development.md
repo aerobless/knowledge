@@ -64,6 +64,7 @@ Programming is the process of creating a set of instructions that tell a compute
 - [[🤖 AI assisted software development]]
 - [[🪅 Flux]]
 - [[🪟 Unity C-Sharp]]
+- [[OpenAPI]]
 - [[REST]]
 
 %% End Waypoint %%
