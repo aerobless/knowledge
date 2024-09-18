@@ -6,6 +6,7 @@ Software architecture is the high-level structure of a software system, defining
 
 # Topics
 %% Begin Waypoint %%
+- [[🐘 From developer to architect]]
 - [[Application Architecture Styles]]
 - [[Architectural Decision Records (ADR)]]
 - [[Choosing a software architecture]]

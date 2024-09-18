@@ -24,11 +24,13 @@ Programming is the process of creating a set of instructions that tell a compute
 %% Begin Waypoint %%
 - [[☀ Apache Solr]]
 - **[[☁ AWS]]**
+	- [[Architecture]]
 	- [[AWS Architecture]]
 	- [[AWS Data Architecture & Analysis]]
 	- [[AWS Developer Services]]
 	- [[Cloud Formation]]
 	- [[Cloud Front]]
+	- [[Data Architecture & Analysis]]
 	- [[Disaster Recovery]]
 	- [[DynamoDB]]
 	- **[[EC2]]**
