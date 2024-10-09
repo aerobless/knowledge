@@ -47,6 +47,9 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 * [Bing AI](https://www.bing.com/): Free conversational LLM based on GPT4. Works well and is based on the same advanced model that ChatGPT premium uses. However you can only access it in Edge currently (May 2023).
 * [HeyPi](https://heypi.com/talk): Free conversational LLM by Inflection AI. Supposedly the model is trained in house by them and it is not using any of the other vendors LLM models. It feels very like chatGPT but if it is indeed based on their own original design this is very impressive.
 * [Mixtral](https://neets.ai/chat/mixtral): Mistral based LLM. Free to use without sign-up. Responses are less moderated than with ChatGPT. Mistral can also be run locally.
+## Research
+
+- [Google Notebook LM](https://notebooklm.google/): A personal AI research assistant, optimised for working with documents, websites, videos etc. One of its main advantages is that it linked directly to the source documents whenever it responds.
 
 # Programming Assistant / AI Pair Programming
 

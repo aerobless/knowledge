@@ -15,6 +15,7 @@
 # Countries
 %% Begin Waypoint %%
 - [[🇧🇿 Belize]]
+- [[🇨🇦 Canada]]
 - **[[🇨🇭 Switzerland]]**
 	- [[☃ Saas Fee]]
 	- [[⛷ Lenzerheide]]
