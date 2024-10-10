@@ -31,6 +31,7 @@
 - [[🇬🇧 United Kingdom]]
 - [[🇭🇺 Hungary]]
 - [[🇮🇩 Indonesia]]
+- [[🇮🇸 Iceland]]
 - [[🇮🇹 Italy]]
 - [[🇲🇽 Mexico]]
 - [[🇲🇾 Malaysia]]

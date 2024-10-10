@@ -7,6 +7,10 @@
 * Custom Code Expert
 * [[💻 macOS#Useful apps|Raycast]] Snippets
 
+# Use Cases (Draft)
+
+- Create JIRA searches: e.g. find all issues from epic “technical improvements”, sort by completion, create a direct link
+
 # AI Assisted Use Cases
 
 AI can assist in the following use cases sorted by their place in the software development process.
