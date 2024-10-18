@@ -1,7 +1,7 @@
 ---
-description: >-
-  Cooking is both a daily necessity and a form of creative expression,
-  transforming raw ingredients into flavourful dishes.
+description: Cooking is both a daily necessity and a form of creative expression, transforming raw ingredients into flavourful dishes.
+aliases:
+  - food
 ---
 # 🍝 Recipes
 
@@ -13,6 +13,7 @@ description: >-
 - [[🍹 Smoothie]]
 - [[🔋 Isotonic drinks]]
 - [[🥔 Quick fried Potatoes]]
+- [[🚕 London Fog]]
 
 %% End Waypoint %%
 # 🔪 Kitchen utensils & best practices
