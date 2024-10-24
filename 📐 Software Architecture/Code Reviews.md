@@ -18,3 +18,8 @@ The following points are worthwhile to periodically check for. They are ordered 
 - **Testing:** Check if the amount of test makes sense. Discuss with the developers if there’s too many or too little tests.
 - **Ask the developers:** Ask what is currently bad, where are the problems etc.? Usually experienced developers already know problematic code and can point out issues. Listen to them to learn what’s bothering them.
 - **Try to simplify:** If you think a slice of code is too complicated or aren’t sure if it needs to be this complicated then check it out and try to simplify it - either you learn why it is this complicated or it really can be simplified.
+
+### Frontend Focus
+
+- At least 1 test per component
+- Multiple mappings of toObservable, toSignal code smell
