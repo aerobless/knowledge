@@ -60,7 +60,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
     * Create unit tests via comments. Type // Create unit tests for x-y
     * Get multiple solutions for a problem. Hover over suggestions and click on the "3 dots -> Copilot" to open a window with up to 10 solutions.
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin): Autonomous agent that can use a variety of models as backend. Give it a task and it attempts to break it down into smaller pieces. It can then try to implement this smaller pieces on it's own directly writing code and using a shell to install dependencies.
-* [GitHub Codespaces](https://githubnext.com/projects/copilot-workspace/): A Copilot-native dev environment, designed for everyday tasks. You interact via the GitHub UI and define a task for the AI, it will then create a plan and finally a Pull Request with its changes.
+* [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/): A Copilot-native dev environment, designed for everyday tasks. You interact via the GitHub UI and define a task for the AI, it will then create a plan and finally a Pull Request with its changes.
 
 # Experimental / local clients
 
