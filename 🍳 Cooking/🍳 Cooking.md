@@ -6,6 +6,7 @@ aliases:
 # 🍝 Recipes
 
 %% Begin Waypoint %%
+- [[☁️ Mustard Cloud Sauce]]
 - [[🌯 Summer Rolls]]
 - [[🍝 Pasta Bolognese]]
 - [[🍪 American Cookies]]
@@ -14,7 +15,6 @@ aliases:
 - [[🔋 Isotonic drinks]]
 - [[🥔 Quick fried Potatoes]]
 - [[🚕 London Fog]]
-- [[Mustard Cloud Sauce]]
 
 %% End Waypoint %%
 # 🔪 Kitchen utensils & best practices

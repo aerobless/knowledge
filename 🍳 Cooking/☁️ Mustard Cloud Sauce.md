@@ -1,11 +1,17 @@
-1 tbsp of oil / butter
-1 tbsp of flour
-1-2 dl of hot water
-1-2 tbsp mustard (depending on intensity of mustard)
-spritz of lemon juice
-0.5 dl of soya cuisine
-a handful of yeast flakes
 
+A light & fluffy sauce invented by H*. Can be used for dipping battered meat alternatives.
+
+# 🌼 Ingredients
+
+- 1 tbsp of oil / butter
+- 1 tbsp of flour
+- 1-2 dl of hot water
+- 1-2 tbsp mustard (depending on intensity of mustard)
+- spritz of lemon juice
+- 0.5 dl of soya cuisine
+- a handful of yeast flakes
+
+# Preparation
 
 1. combine oil & flour a pan on high heat until it starts to “ball up”
 2. add 1dl of water and keep on stirring 

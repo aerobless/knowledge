@@ -1,7 +1,7 @@
 ---
 description: Delicious pasta with truffle oil, optimised for meat alternatives
 ---
-## 🥫 Ingredients
+# 🥫 Ingredients
 
 * 300g beyond meat or similar minced meat
 * 1 can of Napoletana sauce (Barilla) or similar pelati / unseasoned tomato sauce
@@ -13,9 +13,9 @@ description: Delicious pasta with truffle oil, optimised for meat alternatives
 * pasta recommendation: AL BRONZATO (e.g. by rummo or garofalo)
   * _the sauce adheres better to the structure of bronze-pressed pasta and it will blend together nicer_
 
-## 👨‍🍳 Instructions
+# 👨‍🍳 Instructions
 
-### Sauce
+## Sauce
 
 1. Sear minced meat in oil. Chop up small. Beware that meat alternatives cook quickly.
 2. As soon as meat browns up, add the whole jar of tomato sauce.
@@ -23,7 +23,7 @@ description: Delicious pasta with truffle oil, optimised for meat alternatives
 4. Reduce heat to 60% and add other seasonings.
 5. Let simmer for 40-60min, stir occasionally, if needed add more water to prevent sauce from becoming too thick.
 
-### Pasta
+## Pasta
 
 1. Cook 1.5l water. A kettle can be used to speed up the process.
 2. Put water in pot and add salt. Keep heating until water is boiling.
@@ -32,7 +32,7 @@ description: Delicious pasta with truffle oil, optimised for meat alternatives
    1. _the starchy pasta water will act as binder between pasta and sauce_
 5. Add sauce to the pot and continue to cook.
 
-## 🍽️ Serving
+# 🍽️ Serving
 
 * Put hot pasta on plates and add truffle oil. The smell of the oil best unfolds while the pasta is still hot.
 * Serve with Parmesan cheese. It's best when freshly grated and older then 36months.
