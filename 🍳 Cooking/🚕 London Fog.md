@@ -4,7 +4,7 @@ London Fog is a comforting tea beverage made from Earl Grey tea, steamed milk, a
 
 - Earl Grey Tea - or any tea of your choice
 - Dried Lavender - or any garnish of your choice
-- Sweetener: Vanilla, maple or caramel syrup, or alternatively honey, agave sap
+- Sweetener: Vanilla, maple or caramel syrup, or alternatively honey, agave syrup
 - Spices: a dash of cinnamon or vanilla extract
 - Milk or milk alternative. Oatly works great.
 
