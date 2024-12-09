@@ -6,6 +6,10 @@ description: Psychology is the scientific study of mind and behaviour.
 * [The fastest way to ruin your entire life](https://www.youtube.com/watch?v=wUpBrALhlnc)
 * [15 powerful visuals about psychology & life](https://x.com/wisdom\_hq/status/1794504554136117680?s=46)
 
+## Sam Altman on How To Be Successful
+
+![Sam Altman on how to be successful](https://x.com/jayyanginspires/status/1865834862436901234?s=46)
+[Long form source](https://blog.samaltman.com/how-to-be-successful)
 # Topics
 
 %% Begin Waypoint %%
