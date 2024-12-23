@@ -33,6 +33,7 @@
 - [[🇮🇩 Indonesia]]
 - [[🇮🇸 Iceland]]
 - [[🇮🇹 Italy]]
+- [[🇲🇦 Morocco]]
 - [[🇲🇽 Mexico]]
 - [[🇲🇾 Malaysia]]
 - [[🇵🇪 Peru]]
