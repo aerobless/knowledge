@@ -49,7 +49,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 * [Mixtral](https://neets.ai/chat/mixtral): Mistral based LLM. Free to use without sign-up. Responses are less moderated than with ChatGPT. Mistral can also be run locally.
 ## Research
 
-- [Google Notebook LM](https://notebooklm.google/): A personal AI research assistant, optimised for working with documents, websites, videos etc. One of its main advantages is that it linked directly to the source documents whenever it responds.
+- [Google Notebook LM](https://notebooklm.google/): A personal AI research assistant, optimised for working with documents, websites, videos etc. One of its main advantages is that it linked directly to the source documents whenever it responds. NotebookLM also has a cool Podcast feature that lets you create a Podcast from your source material. It’s interactive so you can even “phon into” the Podcast and ask the hosts questions or give them direction on what you want to hear more about.
 
 # Programming Assistant / AI Pair Programming
 
