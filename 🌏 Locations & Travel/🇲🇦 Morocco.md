@@ -4,6 +4,7 @@ cssclasses:
   - img-zoom
 ---
 Morocco is a North African country bordered by the Atlantic Ocean and Mediterranean Sea, distinguished by its Berber, Arabian, and European cultural influences. Known for its rich history, Morocco features diverse landscapes ranging from the Sahara Desert to the High Atlas Mountains, alongside bustling markets like those in Marrakesh.
+
 # Marrakesh
 
 Marrakesh in late November was a delightful escape, with warm days and cool mornings that made it the perfect time to visit. My girlfriend and I stayed in two charming riads, starting with Riad Challa, nestled within the bustling souks. The souks were a fascinating maze of vibrant market streets, brimming with life and the occasional curious cat darting between stalls. It was a sensory explosion of colors, scents, and sounds, with the fragrant spices and the rhythmic calls of vendors creating an unforgettable atmosphere.
