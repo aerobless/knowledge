@@ -49,7 +49,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 * [Mixtral](https://neets.ai/chat/mixtral): Mistral based LLM. Free to use without sign-up. Responses are less moderated than with ChatGPT. Mistral can also be run locally.
 ## Research
 
-- [Google Notebook LM](https://notebooklm.google/): A personal AI research assistant, optimised for working with documents, websites, videos etc. One of its main advantages is that it linked directly to the source documents whenever it responds. NotebookLM also has a cool Podcast feature that lets you create a Podcast from your source material. It’s interactive so you can even “phon into” the Podcast and ask the hosts questions or give them direction on what you want to hear more about.
+- [Google Notebook LM](https://notebooklm.google/): A personal AI research assistant, optimised for working with documents, websites, videos etc. One of its main advantages is that it linked directly to the source documents whenever it responds. NotebookLM also has a cool Podcast feature that lets you create a Podcast from your source material. It’s interactive so you can even “phone into” the Podcast and ask the hosts questions or give them direction on what you want to hear more about.
 
 # Programming Assistant / AI Pair Programming
 
@@ -88,8 +88,8 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 # Music Generation
 
-* [Suno.ai](https://app.suno.ai/create/): LLM based music generation. Can be prompted similar to image generators with lyrics and a music style. Generates high quality output in multiple languages. \[[Impressive example](https://app.suno.ai/song/a4c6bb70-3616-4658-89b8-8bcc1a58b199/)]
-	* Music can be published for free (15% royalty) on all streaming services & music marketplaces with [Routenote](https://www.routenote.com/). 
+* [Suno.ai](https://app.suno.ai/create/): LLM based music generation. Can be prompted similar to image generators with lyrics and a music style. Generates high quality output in multiple languages. [My Suno Profile](https://suno.com/@eletiy)
+	* Publishing songs is easiest via YouTube, if declared as “music” any video is instantly and automatically also available on YouTube Music.
 
 # News & Search
 
