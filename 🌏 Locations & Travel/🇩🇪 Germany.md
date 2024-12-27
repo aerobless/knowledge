@@ -21,10 +21,10 @@ The resort hotels are quite nice. During my visit in may 2022 I stayed at the [H
 
 The park itself is very nicely themed with lots of rides. During a typical non-holiday weekend the wait times are acceptable between 5-30min per ride. Event though the park is fairly compact in land mass there's lots of stuff to do. If you want to ride every ride you'll have trouble to fit it all in a day. 2 day stays are ideal I think.
 
-# Hanover
-
-* New Town Hall ("Neues Ratshaus"): City viewpoint & strange curved elevator. (see: [Tom Scott YT](https://www.youtube.com/watch?app=desktop\&v=ZgDBIzClmPg))
-
-# Notes
+# Hamburg
 
 - [Miniatur Wunderland Hamburg](https://www.miniatur-wunderland.de/)
+
+# Hanover
+
+- New Town Hall ("Neues Ratshaus"): City viewpoint & strange curved elevator. (see: [Tom Scott YT](https://www.youtube.com/watch?app=desktop\&v=ZgDBIzClmPg))
