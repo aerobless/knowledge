@@ -88,6 +88,10 @@ sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/diskNUMBER
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/): Java & Kotlin IDE from Jetbrains
 * [CotEditor](https://coteditor.com/): Simple text editor
 
+## Network
+
+- [Subfinder](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that returns valid subdomains for websites, using passive online sources.
+
 ## Various
 
 * [Anki](https://apps.ankiweb.net): Flash card manager to learn vocabulary etc. It supports syncing with a web-based version and has algorithms for learning. It's also available for windows, linux and mobile. Although the mobile client is not free.

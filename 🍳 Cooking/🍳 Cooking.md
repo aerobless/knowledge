@@ -14,6 +14,7 @@ aliases:
 - [[🍹 Smoothie]]
 - [[🔋 Isotonic drinks]]
 - [[🥔 Quick fried Potatoes]]
+- [[🥟 Wonton]]
 - [[🚕 London Fog]]
 
 %% End Waypoint %%

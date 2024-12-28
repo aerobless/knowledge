@@ -61,3 +61,7 @@ SaaS delivers applications over the internet - so you don’t need your own hard
 # VPN
 
 * [Tailscale](https://tailscale.com/): Zeroconf VPN solution based on WireGuard. Works amazingly well together with a [Home Assistant Community Add-On](https://github.com/hassio-addons/addon-tailscale). The HA addon can act as a gateway into my local network. Also very cool that you can use Google, MS or other global IDP accounts to authenticate yourself. The service is free with some pretty generous limits.
+
+# Security
+
+- [LeakIX](https://leakix.net/): Leak is a red-team search engine indexing mis-configurations and vulnerabilities online.
