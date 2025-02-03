@@ -23,3 +23,4 @@ Software architecture is the high-level structure of a software system, defining
 * [Software Developer to Architect](https://www.developertoarchitect.com/)
 * [Software Architecture by Example (recommended by Alicia)](https://learning.oreilly.com/live-events/software-architecture-by-example/0636920261797/0790145064900/)
 	* [Fundamentals of Software Architecture: An Engineering Approach](https://learning.oreilly.com/videos/fundamentals-of-software/9781663728357/)
+* [Boring Technology Club](https://boringtechnology.club/): Don’t choose novelty for novelty’s sake. It is often better to use tried and true technologies and using something complete new.
