@@ -18,7 +18,7 @@ A continuously growing list of innovative companies that build the future.
 * [Meta](https://about.meta.com/) (Facebook): The leader in open source LLM technology. Offers the free LAMA3 models that can be run on device and fights against the "AI is dangerous" narrative.
 * [Stability AI](https://stability.ai/):  The leader in open source generative image models.
 
-## Biotech & [[💊 Health|Health]]
+## Biotech & [[🫀 Health|Health]]
 
 * [Cutiss](https://cutiss.swiss/): Personalized artificial skin tissue for burn victims etc.
 * [Intuitive Surgical](https://www.intuitive.com/en-us): Intuitive Surgical is a pioneering company in robotic-assisted surgical technology, best known for its da Vinci Surgical System that enhances precision and minimally invasive surgical procedures. 

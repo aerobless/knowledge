@@ -1,0 +1,1 @@
+- [Omega-3 + Vitamin D](https://www.nature.com/articles/d41586-025-00355-1): 2000 I.E./day + 1g polyunsaturated omega-3 fatty acid → longevity benefits claims study
