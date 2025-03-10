@@ -10,6 +10,10 @@ Health is a state of complete physical, mental, and social well-being, not merel
 - [[👶  Reproduction]]
 - [[🧬 Genetics]]
 
+## Heart
+
+- [Regular dental flossing may lower risk of stroke from blood clots, irregular heartbeats.](https://newsroom.heart.org/news/regular-dental-flossing-may-lower-risk-of-stroke-from-blood-clots-irregular-heartbeats?preview=5cb3&preview_mode=True)
+
 # Nutrition
 
 Nutrition is the intake of food, considered in relation to the body's dietary needs, which is essential for maintaining health, supporting growth, and preventing diseases. Proper nutrition involves consuming a balanced diet that provides the necessary vitamins, minerals, and macronutrients to optimize physical and mental well-being.

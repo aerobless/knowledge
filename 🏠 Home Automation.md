@@ -23,6 +23,10 @@ Home Automation is a bit of a hobby of mine. Which is why I've [documented my se
 
 * [ESPHome Bluetooth Proxy Installer](https://esphome.github.io/bluetooth-proxies/): ESP32 chips can act as range extenders for Home Assistant bluetooth connections. This allows Home Assistant to pick up all kinds of bluetooth devices that you may already have in your home. I use this for my Oral-B toothbrush and Xiaomi FlowerCare plant sensors.
 
+# Zigbee
+
+- [Device to bridge/gateway compatibility](https://zigbee.blakadder.com/)
+
 # Notes
 
 * **Grafana**

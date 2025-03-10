@@ -98,3 +98,10 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 # My custom GPTs
 
 * [Travel Packing List Generator](https://chatgpt.com/g/g-hv2M25yla-travel-packing-list-generator): I used to have notion pack list generator - but I've since converted it to a custom GPT. The GPT expects location & trip duration as input and will then google the weather and provide a customised pack list based on a list of items that I usually take with on trips.
+
+# LLM Comparisons
+- [LMArena](https://lmarena.ai/?leaderboard): is a platform designed for evaluating language models by allowing them to compete in interactive battles where the models' responses are compared and ranked by human judges.
+- [ArtificialAnalysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers
+
+# Discovery
+- [There’s an AI for that](https://theresanaiforthat.com/): Discovery marketplace for AI tools. Find AIs using AI.
