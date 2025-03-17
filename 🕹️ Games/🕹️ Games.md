@@ -19,6 +19,7 @@ I also enjoy playing [[🎮 Virtual Reality|VR Games]].
 # Want to play
 
 * **Manor Lords**: Medieval, RTS, citybuilder
+* **[Co-Op Games for couples](https://www.instagram.com/p/DHGVNmgonum/?igsh=QkFNMndRUkV1Yw%3D%3D)**
 * **Fabledom**: Fantasy City Builder ![](https://www.youtube.com/watch?v=IJ0rl8OXPKo&t=98s)
 
 # Online Party Games
