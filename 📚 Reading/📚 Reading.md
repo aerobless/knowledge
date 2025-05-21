@@ -35,4 +35,10 @@ I read eBooks on my [[📖 Amazon Kindle]].
 
 * [There is no Antimemetics Devision (Creative Commons Share Alike)](https://www.youtube.com/playlist?list=PLlSmdtw6KrEbByc8\_QKpWC\_2p629QAM8u)
 
-# [[📰 News]]
+# Other Topics
+%% Begin Waypoint %%
+- [[📖 Amazon Kindle]]
+- [[📘 Quotes & Wisdom]]
+- [[📰 News]]
+
+%% End Waypoint %%
