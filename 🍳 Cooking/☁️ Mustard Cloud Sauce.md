@@ -13,7 +13,7 @@ A light & fluffy sauce invented by H*. Can be used for dipping battered meat alt
 
 # Preparation
 
-1. combine oil & flour a pan on high heat until it starts to “ball up”
+1. combine oil & flour in a pan on high heat until it starts to “ball up”
 2. add 1dl of water and keep on stirring 
 3. add the mustard and lemon juice to the sauce, continuously stirring 
 4. add soya cuisine

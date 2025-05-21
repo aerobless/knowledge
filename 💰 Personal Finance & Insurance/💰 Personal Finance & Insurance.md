@@ -20,12 +20,12 @@
 
 * [How many 3a accounts are useful in Switzerland](https://finpension.ch/en/how-many-3a-accounts-make-any-sense-at-all/)
 	* tldr; 6-10 accounts since they can be paid out from 5 years before pension age until 5 years after (provided you keep working), not all cantons handle tax progression the same way so it might not matter, but it's better to be safe than sorry.
-	* **Dividend Optimisation**: The money in a 3A account gets taxed only when withdrawn. Whereas dividends from a normal investment portfolio are taxed when they are paid out. This means there is a slight tax advantage to keeping dividend yielding stocks/etfs in your 3A account. In 3A the entire dividend payment without tax deduction is re-invested and therefor also yielding compound interest for many years.
+	* **Dividend Optimisation**: The money in a 3A account gets taxed only when withdrawn. Whereas dividends from a normal investment portfolio are taxed when they are paid out. This means there is a slight tax advantage to keeping dividend yielding stocks/etfs in your 3A account. In 3A the entire dividend payment without tax deduction is re-invested and therefore also yielding compound interest for many years.
 	* **Home Bias / Swiss stock Optimisation**: Since buying Swiss stocks & etfs is more expensive than international / US ones it can be advantageous to buy them via your 3A. With most 3A providers you're paying a flat fee (e.g. 0.39% for finpension3a) regardless of what kind of index funds you choose to put in. So by picking the more expensive swiss stocks for 3A and keeping the cheaper US stocks in a normal brokerage account you can optimise the fees you pay for the same overall portfolio.
 
 ## Second Pillar
 
-* [How does the 2end pillar work (Overview)](https://thepoorswiss.com/second-pillar-retirement-switzerland/)
+* [How does the 2nd pillar work (Overview)](https://thepoorswiss.com/second-pillar-retirement-switzerland/)
 * [Should you invest additional funds into the second pillar?](https://thepoorswiss.com/should-you-contribute-to-your-second-pillar/)
 	* tldr; no, traditional investments into ETFs/stocks are much more profitable over a long timeframe. Only shortly before retirement it may make sense to invest into the second pillar.  Additionally it may make sense to invest into the second pillar if you consider it like a bonds investment and you want to increase your bonds percentage
 

@@ -21,7 +21,7 @@ AI can assist in the following use cases sorted by their place in the software d
 
 ### BAs writing DB queries
 
-Non-technical business analysts are now able to write DB queries to gather information without having to request help from a developer. All they need is a DB viewer, access to a prod db copy & and an AI tool.
+Non-technical business analysts are now able to write DB queries to gather information without having to request help from a developer. All they need is a DB viewer, access to a prod db copy and an AI tool.
 
 1. Copy DDL statement of all relevant tables & paste into ChatGPT
 2. describe what data you want to access

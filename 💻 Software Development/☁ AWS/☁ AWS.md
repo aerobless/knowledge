@@ -126,7 +126,7 @@ Is the AWS service for MongoDB-compatible NoSQL databases.
 
 # Resource identification
 
-* IP Adresses (10.0.0.1)
+* IP Addresses (10.0.0.1)
 * ARN (Amazon Resource Name), e.g. DynamoDB (arn:aws:dynamodb:...)
 
 # Amazon Redshift

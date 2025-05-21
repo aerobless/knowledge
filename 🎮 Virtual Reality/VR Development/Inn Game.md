@@ -1,4 +1,4 @@
-The Inn Game is currently looked in my [PeiramaVR](https://github.com/aerobless/PeiramaVR) repository. Peirama mean experiment in greek.
+The Inn Game is currently located in my [PeiramaVR](https://github.com/aerobless/PeiramaVR) repository. Peirama means experiment in greek.
 
 # Inspiration
 
@@ -10,7 +10,7 @@ The core gameplay loop "Run the inn" is structured into several sub loops that t
 
 The main focus is that any "work" is physical and fun. E.g. cleaning requires sweeping a virtual broom. Serving customers mean creating a dish (potentially different outcomes on what food you serve) and bringing it over to a customer sitting at a table.
 
-There is also a discovery component involved. The game should not prompt you to take certain actions by showing you a tutorial/wall of text. Instead the players sees e.g. the dirt and a nearby broom glowing slightly. And if the player does not clean up the dirt customers may complain about it. So the player learns to deal with the dirt.
+There is also a discovery component involved. The game should not prompt you to take certain actions by showing you a tutorial/wall of text. Instead the player sees e.g. the dirt and a nearby broom glowing slightly. And if the player does not clean up the dirt customers may complain about it. So the player learns to deal with the dirt.
 
 * Run the inn (Core Gameplay Loop)
   * Clean the inn

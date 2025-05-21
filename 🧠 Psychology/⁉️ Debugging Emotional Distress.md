@@ -27,7 +27,7 @@ _Based on the presentation "Emotional Distress: a Mindset to Start Resolving It"
     * How does it feel to inverse the position?
       * E.g. formulate the most concise & sharp response and say it to yourself.
   * Observe your reaction
-    * Is there on?
+    * Is there one?
     * Identifying the bug often feels relaxing / easing the distress
 * **Step 4: Changing the software / fixing the bug**
   * Established access to underlying emotion

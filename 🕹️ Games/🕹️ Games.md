@@ -9,7 +9,7 @@ Video games are interactive digital experiences that combine storytelling, graph
 - [[2007 - 💍 Lord of the Rings Online (LotRO)]]
 - [[2011 - ⛏️ Minecraft]]
 - [[2016 - 🏭 Factorio]]
-- [[2020 - 🚟 Cyberpunkt 2077]]
+- [[2020 - 🚟 Cyberpunk 2077]]
 - [[2022 - 🐈‍⬛ Stray]]
 - [[2023 - 🧌 Baldur's Gate 3]]
 - [[2023 - 🧙‍♂️ Hogwarts Legacy]]

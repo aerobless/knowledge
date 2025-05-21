@@ -30,7 +30,7 @@ description: >-
   * There are other ETFs replication the S\&P 500 ($SPY etc.) what's the difference? tldr; there's very little difference in terms of performance, so it's worth it to take the cheapest ETF to reduce long term fees. E.g. $SPY has a TER of 0.09% so it's about 3x more expensive then $VOO
   * $VTI vs. $VOO: $VTI includes more stocks but has very similar profits to $VOO. In long-term investing it likely does not matter whether someone's investing in $VOO or $VTI
 * [$VOOG](https://investor.vanguard.com/investment-products/etfs/profile/voog): S\&P 500 growth focused, US only, TER 0.10%
-  * heavier focus on growth companies in the S\&P 500, therefore higher possible return if this growth is realised. However the TER is worse than plain $VOO.
+  * heavier focus on growth companies in the S\&P 500, thereforee higher possible return if this growth is realised. However the TER is worse than plain $VOO.
 * [$VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus): tracks FTSE global all caps, only non-US (developed & emerging) TER 0.07%
   * [Basically a newer version](https://www.optimizedportfolio.com/vxus-vs-veu/) (2011) of $VEU with more stocks. $VXUS and $VEU have pretty much the same curve, however $VXUS contains also small cap stocks. ($VXUS ca. 7000 vs $VEU 3000). This makes it more diversified for the same price.
   * [$VEU](https://investor.vanguard.com/investment-products/etfs/profile/veu): FTSE, only non-US (developed & emerging), TER 0.07%
@@ -69,7 +69,7 @@ Prices also tend to be most stable during the middle of the trading window - whe
 * [Should you use currency hedging in your portfolio](https://thepoorswiss.com/currency-hedging-portfolio/):
   * it's unclear if hedging can improve long-term results
   * you should not hedge more than half of your portfolio
-  * hedging currency is akin to an insurance, insurance services cost money, therefor hedged investments have higher fees then normal ones
+  * hedging currency is akin to an insurance, insurance services cost money, therefore hedged investments have higher fees then normal ones
 * [US view](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/on-the-minds-of-investors/should-investors-hedge-the-currency-when-investing-in-international-equities/)
   * they argue the average US investor is overweight in USD, from a swiss point of view I might be overweight in USD as well, so hedging would reduce this a bit
 
@@ -79,7 +79,7 @@ Prices also tend to be most stable during the middle of the trading window - whe
 
 * Company A spins off a devision into a new company B
 * Spin off companies can be profitable to invest in because of two reasons
-  * For large institutional investors they're too small two invest in
+  * For large institutional investors they're too small to invest in
   * For private investors they're two new and there's not enough analyst coverage. This makes private investors hesitate to buy the stock as well.
 * This creates a window of opportunity where the stock of a newly spun off company is below its actual value.
 * Finding Spinoffs about to happen:
@@ -100,7 +100,7 @@ A collection of ideas on how the world might turn out 🔮. Predicting the futur
 * **Climate change**: the climate is getting hotter and I'm pessimistic that we will make significant impact in stopping this any time soon. This benefits developed economies more then the ones that are still developing because developed economies have the resources to adapt more easily to a changed climate. The focus on low-co2 products will likely also unfairly impact developing countries that do not yet have the resources to reduce their co2 output. \
   <mark style="background-color:green;">\[</mark><mark style="background-color:green;">**Economy**</mark><mark style="background-color:green;">: Developed]</mark> <mark style="background-color:orange;">\[</mark><mark style="background-color:orange;">**Economy**</mark><mark style="background-color:orange;">: Emerging]</mark>
 * **AI**: the rapid progress of AI models benefits companies of all sectors that can reduce their workforce due to an increase in productivity. Direct revenue from AI models mostly benefits the established big software companies (MAMAA) due to the costs involved in training a suitably large model. Also regulatory capture is in full swing where some of these companies are attempting to sway governments to regulate AI in there favour. This will make it increasingly expensive for new players to enter the market. AI startups will likely get a lot of short-term investments but fail to capture a significant market shares from the large players. Large players will likely copy or buy their innovations. To profit off AI its probably best to invest into broad market indexes as it has an impact on nearly all sectors. <mark style="background-color:green;">\[Total market]</mark> <mark style="background-color:green;">\[Big Tech]</mark> <mark style="background-color:orange;">\[AI Startups]</mark>
-* **Space**: the increasingly cheaper access to space allows for new business models involving constellations of satellites ranging from communication (internet access, private networks), monitoring of geo conditions, surveillance and research. In the long term manufacturing of speciality goods that take advantage of microgravity (medicine, artifical organs, ..) might also see rapid growth. But it is too early to invest in those. For now it's best to focus on companies that reduce the cost of access to space. Old space companies that are heavily intertwined with nation governments will likely continue to see a decline.
+* **Space**: the increasingly cheaper access to space allows for new business models involving constellations of satellites ranging from communication (internet access, private networks), monitoring of geo conditions, surveillance and research. In the long term manufacturing of speciality goods that take advantage of microgravity (medicine, artificial organs, ..) might also see rapid growth. But it is too early to invest in those. For now it's best to focus on companies that reduce the cost of access to space. Old space companies that are heavily intertwined with nation governments will likely continue to see a decline.
 
 # Algorithmic Trading
 

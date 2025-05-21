@@ -45,10 +45,10 @@ tldr; Typically it's recommended to consume 0.8g protein per kg of bodyweight. H
 * When supplementing creatine how much is recommended?
 	* General rule 3g/day or 0.03g \* body weight in kg
 	* Don't consume with food as the fats may hinder absorption
-	* When taking up creatine, it may make sense to initially have a loading phase with increase creatine intake to fill up the stores faster
+	* When taking up creatine, it may make sense to initially have a loading phase with increased creatine intake to fill up the stores faster
 	* Rec: 20g/day for 5-7days
 	* While loading it may also make sense to increase protein intake to improve absorption
-	* it its important to stay hydrated for the best effect & absorption
+	* it is important to stay hydrated for the best effect & absorption
 * It is helpful to take creatine every day even on rest day since the body can only store so much per day in the muscles and it is useful to fill up stores for when you need them.
 * Creatine goes along with gaining weight because muscles store more water in their cells when supplementing creatine. This water increases weight but since it is neither fat nor muscle tissue it doesn't really matter.
 * Supposedly creatine also helps the brain as the brain is also a big consumer of ATP. There may be several health benefits regarding Alzheimers and similar diseases.

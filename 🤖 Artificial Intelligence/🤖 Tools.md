@@ -43,7 +43,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 ## Conversational Interaction LLMS
 
 * [Chat GPT](https://chat.openai.com/): The leader in conversational AIs. A free version is available but the more advanced model and additional features are a paid service. A lot of other AI products are based on this, respectively the same API that powers ChatGPT so it can be made to do a lot of things if you know how to prompt it right. ChatGPT can be customised with [[💬 ChatGPT|custom prompts]].
-* [Google Bard](https://bard.google.com/): Free conversational LLM from Google. So far (as of May 2023) not available in Europe due to Google fearing EU laws. This can be circumvented by using a VPN to a US server but so far I don't find it better then ChatGPT therefor it's not worth the hassle of using a VPN.
+* [Google Bard](https://bard.google.com/): Free conversational LLM from Google. So far (as of May 2023) not available in Europe due to Google fearing EU laws. This can be circumvented by using a VPN to a US server but so far I don't find it better then ChatGPT therefore it's not worth the hassle of using a VPN.
 * [Bing AI](https://www.bing.com/): Free conversational LLM based on GPT4. Works well and is based on the same advanced model that ChatGPT premium uses. However you can only access it in Edge currently (May 2023).
 * [HeyPi](https://heypi.com/talk): Free conversational LLM by Inflection AI. Supposedly the model is trained in house by them and it is not using any of the other vendors LLM models. It feels very like chatGPT but if it is indeed based on their own original design this is very impressive.
 * [Mixtral](https://neets.ai/chat/mixtral): Mistral based LLM. Free to use without sign-up. Responses are less moderated than with ChatGPT. Mistral can also be run locally.
@@ -53,7 +53,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 # Programming Assistant / AI Pair Programming
 
-* [GitHub Copilot](https://github.com/features/copilot): Can be used as plugin in common IDEs, such as IntelliJ, Visual Studio Code etc. The broadly available version (June 2023) provides mainly helpful suggestions and advanced autocomplete funcationality while coding. Copilot X (currently in BETA) will also be able to do refactoring and have a chat prompt to answer questions.
+* [GitHub Copilot](https://github.com/features/copilot): Can be used as plugin in common IDEs, such as IntelliJ, Visual Studio Code etc. The broadly available version (June 2023) provides mainly helpful suggestions and advanced autocomplete functionality while coding. Copilot X (currently in BETA) will also be able to do refactoring and have a chat prompt to answer questions.
   * Current features & how to use them:
     * Start typing code & autocomplete. Can be only a single line or a whole method block or even class.
     * Ask questions via comments. Type //q: Your question? and you will get a autocomplete with //a: answer on the next line.
@@ -66,7 +66,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 * [KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client): WebUI for text generation model, has a simple installer for windows and can self-download models such as GPT-J and others. Can be used for text-based adventures similar to aiDungeon, novel text generation or universal text generation as well as chat-based answers. Models are quite big, so a good GPU is needed.
   * [Google Colab installation of KoboldAI](https://colab.research.google.com/github/KoboldAI/KoboldAI-Client/blob/main/colab/TPU.ipynb)
-* [FreedomGPT](https://freedomgpt.com/): Somewhat rightwing inspired LLM that can be run locally. I've tested it and it's impressive in the sense that it does indeed work locally and can talk/answer similar to ChatGPT. Afaik it's based on facebooks LAMA. Supposedly it has no filter (as compared to strongly filtered online LLMs) and therefor can give answers to even controversial topics.
+* [FreedomGPT](https://freedomgpt.com/): Somewhat rightwing inspired LLM that can be run locally. I've tested it and it's impressive in the sense that it does indeed work locally and can talk/answer similar to ChatGPT. Afaik it's based on facebooks LAMA. Supposedly it has no filter (as compared to strongly filtered online LLMs) and therefore can give answers to even controversial topics.
 
 # Roleplaying & Gaming
 
@@ -93,7 +93,7 @@ I find AI is genuinely one of the most interesting fields in computing and techn
 
 # News & Search
 
-* [Preplexity.AI](https://www.perplexity.ai/discover): Perplexity AI is a AI search engine offering usage of a variety of commercial models (Open AI, Opus, etc.) to search for things and the summarise the results. They also have a free but very good news aggregation sections ([https://www.perplexity.ai/discover](https://www.perplexity.ai/discover)).
+* [Perplexity.AI](https://www.perplexity.ai/discover): Perplexity AI is a AI search engine offering usage of a variety of commercial models (Open AI, Opus, etc.) to search for things and then summarise the results. They also have a free but very good news aggregation sections ([https://www.perplexity.ai/discover](https://www.perplexity.ai/discover)).
 
 # My custom GPTs
 

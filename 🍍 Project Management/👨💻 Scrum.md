@@ -71,7 +71,7 @@ In a Scrum team the developers are responsible for creating done increments. In 
 
 * Start with a short list of measurable checks, that ideally can be automated.
 * The list should include all necessary work that is required to ship the product increment into production.
-* The DoD needs to be doable by the team. There is little value to adding checks to the DoD that cannot be satisfied by the team. It is therefor better to start with a smaller DoD and expand it rather then make a massive list of checks upfront.
+* The DoD needs to be doable by the team. There is little value to adding checks to the DoD that cannot be satisfied by the team. It is therefore better to start with a smaller DoD and expand it rather then make a massive list of checks upfront.
 
 ## Examples of what could be on a DoD
 

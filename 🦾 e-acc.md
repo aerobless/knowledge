@@ -15,7 +15,7 @@ A continuously growing list of innovative companies that build the future.
 ## [[🤖 Tools|Artificial Intelligence]]
 
 * [Open AI](https://openai.com/): Currently the leader in advanced LLM technology. Offers the products ChatGPT (B2C) and Open AI API (B2B).
-* [Meta](https://about.meta.com/) (Facebook): The leader in open source LLM technology. Offers the free LAMA3 models that can be run on device and fights against the "AI is dangerous" narrative.
+* [Meta](https://about.meta.com/) (Facebook): The leader in open source LLM technology. Offers the free LAMA3 models that can be run on device and fights againstt the "AI is dangerous" narrative.
 * [Stability AI](https://stability.ai/):  The leader in open source generative image models.
 
 ## Biotech & [[🫀 Health|Health]]
@@ -49,5 +49,5 @@ A continuously growing list of innovative companies that build the future.
 
 ## Terrestrial Transportation
 
-* [Waymo](https://waymo.com/): Alphabets autonomous taxi devision. Already usable for everyone in Phoenix and waitlisted/invite-gated in LA, SF and Austin. Fully autonomous - without safety driver in car.
+* [Waymo](https://waymo.com/): Alphabets autonomous taxi division. Already usable for everyone in Phoenix and waitlisted/invite-gated in LA, SF and Austin. Fully autonomous - without safety driver in car.
 * [Tesla](https://www.tesla.com/): Electric vehicles with self-driving capability. Fully self-driving only usable in the US via Beta program.

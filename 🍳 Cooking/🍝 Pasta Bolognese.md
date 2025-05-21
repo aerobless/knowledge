@@ -6,7 +6,7 @@ description: Delicious pasta with truffle oil, optimised for meat alternatives
 * 300g beyond meat or similar minced meat
 * 1 can of Napoletana sauce (Barilla) or similar pelati / unseasoned tomato sauce
   * _in case of unseasoned tomato sauce, add salt and 1 onion_
-* 1/8 tsp smoked paprica powder
+* 1/8 tsp smoked paprika powder
 * 1 tbsp vegetable broth (bouillon)
 * 0.5 - 1 tsp of cayenne pepper
 * dash of cinnamon

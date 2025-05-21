@@ -40,7 +40,7 @@ When there is a draft the model cools off faster at the edges where the draft of
   * [Stadia Controller Wall Mount](https://www.thingiverse.com/thing:4893266), printed on 03.04.2023. Printed without supports at 35% infill with layer height of 1.7mm. Works well, used zip ties instead of screws to attach it to furniture.
 * **Toys**
 	* **"Lego" Bricks**
-	    * [Printable bricks](https://printablebricks.com/): Lego compatible brick models, printed some 4x blocks - they work well but aren't support strong, it's important to be carefull when unsticking them from the print bed otherwise the internal structures may break off.
+	    * [Printable bricks](https://printablebricks.com/): Lego compatible brick models, printed some 4x blocks - they work well but aren't support strong, it's important to be careful when unsticking them from the print bed otherwise the internal structures may break off.
 	    * See also [wayback machine printablebricks.org](https://web.archive.org/web/20190718130413/https://printabrick.org/), contains also whole lego models + instructions
 * **Storage**
 	* **[Cargo Container](https://thangs.com/designer/Play%20Conveyor/3d-model/Cargo%20Containers%20-%20Modular%20Storage-1191155)**: Rail system for wall-mounted cargo containers

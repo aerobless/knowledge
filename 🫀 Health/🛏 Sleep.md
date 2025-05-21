@@ -33,7 +33,7 @@ For a healthy human it should take 12min to fall asleep.
 # Notes
 
 * [7 sleep myths that are making you tired (YouTube: Ali Abdaal)](https://www.youtube.com/watch?v=qlf9-573MhI)
-  * Cycadian rythem -> being awake when there is light, some receptors in the eye are specifically used only to measure light
+  * circadian rhythm -> being awake when there is light, some receptors in the eye are specifically used only to measure light
   * Chronotype -> see test, morning vs. intermediate vs. evening person
   * Do you need 8h sleep? -> No it depends on the person, a healthy amount of sleep can range from 6 - 11h per day
   * Blue light before sleep? -> doesn't seriously affect sleep
