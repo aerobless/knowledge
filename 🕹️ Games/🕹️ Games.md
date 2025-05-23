@@ -13,6 +13,7 @@ Video games are interactive digital experiences that combine storytelling, graph
 - [[2022 - 🐈‍⬛ Stray]]
 - [[2023 - 🧌 Baldur's Gate 3]]
 - [[2023 - 🧙‍♂️ Hogwarts Legacy]]
+- [[2025 - ⚔️ Kingdom Come Deliverance 2]]
 
 %% End Waypoint %%
 I also enjoy playing [[🎮 Virtual Reality|VR Games]].
