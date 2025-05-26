@@ -28,4 +28,6 @@ aliases:
 
 * [Penne alla vodka](https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/SM2022\_DIVE\_18/penne-alla-vodka/)
 * [Crispy Potatoes (tested!)](https://www.youtube.com/shorts/WS713vCV8u0?si=TWQvQdYcgMQJgXsx)
+* [Mais Bomb](https://www.instagram.com/reel/DHtakSXIfEu/) 
+* [Minced Meat Kebab Spike in Oven](https://www.instagram.com/reel/DJt7N-6sCZA/)
 
