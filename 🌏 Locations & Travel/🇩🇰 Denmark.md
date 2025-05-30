@@ -3,7 +3,7 @@ description: Denmark, in Northern Europe, is known for progressive policies, des
 cssclasses:
   - img-grid
   - img-zoom
-location: 56.26392,9.501785
+location: 55.6760968,12.5683372
 ---
 # Copenhagen
 
