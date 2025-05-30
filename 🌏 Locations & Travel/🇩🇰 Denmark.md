@@ -9,7 +9,7 @@ location: 56.26392,9.501785
 
 Copenhagen is a beautiful city with tons of things to see and do. Due to being close to the coast the weather can be a bit unpredictable. In July/early August it's best to always carry a light jacket and umbrella. It also helps to be a bit flexible with planning and just hop into a café or book store when it rains for a bit.
 
-## Nyhavn
+## Nyhavn 
 
 Beautiful harbour canal area with lots of little bars and restaurants. Ideal for taking a photo of the colourful townhouses and just wandering around a bit. This is also the spot where the river cruise boats dock for a quick bit of sightseeing.
 
