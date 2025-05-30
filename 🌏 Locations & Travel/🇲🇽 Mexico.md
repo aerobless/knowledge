@@ -2,6 +2,7 @@
 cssclasses:
   - img-grid
   - img-zoom
+location: 23.634501,-102.552784
 ---
 Mexico is a vibrant country rich in culture, history, and natural beauty, known for its ancient civilizations, colorful festivals, and renowned cuisine. It boasts diverse landscapes ranging from beaches and deserts to mountains and jungles.
 

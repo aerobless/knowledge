@@ -3,6 +3,7 @@ description: Thailand is a Southeast Asian country renowned for its tropical bea
 cssclasses:
   - img-grid
   - img-zoom
+location: 13.7563309,100.5017651
 ---
 # Bangkok
 

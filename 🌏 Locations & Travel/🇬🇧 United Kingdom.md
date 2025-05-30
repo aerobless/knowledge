@@ -3,6 +3,7 @@ description: The United Kingdom, comprising England, Scotland, Wales, and Northe
 cssclasses:
   - img-grid
   - img-zoom
+location: 51.5072178,-0.1275862
 ---
 # Scotland
 

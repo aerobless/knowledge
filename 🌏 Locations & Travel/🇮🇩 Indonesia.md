@@ -3,6 +3,7 @@ description: Indonesia is a diverse archipelago in Southeast Asia, famed for its
 cssclasses:
   - img-grid
   - img-zoom
+location: -8.4095178,115.188916
 ---
 # Bali
 

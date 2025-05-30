@@ -3,6 +3,7 @@ description: Germany, a central European country, is known for its strong econom
 cssclasses:
   - img-grid
   - img-zoom
+location: 51.165691,10.451526
 ---
 # [Phantasialand](https://www.phantasialand.de/en/)
 

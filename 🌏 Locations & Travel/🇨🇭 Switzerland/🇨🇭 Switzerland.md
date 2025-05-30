@@ -3,6 +3,7 @@ cover: https://images.unsplash.com/photo-1504218727796-db522606b16f?crop=entropy
 coverY: 78.4955028618152
 aliases:
   - Switzerland
+location: 46.7985624,8.2319736
 ---
 Switzerland, located in Central Europe, is known for its stunning alpine scenery, world-class financial centers, and renowned for innovations in pharmaceuticals and high-quality chocolate production.
 # Notes

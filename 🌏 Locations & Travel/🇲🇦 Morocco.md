@@ -2,6 +2,7 @@
 cssclasses:
   - img-grid
   - img-zoom
+location: 31.6225224,-7.989825799999999
 ---
 Morocco is a North African country bordered by the Atlantic Ocean and Mediterranean Sea, distinguished by its Berber, Arabian, and European cultural influences. Known for its rich history, Morocco features diverse landscapes ranging from the Sahara Desert to the High Atlas Mountains, alongside bustling markets like those in Marrakesh.
 

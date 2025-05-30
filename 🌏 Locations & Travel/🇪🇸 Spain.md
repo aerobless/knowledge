@@ -3,6 +3,7 @@ description: Spain, in southwestern Europe, is a blend of history, culture, and 
 cssclasses:
   - img-grid
   - img-zoom
+location: 40.41672790000001,-3.7032905
 ---
 # Madrid
 

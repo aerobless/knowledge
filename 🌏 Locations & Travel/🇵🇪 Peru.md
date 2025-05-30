@@ -3,6 +3,7 @@ description: Peru, a country in South America, is renowned for its ancient Incan
 cssclasses:
   - img-grid
   - img-zoom
+location: -9.189967,-75.015152
 ---
 # Notes
 

@@ -3,6 +3,7 @@ description: Sweden, a Scandinavian country in Northern Europe, is recognized fo
 cssclasses:
   - img-grid
   - img-zoom
+location: 55.604981,13.003822
 ---
 # Malmö
 

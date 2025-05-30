@@ -3,6 +3,7 @@ description: Singapore is a city-state in Southeast Asia renowned for its ultra-
 cssclasses:
   - img-grid
   - img-zoom
+location: 1.352083,103.819836
 ---
 # Buddha Tooth Relic Temple
 

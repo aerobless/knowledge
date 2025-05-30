@@ -2,6 +2,7 @@
 cssclasses:
   - img-grid
   - img-zoom
+location: 17.189877,-88.49765
 ---
 Belize is a small Central American country known for its stunning Caribbean coastline, lush rainforests, and the second-largest barrier reef in the world, making it a popular destination for eco-tourism and diving. The nation is culturally diverse, with a rich blend of Mayan, Garifuna, Creole, and Mestizo heritages evident in its languages, cuisine, and traditions.
 

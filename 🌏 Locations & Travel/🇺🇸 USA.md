@@ -3,6 +3,7 @@ description: The United States of America (USA) is a vast federal republic in No
 cssclasses:
   - img-grid
   - img-zoom
+location: 38.7945952,-106.5348379
 ---
 # Chicago
 

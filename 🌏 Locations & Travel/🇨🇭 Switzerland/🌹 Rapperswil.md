@@ -1,6 +1,7 @@
 ---
 cover: https://images.unsplash.com/photo-1616247630026-eb3b45a54e7a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyYXBwZXJzd2lsJTIwY2FzdGxlfGVufDB8fHx8MTY2MDM3NDgzNw&ixlib=rb-1.2.1&q=80
 coverY: 250.34341782502042
+location: 47.2266239,8.818437399999999
 ---
 Rapperswil, situated on the shores of Lake Zurich in Switzerland, is known for its medieval architecture, beautiful rose gardens, and the historic wooden bridge connecting it to Hurden.
 

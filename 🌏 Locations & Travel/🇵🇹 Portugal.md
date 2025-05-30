@@ -3,6 +3,7 @@ description: Portugal, a coastal nation in Southern Europe, is known for its ric
 cssclasses:
   - img-grid
   - img-zoom
+location: 39.39987199999999,-8.224454
 ---
 # Madeira
 

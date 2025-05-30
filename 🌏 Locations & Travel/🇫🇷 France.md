@@ -3,6 +3,7 @@ description: France, a key European nation, is famed for its cultural influence,
 cssclasses:
   - img-grid
   - img-zoom
+location: 48.8575475,2.3513765
 ---
 # Paris
 

@@ -3,6 +3,7 @@ description: Malaysia is a Muslim-majority Southeast Asian country known for its
 cssclasses:
   - img-grid
   - img-zoom
+location: 3.1319197,101.6840589
 ---
 # George Town, Penang
 

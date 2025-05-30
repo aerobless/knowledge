@@ -3,6 +3,7 @@ description: Italy is a European country known for its history, diverse geograph
 cssclasses:
   - img-grid
   - img-zoom
+location: 41.87194,12.56738
 ---
 # Hikes
 

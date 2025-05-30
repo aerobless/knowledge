@@ -1,10 +1,9 @@
 ---
-description: >-
-  Finland is renowned for its breathtaking nature, thousands of lakes, forests,
-  and the Northern Lights.
+description: Finland is renowned for its breathtaking nature, thousands of lakes, forests, and the Northern Lights.
 cssclasses:
   - img-grid
   - img-zoom
+location: 66.50394779999999,25.7293905
 ---
 # Rovaniemi
 

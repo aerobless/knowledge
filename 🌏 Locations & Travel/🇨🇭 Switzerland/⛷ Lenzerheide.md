@@ -1,3 +1,6 @@
+---
+location: 46.7280297,9.5584408
+---
 Lenzerheide, a resort area in Switzerland, is renowned for its picturesque mountain landscapes, offering year-round outdoor activities like skiing, hiking, and mountain biking.
 
 * Combined ski area with Arosa
